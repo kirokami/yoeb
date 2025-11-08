@@ -7,7 +7,7 @@
 
 //3.26 
 
-[Type]=="Orb of Fusing" # [StashItem]  == "true"
+//[Type]=="Orb of Fusing" # [StashItem]  == "true"
 
 //藍圖
 //[Type] == "Blueprint: Bunker" # [StashItem] == "true" //	//藍圖：碉堡
