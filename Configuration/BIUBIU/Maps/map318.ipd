@@ -17,9 +17,9 @@
 
 
 
-[Type] == "Dunes Map" #[RunMap] == "true"
+[Type] == "City Square" #[RunMap] == "true"
 
-[Type] == "Canyon Map" # [RunMap] == "true"
+[Type] == "Promenade" # [RunMap] == "true"
 
 
 
