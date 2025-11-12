@@ -355,7 +355,7 @@
 [Type] == "Unrequited Love" # [StashItem] == "true" //單相思 (鏡碎片*19)
 [Type] == "Winter's Embrace" # [ForceSellItem] == "true" //恐懼戒指卡
 [Type] == "A Chilling Wind" # [ForceSellItem] == "true" //21/20瓦爾霜暴卡
-
+[Type] == "	Demigod's Wager" # [ForceSellItem] == "true" //21/20瓦爾霜暴卡
 
 //[Category] == "Map" && [MapTier] >= "1"  && [Rarity] == "Unique"  #[ForceSellItem] == "true" // //傳奇地圖傳奇地圖不撿，傳奇地圖售出
 
@@ -571,3 +571,13 @@
 [Type] == "Orb of Alchemy" # [StashItem]  == "true" //
 [Type] == "Divine Orb" # [StashItem]  == "true" //
 [Type] == "Mirror of Kalandra" # [StashItem]  == "true" /
+
+[Type] == "Singular Scouting Report" # [StashItem] == "true" //	//卓越偵查報告
+[Type] == "Otherworldly Scouting Report" # [StashItem] == "true" //	//超凡偵查報告
+[Type] == "Influenced Scouting Report" # [StashItem] == "true" //	//勢力偵查報告
+
+[Type] == "Explorer's Scouting Report" # [StashItem] == "true" //	//卓越偵查報告
+[Type] == "Vaal Scouting Report" # [StashItem] == "true" //	//超凡偵查報告
+[Type] == "Delirious Scouting Report" # [StashItem] == "true" //	//勢力偵查報告
+[Type] == "Comprehensive Scouting Report" # [StashItem] == "true" //	//勢力偵查報告
+[Type] == "Blighted Scouting Report" # [StashItem] == "true" //	//勢力偵查報告
