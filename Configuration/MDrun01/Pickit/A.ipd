@@ -53,8 +53,11 @@
 [Type] == "Allflame Ember of Rats" # [StashItem] == "true" //
 [Type] == "Allflame Ember of Anarchy" # [StashItem] == "true" //
 [Type] == "Allflame Ember of The Shaper" # [StashItem] == "true" //
-
-
+[Type] == "Ancient Wombgift" # [StashItem] == "true" //
+[Type] == "Provisioning Wombgift" # [StashItem] == "true" //
+[Type] == "Lavish Wombgift" # [StashItem] == "true" //
+[Type] == "Mysterious Wombgift" # [StashItem] == "true" //
+[Type] == "Growing Wombgift" # [StashItem] == "true" //
 //3.22季初傳送門
 
 [Type] == "Portal" #  [StashItem] == "true"//傳送門
