@@ -581,3 +581,9 @@
 [Type] == "Delirious Scouting Report" # [StashItem] == "true" //	//勢力偵查報告
 [Type] == "Comprehensive Scouting Report" # [StashItem] == "true" //	//勢力偵查報告
 [Type] == "Blighted Scouting Report" # [StashItem] == "true" //	//勢力偵查報告
+[Type] == "Provisioning Wombgift" # [StashItem]  == "true" /
+[Type] == "Lavish Wombgift" # [StashItem]  == "true" /
+[Type] == "Ancient Wombgift" # [StashItem]  == "true" /
+[Type] == "Growing Wombgift" # [StashItem]  == "true" /
+[Type] == "Mysterious Wombgift" # [StashItem]  == "true" /
+
