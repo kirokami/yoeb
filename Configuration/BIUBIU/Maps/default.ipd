@@ -169,3 +169,4 @@
 [map_contains_citadel] >= "1"            # [IgnoreMap] == "true" // Elder Maps
 [map_elder_boss_variation] >= "1"        # [IgnoreMap] == "true" // Guardian Maps
 [map_atlas_influence_type] >= "1"        # [IgnoreMap] == "true" // Guardian Maps
+[map_zana_influence] == "1" # [IgnoreMap] == "true" // Originator Maps
