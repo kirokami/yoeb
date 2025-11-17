@@ -21,13 +21,26 @@
 [Type]=="Dunes Map"#[ExitAfterBossKill]=="true"
 [Type]=="Precinct Map"#[ExitAfterBossKill]=="true"
 
-[Type]=="Synthesised Map"#[IgnoreMap]=="true"
-[Category]=="Map"&&[Rarity]=="Rare"&&[map_contains_citadel]>="1"#[IgnoreMap]=="true"//13855CitadelMaps
-[Category]=="Map"&&[Rarity]=="Rare"&&[map_elder_boss_variation]>="1"#[IgnoreMap]=="true"//6551ElderMaps
-[Category]=="Map"&&[Rarity]=="Rare"&&[map_contains_citadel]>="1"#[IgnoreMap]=="true"//13855CitadelMaps
-[Category]=="Map"&&[Rarity]=="Rare"&&[map_elder_boss_variation]>="1"#[IgnoreMap]=="true"//6551ElderMaps
-
-[Category]=="Map"&&[map_zana_influence]=="1"#[IgnoreMap]=="true"
+[map_zana_influence] == "1" # [IgnoreMap] == "true" // Originator Maps
+[6545]  == "1" # [IgnoreMap] == "true" // Elder influenced maps
+[6545]  == "2" # [IgnoreMap] == "true" // Elder influenced maps
+[6545]  == "3" # [IgnoreMap] == "true" // Elder influenced maps
+[6545]  == "4" # [IgnoreMap] == "true" // Elder influenced maps
+[13840] == "1" # [IgnoreMap] == "true" // Baron maps
+[13840] == "2" # [IgnoreMap] == "true" // Veritania maps
+[13840] == "3" # [IgnoreMap] == "true" // Drox maps
+[13840] == "4" # [IgnoreMap] == "true" // Al-Hezmin maps
+[Type] == "Core" # [IgnoreMap] == "true"
+[Type] == "Core Map" # [IgnoreMap] == "true"
+[Type] == "Ziggurat Map" # [IgnoreMap] == "true"  // T17
+[Type] == "Sanctuary Map" # [IgnoreMap] == "true"   // T17
+[Type] == "Fortress Map" # [IgnoreMap] == "true"  // T17
+[Type] == "Abomination Map" # [IgnoreMap] == "true"  // T17
+[Type] == "Citadel Map" # [IgnoreMap] == "true"  // T17
+[Type] == "Forge of the Phoenix Map" # [IgnoreMap] == "true"  // карты создателя
+[Type] == "Lair of the Hydra Map" # [IgnoreMap] == "true"  // карты создателя
+[Type] == "Maze of the Minotaur Map" # [IgnoreMap] == "true"  // карты создателя
+[Type] == "Pit of the Chimera Map" # [IgnoreMap] == "true"  // карты создателя
 
 [Type]=="Forge of the PhoenixMap"#[IgnoreMap]=="true"//#
 [Type]=="Lair of the Hydra Map"#[IgnoreMap]=="true"//#
