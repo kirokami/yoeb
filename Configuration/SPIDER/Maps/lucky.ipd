@@ -1,0 +1,90 @@
+[Rarity]== "Normal"#[UpgradeToRare]== "true"//
+//[Rarity]== "Magic"#[AugmentIfPossible]== "true"//
+
+[Type]=="Coves Map"&&[Rarity]=="Normal"#[RunMap]=="true"
+[Type]=="Canyon Map"&&[Rarity]=="Normal"#[RunMap]=="true"
+[Type]=="Dunes Map"&&[Rarity]=="Normal"#[RunMap]=="true"
+[Type]=="Precinct Map"&&[Rarity]=="Normal"#[RunMap]=="true"
+
+[Type]=="Coves Map"&&[Rarity]=="Magic"#[RunMap]=="true"
+[Type]=="Canyon Map"&&[Rarity]=="Magic"#[RunMap]=="true"
+[Type]=="Dunes Map"&&[Rarity]=="Magic"#[RunMap]=="true"
+[Type]=="Precinct Map"&&[Rarity]=="Magic"#[RunMap]=="true"
+
+[Type]=="Coves Map"&&[Rarity]=="Rare"#[RunMap]=="true"
+[Type]=="Canyon Map"&&[Rarity]=="Rare"#[RunMap]=="true"
+[Type]=="Dunes Map"&&[Rarity]=="Rare"#[RunMap]=="true"
+[Type]=="Precinct Map"&&[Rarity]=="Rare"#[RunMap]=="true"
+
+[Type]=="Toxic Sewer Map"&&[Rarity]=="Normal"#[RunMap]=="true"
+[Type]=="Shipyard Map"&&[Rarity]=="Normal"#[RunMap]=="true"
+
+
+[Type]=="Toxic Sewer Map"&&[Rarity]=="Magic"#[RunMap]=="true"
+[Type]=="Shipyard Map"&&[Rarity]=="Magic"#[RunMap]=="true"
+
+
+[Type]=="Toxic Sewer Map"&&[Rarity]=="Rare"#[RunMap]=="true"
+[Type]=="Shipyard Map"&&[Rarity]=="Rare"#[RunMap]=="true"
+
+
+[Type]=="Coves Map"#[ExitAfterBossKill]=="true"
+[Type]=="Canyon Map"#[ExitAfterBossKill]=="true"
+[Type]=="Dunes Map"#[ExitAfterBossKill]=="true"
+[Type]=="Precinct Map"#[ExitAfterBossKill]=="true"
+[Type]=="Toxic Sewer Map"#[ExitAfterBossKill]=="true"
+[Type]=="Shipyard Map"#[ExitAfterBossKill]=="true"
+
+
+[map_zana_influence] == "1" # [IgnoreMap] == "true" // Originator Maps
+[6545]  == "1" # [IgnoreMap] == "true" // Elder influenced maps
+[6545]  == "2" # [IgnoreMap] == "true" // Elder influenced maps
+[6545]  == "3" # [IgnoreMap] == "true" // Elder influenced maps
+[6545]  == "4" # [IgnoreMap] == "true" // Elder influenced maps
+[13840] == "1" # [IgnoreMap] == "true" // Baron maps
+[13840] == "2" # [IgnoreMap] == "true" // Veritania maps
+[13840] == "3" # [IgnoreMap] == "true" // Drox maps
+[13840] == "4" # [IgnoreMap] == "true" // Al-Hezmin maps
+[Type] == "Core" # [IgnoreMap] == "true"
+[Type] == "Core Map" # [IgnoreMap] == "true"
+[Type] == "Ziggurat Map" # [IgnoreMap] == "true"  // T17
+[Type] == "Sanctuary Map" # [IgnoreMap] == "true"   // T17
+[Type] == "Fortress Map" # [IgnoreMap] == "true"  // T17
+[Type] == "Abomination Map" # [IgnoreMap] == "true"  // T17
+[Type] == "Citadel Map" # [IgnoreMap] == "true"  // T17
+[Type] == "Forge of the Phoenix Map" # [IgnoreMap] == "true"  // карты создателя
+[Type] == "Lair of the Hydra Map" # [IgnoreMap] == "true"  // карты создателя
+[Type] == "Maze of the Minotaur Map" # [IgnoreMap] == "true"  // карты создателя
+[Type] == "Pit of the Chimera Map" # [IgnoreMap] == "true"  // карты создателя
+
+[Type]=="Forge of the PhoenixMap"#[IgnoreMap]=="true"//#
+[Type]=="Lair of the Hydra Map"#[IgnoreMap]=="true"//#
+[Type]=="Maze of the Minotaur Map"#[IgnoreMap]=="true"//#
+[Type]=="Pit of the Chimera Map"#[IgnoreMap]=="true"//#
+
+[Type]=="Sanctuary"#[IgnoreMap]==true"//
+[Type]=="Citadel"#[IgnoreMap]==true"//
+[Type]=="Fortress"#[IgnoreMap]==true"//
+[Type]=="Abomination"#[IgnoreMap]==true"//
+[Type]=="Ziggurat"#[IgnoreMap]==true"//
+
+[map_monsters_reflect_%_elemental_damage] 	>= "1" && [Rarity] == "Magic" # [RerollMods] == "true" // Mirrored -- Monsters Reflect % Elemental Damage
+[map_monsters_reflect_%_physical_damage] 	>= "1" && [Rarity] == "Magic" # [RerollMods] == "true" // Punishing -- Monsters Reflect % Physical Damage
+[map_players_no_regeneration_including_es] 	>= "1" && [Rarity] == "Magic" # [RerollMods] == "true" // Of Statis -- Players have no Life or Mana Regeneration
+
+// REROLL rare maps with Chaos
+[map_monsters_reflect_%_elemental_damage] 	>= "1" && [Rarity] == "Rare" # [RerollMods] == "true" // Mirrored -- Monsters Reflect % Elemental Damage
+[map_monsters_reflect_%_physical_damage] 	>= "1" && [Rarity] == "Rare" # [RerollMods] == "true" // Punishing -- Monsters Reflect % Physical Damage
+[map_players_no_regeneration_including_es] 	>= "1" && [Rarity] == "Rare" # [RerollMods] == "true" // Of Statis -- Players have no Life or Mana Regeneration
+
+[map_monsters_cannot_be_leeched_from] 	>= "1" && [Rarity] == "Magic" # [RerollMods] == "true" // Cannot Leech
+[map_monsters_cannot_be_leeched_from] 	>= "1" && [Rarity] == "Rare" # [RerollMods]== "true" // Cannot Leech
+
+[map_player_has_level_X_temporal_chains] >= "1" && [Rarity] == "Magic" # [RerollMods] == "true" // Of Temporal Chains -- Players are cursed with Temporal Chains
+[map_player_has_level_X_temporal_chains] >= "1" && [Rarity] == "Rare" # [RerollMods] == "true" // Of Temporal Chains -- Players are cursed with Temporal Chains
+
+
+[map_monsters_steal_charges] >= "1" && [Rarity] == "Magic" #    [RerollMods] == "true" //
+[map_monsters_steal_charges] >= "1" && [Rarity] == "Rare" #   [RerollMods] == "true" //
+
+
