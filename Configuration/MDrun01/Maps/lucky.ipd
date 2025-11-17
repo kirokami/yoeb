@@ -16,10 +16,25 @@
 [Type]=="Dunes Map"&&[Rarity]=="Rare"#[RunMap]=="true"
 [Type]=="Precinct Map"&&[Rarity]=="Rare"#[RunMap]=="true"
 
+[Type]=="Toxic Sewer Map"&&[Rarity]=="Normal"#[RunMap]=="true"
+[Type]=="Shipyard Map"&&[Rarity]=="Normal"#[RunMap]=="true"
+
+
+[Type]=="Toxic Sewer Map"&&[Rarity]=="Magic"#[RunMap]=="true"
+[Type]=="Shipyard Map"&&[Rarity]=="Magic"#[RunMap]=="true"
+
+
+[Type]=="Toxic Sewer Map"&&[Rarity]=="Rare"#[RunMap]=="true"
+[Type]=="Shipyard Map"&&[Rarity]=="Rare"#[RunMap]=="true"
+
+
 [Type]=="Coves Map"#[ExitAfterBossKill]=="true"
 [Type]=="Canyon Map"#[ExitAfterBossKill]=="true"
 [Type]=="Dunes Map"#[ExitAfterBossKill]=="true"
 [Type]=="Precinct Map"#[ExitAfterBossKill]=="true"
+[Type]=="Toxic Sewer Map"#[ExitAfterBossKill]=="true"
+[Type]=="Shipyard Map"#[ExitAfterBossKill]=="true"
+
 
 [map_zana_influence] == "1" # [IgnoreMap] == "true" // Originator Maps
 [6545]  == "1" # [IgnoreMap] == "true" // Elder influenced maps
