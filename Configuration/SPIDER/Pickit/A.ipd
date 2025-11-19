@@ -216,7 +216,7 @@
 [Type] == "Mirror Shard"# [StashItem] == "true"////
 [Type] == "Ancient Shard"# [StashItem] == "true"////
 [Type] == "Exalted Shard"# [StashItem] == "true"////
-
+[Type] == "Orb of Alchemy"# [StashItem] == "true"////
 [Type] == "Orb of Annulment"# [StashItem] == "true"////
 [Type] == "Gemcutter's Prism"# [StashItem] == "true"////
 [Type] == "Awakened Sextant" # [StashItem] == "true"////
