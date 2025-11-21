@@ -4,7 +4,7 @@
 	[MapTier]>= "1" && [MapTier] <= "16"#[RunMap]== "true"//執行輿圖			//這橫行請勿更動																					
 	[Rarity]== "Normal"#[UpgradeToMagic]== "true"//使用蛻變石			//使用蛻變	不//使用蛻變																				
 //	[Rarity]== "Magic"#[AugmentIfPossible]== "true"//使用增幅石			//使用增幅	不//使用增幅																				
-	[Rarity]== "Normal"#[UpgradeToRare]== "true"//使用點金石			//使用點金	不//使用點金	
+//	[Rarity]== "Normal"#[UpgradeToRare]== "true"//使用點金石			//使用點金	不//使用點金	
 
 //[Type] == "City Square Map"&& [MapTier]>= "1" && [MapTier] <= "16" && [Rarity] == "Rare" # [IgnoreMap]== "true" // 金圖全部不打
 // [Type]!="Crimson Temple Map" && [MapTier]>= "1" && [MapTier] <= "16" && [Rarity] == "Rare" # [IgnoreMap]== "true" // 金圖全部不打
@@ -13,40 +13,61 @@
 	[map_elder_boss_variation] >= "1"        # [IgnoreMap] == "true" // Guardian Maps
 	[map_atlas_influence_type] >= "1"        # [IgnoreMap] == "true" // Guardian Maps
 	
-[MapTier] >= "1" && [MapTier] <= "16" # [RunMap] == "true"
+//[MapTier] >= "1" && [MapTier] <= "16" # [RunMap] == "true"
 
 
 
-[Type] == "City Square Map" #[RunMap] == "true"
-[Type] == "Toxic Sewer Map" #[RunMap] == "true"
-[Type] == "Crimson Temple Map" # [RunMap]=="true"
-[Type] == "Sulphur Vents Map" # [RunMap]=="true"
-[Type] == "Canyon Map" # [RunMap] == "true"
-[Type] == "Arcade Map" # [RunMap] == "true"
-[Type] == "Cemetery Map" # [RunMap] == "true"
-[Type] == "Leyline Map" # [RunMap] == "true"
-[Type] == "Grotto Map" # [RunMap] == "true"
-[Type] == "Strand Map" # [RunMap] == "true"
-[Type] == "Bog Map" # [RunMap] == "true"
-[Type] == "Maze Map" # [RunMap] == "true" // 冥神之域
-[Type] == "Shore Map" # [RunMap] == "true" // 墓光海灘
-[Type] == "Dry Sea Map" # [RunMap] == "true" // 乾海
+[Type]=="Coves Map"&&[Rarity]=="Normal"#[RunMap]=="true"
+[Type]=="Canyon Map"&&[Rarity]=="Normal"#[RunMap]=="true"
+[Type]=="Dunes Map"&&[Rarity]=="Normal"#[RunMap]=="true"
+[Type]=="Precinct Map"&&[Rarity]=="Normal"#[RunMap]=="true"
+
+[Type]=="Coves Map"&&[Rarity]=="Magic"#[RunMap]=="true"
+[Type]=="Canyon Map"&&[Rarity]=="Magic"#[RunMap]=="true"
+[Type]=="Dunes Map"&&[Rarity]=="Magic"#[RunMap]=="true"
+[Type]=="Precinct Map"&&[Rarity]=="Magic"#[RunMap]=="true"
+
+[Type]=="Coves Map"&&[Rarity]=="Rare"#[RunMap]=="true"
+[Type]=="Canyon Map"&&[Rarity]=="Rare"#[RunMap]=="true"
+[Type]=="Dunes Map"&&[Rarity]=="Rare"#[RunMap]=="true"
+[Type]=="Precinct Map"&&[Rarity]=="Rare"#[RunMap]=="true"
+
+[Type]=="Toxic Sewer Map"&&[Rarity]=="Normal"#[RunMap]=="true"
+[Type]=="Shipyard Map"&&[Rarity]=="Normal"#[RunMap]=="true"
+
+
+[Type]=="Toxic Sewer Map"&&[Rarity]=="Magic"#[RunMap]=="true"
+[Type]=="Shipyard Map"&&[Rarity]=="Magic"#[RunMap]=="true"
+
+
+[Type]=="Toxic Sewer Map"&&[Rarity]=="Rare"#[RunMap]=="true"
+[Type]=="Shipyard Map"&&[Rarity]=="Rare"#[RunMap]=="true"
+
+[Type]=="Mud Geyser Map"&&[Rarity]=="Normal"#[RunMap]=="true"
+[Type]=="Defiled Cathedral Map"&&[Rarity]=="Normal"#[RunMap]=="true"
+
+
+[Type]=="Mud Geyser Map"&&[Rarity]=="Magic"#[RunMap]=="true"
+[Type]=="Defiled Cathedral Map"&&[Rarity]=="Magic"#[RunMap]=="true"
+
+
+[Type]=="Mud Geyser Map"&&[Rarity]=="Rare"#[RunMap]=="true"
+[Type]=="Defiled Cathedral Map"&&[Rarity]=="Rare"#[RunMap]=="true"
+
+
+[Type]=="Coves Map"#[ExitAfterBossKill]=="true"
+[Type]=="Canyon Map"#[ExitAfterBossKill]=="true"
+[Type]=="Dunes Map"#[ExitAfterBossKill]=="true"
+[Type]=="Precinct Map"#[ExitAfterBossKill]=="true"
+[Type]=="Toxic Sewer Map"#[ExitAfterBossKill]=="true"
+[Type]=="Shipyard Map"#[ExitAfterBossKill]=="true"
+[Type]=="Mud Geyser Map"#[ExitAfterBossKill]=="true"
 
 
 
 
 //[Type] == "City Square Map" # [ExitAfterBossKill] == "true" //危城廣場
-[Type] == "Toxic Sewer Map" # [ExitAfterBossKill] == "true"
-[Type]=="Crimson Temple Map" # [ExitAfterBossKill] == "true"
-[Type]=="Sulphur Vents Map" # [ExitAfterBossKill] == "true"
-[Type] == "Canyon Map" # [ExitAfterBossKill] == "true"
-[Type] == "Arcade Map" # [ExitAfterBossKill] == "true"
-[Type]=="Cemetery Map" # [ExitAfterBossKill] == "true"
-[Type]=="Leyline Map" # [ExitAfterBossKill] == "true"
-[Type]=="Grotto Map" # [ExitAfterBossKill] == "true"
-[Type]=="Strand Map" # [ExitAfterBossKill] == "true"
-[Type] == "Shore Map" # [ExitAfterBossKill] == "true" // 墓光海灘
-[Type] == "Dry Sea Map" # [ExitAfterBossKill] == "true" // 乾海
+
 
 																		
 																									
@@ -90,52 +111,21 @@
 	[Type]== "Temple Map"&& [Rarity] == "Unique"#[IgnoreMap]== "true"//																								
 																									
 	//3.17 討厭的詞綴避開 重骰 （務必兩個、兩個一起改）																								
-	[map_monsters_reflect_%_elemental_damage] >= "1" && [Rarity] == "Magic" #	[RerollMods]	=="true"	//怪物反射_%_元素傷害	避開//怪物反射_%_元素傷害的圖，用改造或C去骰																				
-	[map_monsters_reflect_%_elemental_damage] >= "1" && [Rarity] == "Rare" #	[RerollMods]	=="true"	//怪物反射_%_元素傷害	避開//怪物反射_%_元素傷害的圖，用改造或C去骰	
+[map_monsters_reflect_%_elemental_damage] >= "1" && [Rarity] == "Magic" #  [RerollMods] == "true" //
+[map_monsters_reflect_%_elemental_damage] >= "1" && [Rarity] == "Rare" #  [RerollMods] == "true" //
+[map_monsters_reflect_%_physical_damage]>= "1" && [Rarity] == "Magic" #  [RerollMods] == "true" //
+[map_monsters_reflect_%_physical_damage]>= "1" && [Rarity] == "Rare" #  [RerollMods] == "true" //
+[map_players_no_regeneration_including_es]>= "1" && [Rarity] == "Magic" #  [RerollMods] == "true" //
+[map_players_no_regeneration_including_es]>= "1" && [Rarity] == "Rare" #  [RerollMods] == "true" //
 
-	[map_monsters_reflect_%_physical_damage]>= "1" && [Rarity] == "Magic" #	[RerollMods]	=="true"	//怪物反射_%_物理傷害	避開//怪物反射_%_物理傷害的圖，用改造或C去骰																				
-	[map_monsters_reflect_%_physical_damage]>= "1" && [Rarity] == "Rare" #	[RerollMods]	=="true"	//怪物反射_%_物理傷害	避開//怪物反射_%_物理傷害的圖，用改造或C去骰				
+[map_monsters_reflect_%_physical_damage]>= "1" && [Rarity] == "Magic" #  [RerollMods] == "true" //
+[map_monsters_reflect_%_physical_damage]>= "1" && [Rarity] == "Rare" #  [RerollMods] == "true" //
+[map_players_no_regeneration_including_es]>= "1" && [Rarity] == "Magic" #  [RerollMods] == "true" //
+[map_players_no_regeneration_including_es]>= "1" && [Rarity] == "Rare" #  [RerollMods] == "true" //
 
-	[map_players_no_regeneration_including_es]>= "1" && [Rarity] == "Magic" #	[RerollMods]	=="true"	//玩家無法回復生命、魔力和能量護盾	避開//玩家無法回復生命、魔力和能量護盾的圖，用改造或C去骰																				
-	[map_players_no_regeneration_including_es]>= "1" && [Rarity] == "Rare" #	[RerollMods]	=="true"	//玩家無法回復生命、魔力和能量護盾	避開//玩家無法回復生命、魔力和能量護盾的圖，用改造或C去骰		
+[map_monsters_cannot_be_leeched_from] > "0" && [Rarity] == "Magic" #   [RerollMods] == "true" //
+[map_monsters_cannot_be_leeched_from]  > "0" && [Rarity] == "Rare" #   [RerollMods] == "true" //
 
-	[map_player_has_level_X_temporal_chains]>= "1" && [Rarity]="Magic" #	[RerollMods]	=="true"	//玩家受到時空鎖鍊詛咒影響	避開//玩家受到時空鎖鍊詛咒影響的圖，用改造或C去骰																				
-//	[map_player_has_level_X_temporal_chains]>= "1" && [Rarity]="Rare" #	[RerollMods]	=="true"	//玩家受到時空鎖鍊詛咒影響	我不怕這個										
-
-//	[map_player_has_level_X_vulnerability]>= "1" && [Rarity]="Magic" #	[RerollMods]	=="true"	//玩家受到脆弱詛咒	避開//玩家受到脆弱詛咒的圖，用改造或C去骰																				
-//	[map_player_has_level_X_vulnerability]>= "1" && [Rarity]="Rare" #	[RerollMods]	=="true"	//玩家受到脆弱詛咒	避開//玩家受到脆弱詛咒的圖，用改造或C去骰				
-
-//	[map_player_has_level_X_enfeeble]>= "1" && [Rarity]="Magic" #	[RerollMods]	=="true"	//玩家受到衰弱詛咒影響	我不怕這個																				
-//	[map_player_has_level_X_enfeeble]>= "1" && [Rarity]="Rare" #	[RerollMods]	=="true"	//玩家受到衰弱詛咒影響	我不怕這個													
-
-//	[map_player_has_level_X_elemental_weakness]>= "1" && [Rarity]="Magic" #	[RerollMods]	=="true"	//玩家受到元素要害詛咒影響	避開//玩家受到元素要害詛咒影響的圖，用改造或C去骰																				
-//	[map_player_has_level_X_elemental_weakness]>= "1" && [Rarity]="Rare" #	[RerollMods]	=="true"	//玩家受到元素要害詛咒影響	避開//玩家受到元素要害詛咒影響的圖，用改造或C去骰
-
-//	[map_rare_monsters_have_nemesis_mod]>= "1" && [Rarity]="Magic" #	[RerollMods]	=="true"	//稀有怪有復仇屬性	我不怕這個																				
-//	[map_rare_monsters_have_nemesis_mod]>= "1" && [Rarity]="Rare" #	[RerollMods]	=="true"	//稀有怪有復仇屬性	我不怕這個		
-
-//	[map_base_ground_fire_damage_to_deal_per_minute]>= "1" && [Rarity]="Magic" #	[RerollMods]	=="true"	//地圖裡有燃燒地面	避開//地圖裡有燃燒地面的圖，用改造或C去骰																				
-//	[map_base_ground_fire_damage_to_deal_per_minute]>= "1" && [Rarity]="Rare" #	[RerollMods]	=="true"	//地圖裡有燃燒地面	避開//地圖裡有燃燒地面的圖，用改造或C去骰																				
-//	[map_ground_ice]>= "1" && [Rarity]="Magic" #	[RerollMods]	=="true"	//地圖裡有冰緩地面	避開//地圖裡有冰緩地面的圖，用改造或C去骰																				
-//	[map_ground_ice]>= "1" && [Rarity]="Rare" #	[RerollMods]	=="true"	//地圖裡有冰緩地面	我不怕這個																				
-//	[map_ground_lightning]>= "1" && [Rarity]="Magic" #	[RerollMods]	=="true"	//地圖裡有感電地面	避開//地圖裡有感電地面的圖，用改造或C去骰																				
-//	[map_ground_lightning]>= "1" && [Rarity]="Rare" #	[RerollMods]	=="true"	//地圖裡有感電地面	我不怕這個																				
-//	[map_base_ground_desecration_damage_to_deal_per_minute] >= "1" && [Rarity] == "Magic" #	[RerollMods]	=="true"	//汙染地面	避開//汙染地面的圖，用改造或C去骰																				
-//	[map_base_ground_desecration_damage_to_deal_per_minute] >= "1" && [Rarity] == "Rare" #	[RerollMods]	=="true"	//汙染地面	我不怕這個																				
-//	[map_players_block_chance_+%] < "0" && [Rarity] == "Magic" #	[RerollMods]	=="true"	//降低格檔	我不怕這個																				
-//	[map_players_block_chance_+%] < "0" && [Rarity] == "Rare" #	[RerollMods]	=="true"	//降低格檔	我不怕這個																				
-//	[map_player_has_level_X_vulnerability] >= "1" && [Rarity] == "Magic" #	[RerollMods]	=="true"	//脆弱詛咒	避開//脆弱詛咒的圖，用改造或C去骰																				
-//	[map_player_has_level_X_vulnerability] >= "1" && [Rarity] == "Rare" #	[RerollMods]	=="true"	//脆弱詛咒	我不怕這個																				
-	[map_monsters_life_leech_resistance_%] >= "1" && [Rarity] == "Magic" #	[RerollMods]	=="true"	//無法偷取	避開//無法偷取的圖，用改造或C去骰																				
-	[map_monsters_life_leech_resistance_%] >= "1" && [Rarity] == "Rare" #	[RerollMods]	=="true"	//無法偷取	避開//無法偷取的圖，用改造或C去骰																				
-//	[map_monsters_avoid_ailments_%] >= "1" && [Rarity] == "Magic" #	[RerollMods]	=="true"	//地圖怪物避免元素異常狀態	我不怕這個																				
-//	[map_monsters_avoid_ailments_%] >= "1" && [Rarity] == "Rare #	[RerollMods]	=="true"	//地圖怪物避免元素異常狀態	我不怕這個																				
-//	[map_additional_player_maximum_resistances_%] < "0" && [Rarity] == "Magic" #	[RerollMods]	=="true"	//降低最大抗	避開//降低最大抗的圖，用改造或C去骰																				
-//	[map_additional_player_maximum_resistances_%] < "0" && [Rarity] == "Rare" #	[RerollMods]	=="true"	//降低最大抗	避開//降低最大抗的圖，用改造或C去骰																				
-	
-	 [map_monsters_cannot_be_leeched_from] >= "1" && [Rarity] == "Magic" # [RerollMods] =="true" //無法偷取 避開//無法偷取的圖，用改造或C去骰                    
-	[map_monsters_cannot_be_leeched_from] >= "1" && [Rarity] == "Rare" # [RerollMods] =="true" //無法偷取 避開//無法偷取的圖，用改造或C去骰
- 
 //	[map_monsters_steal_charges] >= "1" && [Rarity] == "Magic" #  [RerollMods]  =="true"            //被怪偷球
 //	[map_monsters_steal_charges] >= "1" && [Rarity] == "Rare" #  [RerollMods]  =="true"             //被怪偷球
 	
