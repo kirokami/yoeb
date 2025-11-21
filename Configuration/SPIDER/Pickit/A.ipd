@@ -197,11 +197,17 @@
 
 //[Type] == "Forbidden Tome" # [StashItem] == "true" // 
 
-[Type] == "Singular Scouting Report" # [StashItem] == "true" //	//
-[Type] == "Otherworldly Scouting Report" # [StashItem] == "true" //	//
-[Type] == "Influenced Scouting Report" # [StashItem] == "true" //	//
+[Type] == "Singular Scouting Report" # [StashItem] == "true" //	//卓越偵查報告
+[Type] == "Otherworldly Scouting Report" # [StashItem] == "true" //	//超凡偵查報告
+[Type] == "Influenced Scouting Report" # [StashItem] == "true" //	//勢力偵查報告
+[Type] == "Comprehensive Scouting Report" # [StashItem] == "true" //	//卓越偵查報告
+[Type] == "Blighted Scouting Report" # [StashItem] == "true" //	//超凡偵查報告
+[Type] == "Explorer's Scouting Report" # [StashItem] == "true" //	//勢力偵查報告
+[Type] == "Vaal Scouting Report" # [StashItem] == "true" //	//超凡偵查報告
+[Type] == "Delirious Scouting Report" # [StashItem] == "true" //	//勢力偵查報告
+[Type] == "Otherworldly Scouting Report" # [StashItem] == "true" //	//勢力偵查報告
 
-//[Type] =="Polaric Invitation" #[StashItem] == "true" ////
+[Type] =="Polaric Invitation" #[ForceSellItem] == "true" ////
 //[Type] =="Writhing Invitation" #[StashItem] == "true" ////
 
 
