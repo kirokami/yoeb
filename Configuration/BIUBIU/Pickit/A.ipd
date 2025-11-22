@@ -207,8 +207,8 @@
 [Type] == "Delirious Scouting Report" # [StashItem] == "true" //	//勢力偵查報告
 [Type] == "Otherworldly Scouting Report" # [StashItem] == "true" //	//勢力偵查報告
 
-//[Type] =="Polaric Invitation" #[StashItem] == "true" ////
-//[Type] =="Writhing Invitation" #[StashItem] == "true" ////
+[Type] =="Polaric Invitation" #[StashItem] == "true" ////
+[Type] =="Writhing Invitation" #[StashItem] == "true" ////
 
 
 ////
