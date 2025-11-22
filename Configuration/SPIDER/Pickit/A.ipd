@@ -1,8 +1,8 @@
-//[Type] == "Provisioning Wombgift" # [StashItem] == "true" 
-//[Type] == "Lavish Wombgift" # [StashItem] == "true" 
-//[Type] == "Ancient Wombgift" # [StashItem] == "true" 
-//[Type] == "Growing Wombgift" # [StashItem] == "true" 
-//[Type] == "Mysterious Wombgift" # [StashItem] == "true" 
+[Type] == "Provisioning Wombgift" # [StashItem] == "true" 
+[Type] == "Lavish Wombgift" # [StashItem] == "true" 
+[Type] == "Ancient Wombgift" # [StashItem] == "true" 
+[Type] == "Growing Wombgift" # [StashItem] == "true" 
+[Type] == "Mysterious Wombgift" # [StashItem] == "true" 
 
 //
 //[Type] == "Blueprint: Bunker" # [StashItem] == "true" 
@@ -101,8 +101,8 @@
 
 [Category] == "Map" # [StashItem] == "true" 
 
-//[Category] == "Map" && [MapTier] <= "10" # [ForceSellItem] == "true" 
-//[Category] == "Map" && [MapTier] <= "5" # [ForceSellItem] == "true" 
+[Category] == "Map" && [MapTier] <= "15" # [ForceSellItem] == "true" 
+
 
 //
 [Type] == "Coves Map" && [MapTier] <= "13" # [ForceSellItem] == "true" 
