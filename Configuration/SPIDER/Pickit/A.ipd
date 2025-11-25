@@ -214,9 +214,9 @@
 //[Type] =="Polaric Invitation" #[StashItem] == "true" ////
 //[Type] =="Writhing Invitation" #[StashItem] == "true" ////
 
-
+[Type] == "The Tireless Extractor" # [StashItem] == "true"// 
 ////
-//[Type] == "Orb of Alchemy" # [StashItem] == "true" //	//
+[Type] == "Orb of Alchemy" # [StashItem] == "true" //	//
 [Type] == "Vaal Orb" # [StashItem] == "true" //	//
 [Type] == "Chaos Orb" # [StashItem] == "true"////
 [Type] == "Divine Orb" # [StashItem] == "true"////
