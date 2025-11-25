@@ -194,8 +194,8 @@
 [Type] == "Orb of Alteration" # [StashItem] == "true"////
 //[Type] == "Orb of Regret"# [StashItem] == "true"////
 //[Type] == "Orb of Unmaking"# [StashItem] == "true"////
-[Type] == "Enkindling Orb"# [StashItem] == "true"////
-[Type] == "Instilling Orb" # [StashItem] == "true" //	//
+//[Type] == "Enkindling Orb"# [StashItem] == "true"////
+//[Type] == "Instilling Orb" # [StashItem] == "true" //	//
 //[Type] == "Orb of Scouring"# [StashItem] == "true"////
 //[Type] == "Regal Orb" # [StashItem] == "true"////
 //[Type] == "Orb of Horizons"# [StashItem] == "true"////
@@ -216,8 +216,8 @@
 
 
 ////
-//[Type] == "Orb of Alchemy" # [StashItem] == "true" //	//
-[Type] == "Vaal Orb" # [StashItem] == "true" //	//
+[Type] == "Orb of Alchemy" # [StashItem] == "true" //	//
+//[Type] == "Vaal Orb" # [StashItem] == "true" //	//
 [Type] == "Chaos Orb" # [StashItem] == "true"////
 [Type] == "Divine Orb" # [StashItem] == "true"////
 [Type] == "Exalted Orb" # [StashItem] == "true"////
@@ -249,7 +249,7 @@
 
 
 //ninja 3.27
-
+[Type] == "The Tireless Extractor" # [StashItem] == "true"// 
 [Type] == "Fire Of Unknown Origin" # [StashItem] == "true"// 
 [Type] == "The Fortunate" # [StashItem] == "true"// 
 [Type]=="House of Mirrors" # [StashItem] == "true" //

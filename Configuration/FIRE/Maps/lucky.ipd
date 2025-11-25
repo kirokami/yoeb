@@ -1,4 +1,4 @@
-//[Rarity]== "Normal"#[UpgradeToRare]== "true"//
+[Rarity]== "Normal"#[UpgradeToRare]== "true"//
 //[Rarity]== "Magic"#[AugmentIfPossible]== "true"//
 
 [Type]=="Coves Map"&&[Rarity]=="Normal"#[RunMap]=="true"
@@ -92,12 +92,12 @@
 
 [map_players_no_regeneration_including_es] 	>= "1" && [Rarity] == "Rare" # [RerollMods] == "true" // Of Statis -- Players have no Life or Mana Regeneration
 
-[map_monsters_cannot_be_leeched_from] >= "1" && [Rarity] == "Magic" # [RerollMods] == "true" // Of Congealment -- Cannot Leech Life/Mana From Monsters
-[map_monsters_cannot_be_leeched_from] >= "1" && [Rarity] == "Rare" # [RerollMods] == "true" // Of Congealment -- Cannot Leech Life/Mana From Monsters
+//[map_monsters_cannot_be_leeched_from] >= "1" && [Rarity] == "Magic" # [RerollMods] == "true" // Of Congealment -- Cannot Leech Life/Mana From Monsters
+//[map_monsters_cannot_be_leeched_from] >= "1" && [Rarity] == "Rare" # [RerollMods] == "true" // Of Congealment -- Cannot Leech Life/Mana From Monsters
 [map_player_has_level_X_temporal_chains] >= "1" && [Rarity] == "Magic" # [RerollMods] == "true" // Of Temporal Chains -- Players are cursed with Temporal Chains
 [map_player_has_level_X_temporal_chains] >= "1" && [Rarity] == "Rare" # [RerollMods] == "true" // Of Temporal Chains -- Players are cursed with Temporal Chains
 
-
-
+[map_monsters_avoid_ailments_%] >= "1" && [Rarity] == "Rare" # [RerollMods] == "true" //
+[map_monsters_avoid_ailments_%] >= "1" && [Rarity] == "Magic" # [RerollMods] == "true" //
 
 
