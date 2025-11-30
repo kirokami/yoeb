@@ -43,7 +43,9 @@
 [Type] == "Maata's Teaching Karui Sceptre" && [Rarity] == "Unique" # [UniqueName] == "" && [StashItem] == "true"	
 [Type] == "Ezomyte Staff" && [Rarity] == "Unique" # [UniqueName] == "The Fulcrum" && [StashItem] == "true"
 [Type] == "Engraved Greatsword" && [Rarity] == "Unique" # [UniqueName] == "Rakiata's Dance" && [StashItem] == "true"
-
+[Type] == "Shipyard Map" && [Rarity] == "Magic" # [ForceSellItem] == "true" //
+[Type] == "Shipyard Map" && [Rarity] == "Normal" # [ForceSellItem] == "true" //
+[Type] == "Toxic Sewer Map" && [Rarity] == "Magic" # [ForceSellItem] == "true" //
 //3.22
 //[Type] == "Necromancer Silks" && [Rarity] == "Unique" # [UniqueName] == "Fleshcrafter" && [StashItem] == "true"  
 //[Type] == "Sadist Garb" && [Rarity] == "Unique" #  [UniqueName] == "Inpulsa's Broken Heart" && [StashItem] == "true" 
@@ -191,11 +193,11 @@
 
 ////
 
-[Type] == "Orb of Alteration" # [StashItem] == "true"////
+//[Type] == "Orb of Alteration" # [StashItem] == "true"////
 //[Type] == "Orb of Regret"# [StashItem] == "true"////
 //[Type] == "Orb of Unmaking"# [StashItem] == "true"////
-[Type] == "Enkindling Orb"# [StashItem] == "true"////
-[Type] == "Instilling Orb" # [StashItem] == "true" //	//
+//[Type] == "Enkindling Orb"# [StashItem] == "true"////
+//[Type] == "Instilling Orb" # [StashItem] == "true" //	//
 //[Type] == "Orb of Scouring"# [StashItem] == "true"////
 //[Type] == "Regal Orb" # [StashItem] == "true"////
 //[Type] == "Orb of Horizons"# [StashItem] == "true"////
@@ -203,7 +205,7 @@
 //[Type] == "Blacksmith's Whetstone" # [StashItem] == "true" //	//
 //[Type] == "Armourer's Scrap" # [StashItem] == "true" //	//
 [Type] == "Glassblower's Bauble" # [StashItem] == "true" //	//
-[Type] == "Blessed Orb" # [StashItem] == "true" //	//
+//[Type] == "Blessed Orb" # [StashItem] == "true" //	//
 
 //[Type] == "Forbidden Tome" # [StashItem] == "true" // 
 
