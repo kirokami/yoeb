@@ -1,4 +1,4 @@
-//[Rarity]== "Normal"#[UpgradeToRare]== "true"//
+[Rarity]== "Normal"#[UpgradeToRare]== "true"//
 //[Rarity]== "Magic"#[AugmentIfPossible]== "true"//
 
 [Type]=="Coves Map"&&[Rarity]=="Normal"#[RunMap]=="true"
