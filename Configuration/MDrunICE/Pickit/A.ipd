@@ -45,7 +45,7 @@
 [Type] == "Engraved Greatsword" && [Rarity] == "Unique" # [UniqueName] == "Rakiata's Dance" && [StashItem] == "true"
 [Type] == "Shipyard Map" && [Rarity] == "Magic" # [ForceSellItem] == "true" //
 [Type] == "Shipyard Map" && [Rarity] == "Normal" # [ForceSellItem] == "true" //
-[Type] == "Toxic Sewer Map" && [Rarity] == "Magic" # [ForceSellItem] == "true" //
+
 //3.22
 //[Type] == "Necromancer Silks" && [Rarity] == "Unique" # [UniqueName] == "Fleshcrafter" && [StashItem] == "true"  
 //[Type] == "Sadist Garb" && [Rarity] == "Unique" #  [UniqueName] == "Inpulsa's Broken Heart" && [StashItem] == "true" 
@@ -379,35 +379,8 @@
 ////
 //
 //3.27 
-[Type] == "Ambush Scarab of Containment" # [ForceSellItem] == "true" //
-[Type] == "Ultimatum Scarab of Catalysing" # [ForceSellItem] == "true" //
-[Type] == "Horned Scarab of Preservation" # [ForceSellItem] == "true" //
-[Type] == "Horned Scarab of Pandemonium" # [ForceSellItem] == "true" //
-[Type] == "Horned Scarab of Awakening" # [ForceSellItem] == "true" //
-[Type] == "Horned Scarab of Bloodlines" # [ForceSellItem] == "true" //
-[Type] == "Blight Scarab of Invigoration" # [ForceSellItem] == "true" //
-[Type] == "Domination Scarab of Terrors" # [ForceSellItem] == "true" //
-[Type] == "Essence Scarab of Calcification" # [ForceSellItem] == "true" //
-[Type] == "Cartography Scarab of Risk" # [ForceSellItem] == "true" //
-[Type] == "Harvest Scarab of Cornucopia" # [ForceSellItem] == "true" //
-[Type] == "Essence Scarab of Adaptation" # [ForceSellItem] == "true" //
-[Type] == "Harbinger Scarab of Regency" # [ForceSellItem] == "true" //
-[Type] == "Breach Scarab of Snares" # [ForceSellItem] == "true" //
-[Type] == "Ambush Scarab of Discernment" # [ForceSellItem] == "true" //
-[Type] == "Ritual Scarab of Abundance" # [ForceSellItem] == "true" //
-[Type] == "Blight Scarab of Blooming" # [ForceSellItem] == "true" //
-[Type] == "Incursion Scarab of Timelines" # [ForceSellItem] == "true" //
-[Type] == "Harbinger Scarab of Warhoards" # [ForceSellItem] == "true" //
-[Type] == "Divination Scarab of The Cloister" # [ForceSellItem] == "true" //
-[Type] == "Divination Scarab of Pilfering" # [ForceSellItem] == "true" //
-[Type] == "Ultimatum Scarab of Dueling" # [ForceSellItem] == "true" //
-[Type] == "Kalguuran Scarab of Refinement" # [ForceSellItem] == "true" //
-[Type] == "Harvest Scarab of Doubling" # [ForceSellItem] == "true" //
-[Type] == "Ultimatum Scarab of Bribing" # [ForceSellItem] == "true" //
-[Type] == "Ultimatum Scarab of Inscription" # [ForceSellItem] == "true" //
-[Type] == "Essence Scarab of Adaptation" # [ForceSellItem] == "true" //
-[Type] == "Horned Scarab of Glittering" # [ForceSellItem] == "true" //
-[Type] == "Bestiary Scarab of Duplicating" # [ForceSellItem] == "true" //
+[Type] == "Scarab" # [StashItem] == "true" //
+
 
 // Sell all bad map//
 
