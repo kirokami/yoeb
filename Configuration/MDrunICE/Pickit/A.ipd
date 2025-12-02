@@ -13,8 +13,7 @@
 [Type] == "Vaal Scouting Report" # [StashItem] == "true" //	//超凡偵查報告
 [Type] == "Delirious Scouting Report" # [StashItem] == "true" //	//勢力偵查報告
 [Type] == "Otherworldly Scouting Report" # [StashItem] == "true" //	//勢力偵查報告
-[Category] == "Scarab" # [StashItem] == "true"
-[Category] == "Divination Cards" # [StashItem] == "true"
+
 //
 //[Type] == "Blueprint: Bunker" # [StashItem] == "true" 
 //[Type] == "Blueprint: Laboratory" # [StashItem] == "true" 
@@ -44,8 +43,7 @@
 [Type] == "Maata's Teaching Karui Sceptre" && [Rarity] == "Unique" # [UniqueName] == "" && [StashItem] == "true"	
 [Type] == "Ezomyte Staff" && [Rarity] == "Unique" # [UniqueName] == "The Fulcrum" && [StashItem] == "true"
 [Type] == "Engraved Greatsword" && [Rarity] == "Unique" # [UniqueName] == "Rakiata's Dance" && [StashItem] == "true"
-[Type] == "Shipyard Map" && [Rarity] == "Magic" # [ForceSellItem] == "true" //
-[Type] == "Shipyard Map" && [Rarity] == "Normal" # [ForceSellItem] == "true" //
+
 
 //3.22
 //[Type] == "Necromancer Silks" && [Rarity] == "Unique" # [UniqueName] == "Fleshcrafter" && [StashItem] == "true"  
@@ -62,6 +60,9 @@
 [Type] == "Omen of Fortune" # [StashItem] == "true" //	
 [Type] == "Incandescent Invitation" # [StashItem] == "true"//
 
+[Type] == "Shipyard Map" && [Rarity] == "Magic" # [ForceSellItem] == "true" //
+[Type] == "Shipyard Map" && [Rarity] == "Normal" # [ForceSellItem] == "true" //
+[Type] == "Toxic Sewer Map" && [Rarity] == "Magic" # [ForceSellItem] == "true" //
 //3.22
 
 //[Type] == "Portal" # [StashItem] == "true"
@@ -194,11 +195,11 @@
 
 ////
 
-//[Type] == "Orb of Alteration" # [StashItem] == "true"////
+[Type] == "Orb of Alteration" # [StashItem] == "true"////
 //[Type] == "Orb of Regret"# [StashItem] == "true"////
 //[Type] == "Orb of Unmaking"# [StashItem] == "true"////
-//[Type] == "Enkindling Orb"# [StashItem] == "true"////
-//[Type] == "Instilling Orb" # [StashItem] == "true" //	//
+[Type] == "Enkindling Orb"# [StashItem] == "true"////
+[Type] == "Instilling Orb" # [StashItem] == "true" //	//
 //[Type] == "Orb of Scouring"# [StashItem] == "true"////
 //[Type] == "Regal Orb" # [StashItem] == "true"////
 //[Type] == "Orb of Horizons"# [StashItem] == "true"////
@@ -206,7 +207,7 @@
 //[Type] == "Blacksmith's Whetstone" # [StashItem] == "true" //	//
 //[Type] == "Armourer's Scrap" # [StashItem] == "true" //	//
 [Type] == "Glassblower's Bauble" # [StashItem] == "true" //	//
-//[Type] == "Blessed Orb" # [StashItem] == "true" //	//
+[Type] == "Blessed Orb" # [StashItem] == "true" //	//
 
 //[Type] == "Forbidden Tome" # [StashItem] == "true" // 
 
@@ -252,7 +253,7 @@
 
 
 //ninja 3.27
-
+[Type] == "Lachrymal Necrosis" # [StashItem] == "true"// 
 [Type] == "Fire Of Unknown Origin" # [StashItem] == "true"// 
 [Type] == "The Fortunate" # [StashItem] == "true"// 
 [Type]=="House of Mirrors" # [StashItem] == "true" //
@@ -330,56 +331,9 @@
 [Type]=="Temperance" # [StashItem] == "true" //
 [Type]=="Toxic Tidings" # [StashItem] == "true" //
 [Type]=="The Enforcer" # [StashItem] == "true" //
-
+[Type]=="Terrible Secret of Space" # [StashItem] == "true" //
+[Type]=="The Primordial" # [StashItem] == "true" //
 /////////
-
-//[Category] == "Map" && [MapTier] >= "1" && [Rarity] == "Unique" #[ForceSellItem] == "true" // //
-
-[Sockets] == "6" && [Linked] >= "6" #[ForceSellItem] == "true" // //
-
-
-	[Type] == "Fishing Rod" && [Rarity] == "Unique" # [UniqueName] == "Song of the Sirens" && [StashItem] == "true"	
-	[Type] == "Fishing Rod" && [Rarity] == "Unique" # [UniqueName] == "Reefbane" && [StashItem] == "true"	
-	[Type] == "Ring" && [Rarity] == "Unique" # [UniqueName] == "Kalandra's Touch" && [StashItem] == "true"	
-	[Type] == "Amber Amulet" && [Rarity] == "Unique" # [UniqueName] == "Xoph's Heart" && [StashItem] == "true"	
-	[Type] == "Jade Amulet" && [Rarity] == "Unique" # [UniqueName] == "The Halcyon" && [StashItem] == "true"	
-	[Type] == "Turquoise Amulet" && [Rarity] == "Unique" # [UniqueName] == "Badge of the Brotherhood" && [StashItem] == "true"	
-	[Type] == "Unset Amulet" && [Rarity] == "Unique" # [UniqueName] == "Uul-Netol's Vow" && [StashItem] == "true"	
-
-	[Type] == "Leather Belt" && [Rarity] == "Unique" # [UniqueName] == "Headhunter" && [StashItem] == "true"	
-	[Type] == "Heavy Belt" && [Rarity] == "Unique" # [UniqueName] == "Mageblood" && [StashItem] == "true"	
-
-	[Type] == "Crimson Jewel" && [Rarity] == "Unique" # [UniqueName] == "Inspired Learning" && [StashItem] == "true"	
-	[Type] == "Crimson Jewel" && [Rarity] == "Unique" # [UniqueName] == "Rain of Splinters" && [StashItem] == "true"	
-	[Type] == "Crimson Jewel" && [Rarity] == "Unique" # [UniqueName] == "Thread of Hope" && [StashItem] == "true"	
-	[Type] == "Crimson Jewel" && [Rarity] == "Unique" # [UniqueName] == "Immutable Force" && [StashItem] == "true"	
-	[Type] == "Crimson Jewel" && [Rarity] == "Unique" # [UniqueName] == "Bloodnotch" && [StashItem] == "true"	
-	[Type] == "Viridian Jewel" && [Rarity] == "Unique" # [UniqueName] == "Intuitive Leap" && [StashItem] == "true"	
-	[Type] == "Viridian Jewel" && [Rarity] == "Unique" # [UniqueName] == "Lioneye's Fall" && [StashItem] == "true"	
-	[Type] == "Viridian Jewel" && [Rarity] == "Unique" # [UniqueName] == "Impossible Escape" && [StashItem] == "true"	
-	[Type] == "Viridian Jewel" && [Rarity] == "Unique" # [UniqueName] == "Ancestral Vision" && [StashItem] == "true"	
-//	[Type] == "Cobalt Jewel" && [Rarity] == "Unique" # [UniqueName] == "Energy From Within" && [StashItem] == "true"	
-
-	[Type] == "Synthesised Map" && [Rarity] == "Unique" # [UniqueName] == "Cortex" && [StashItem] == "true"	
-	[Type] == "Synthesised Map" && [Rarity] == "Unique" # [UniqueName] == "Altered Distant Memory" && [StashItem] == "true"	
-	[Type] == "Synthesised Map" && [Rarity] == "Unique" # [UniqueName] == "Augmented Distant Memory" && [StashItem] == "true"	
-	[Type] == "Synthesised Map" && [Rarity] == "Unique" # [UniqueName] == "Twisted Distant Memory" && [StashItem] == "true"	
-	[Type] == "Synthesised Map" && [Rarity] == "Unique" # [UniqueName] == "Rewritten Distant Memory" && [StashItem] == "true"	
-
-//	[Type] == "Prophecy Wand" && [Rarity] == "Unique" # [UniqueName] == "Void Battery" && [StashItem] == "true"	
-	[Type] == "Archon Kite Shield" && [Rarity] == "Unique" # [UniqueName] == "Prism Guardian" && [StashItem] == "true"	
-	[Type] == "Champion Kite Shield" && [Rarity] == "Unique" # [UniqueName] == "Aegis Aurora" && [StashItem] == "true"	
-	[Type] == "Spidersilk Robe" && [Rarity] == "Unique" # [UniqueName] == "The Covenant" && [StashItem] == "true"	
-	[Type] == "Sage's Robe" && [Rarity] == "Unique" # [UniqueName] == "Dialla's Malefaction" && [StashItem] == "true"	
-	[Type] == "Siege Axe" && [Rarity] == "Unique" # [UniqueName] == "Soul Taker" && [StashItem] == "true"	
-	[Type] == "Elegant Round Shield" && [Rarity] == "Unique" # [UniqueName] == "The Squire" && [StashItem] == "true"	
-	[Type] == "Carnal Armour" && [Rarity] == "Unique" # [UniqueName] == "Stasis Prison" && [StashItem] == "true"	
-[Type] == "Defiance of Destiny" && [Rarity] == "Unique" # [UniqueName] == "" && [StashItem] == "true"	
-
-//
-////
-//
-//3.27 
 [Type] == "Veiled Scarab" # [StashItem] == "true" //	隱匿聖甲蟲		存倉																									
 [Type] == "Breach Scarab" # [StashItem] == "true" //	聖甲蟲·裂痕		存倉																									
 [Type] == "Breach Scarab of the Dreamer" # [StashItem] == "true" //	聖甲蟲：築夢裂痕		存倉																									
@@ -499,6 +453,53 @@
 [Type] == "Divination Scarab of Pilfering" # [StashItem] == "true" //	命運聖甲蟲偷竊		存倉																									
 [Type] == "Essence Scarab of Adaptation" # [StashItem] == "true" //	精髓聖甲蟲適應		存倉																									
 [Type] == "Breach Scarab of Resonant Cascade" # [StashItem] == "true" //	裂痕聖甲蟲共振級聯		存倉				
+//[Category] == "Map" && [MapTier] >= "1" && [Rarity] == "Unique" #[ForceSellItem] == "true" // //
+
+[Sockets] == "6" && [Linked] >= "6" #[ForceSellItem] == "true" // //
+
+
+	[Type] == "Fishing Rod" && [Rarity] == "Unique" # [UniqueName] == "Song of the Sirens" && [StashItem] == "true"	
+	[Type] == "Fishing Rod" && [Rarity] == "Unique" # [UniqueName] == "Reefbane" && [StashItem] == "true"	
+	[Type] == "Ring" && [Rarity] == "Unique" # [UniqueName] == "Kalandra's Touch" && [StashItem] == "true"	
+	[Type] == "Amber Amulet" && [Rarity] == "Unique" # [UniqueName] == "Xoph's Heart" && [StashItem] == "true"	
+	[Type] == "Jade Amulet" && [Rarity] == "Unique" # [UniqueName] == "The Halcyon" && [StashItem] == "true"	
+	[Type] == "Turquoise Amulet" && [Rarity] == "Unique" # [UniqueName] == "Badge of the Brotherhood" && [StashItem] == "true"	
+	[Type] == "Unset Amulet" && [Rarity] == "Unique" # [UniqueName] == "Uul-Netol's Vow" && [StashItem] == "true"	
+
+	[Type] == "Leather Belt" && [Rarity] == "Unique" # [UniqueName] == "Headhunter" && [StashItem] == "true"	
+	[Type] == "Heavy Belt" && [Rarity] == "Unique" # [UniqueName] == "Mageblood" && [StashItem] == "true"	
+
+	[Type] == "Crimson Jewel" && [Rarity] == "Unique" # [UniqueName] == "Inspired Learning" && [StashItem] == "true"	
+	[Type] == "Crimson Jewel" && [Rarity] == "Unique" # [UniqueName] == "Rain of Splinters" && [StashItem] == "true"	
+	[Type] == "Crimson Jewel" && [Rarity] == "Unique" # [UniqueName] == "Thread of Hope" && [StashItem] == "true"	
+	[Type] == "Crimson Jewel" && [Rarity] == "Unique" # [UniqueName] == "Immutable Force" && [StashItem] == "true"	
+	[Type] == "Crimson Jewel" && [Rarity] == "Unique" # [UniqueName] == "Bloodnotch" && [StashItem] == "true"	
+	[Type] == "Viridian Jewel" && [Rarity] == "Unique" # [UniqueName] == "Intuitive Leap" && [StashItem] == "true"	
+	[Type] == "Viridian Jewel" && [Rarity] == "Unique" # [UniqueName] == "Lioneye's Fall" && [StashItem] == "true"	
+	[Type] == "Viridian Jewel" && [Rarity] == "Unique" # [UniqueName] == "Impossible Escape" && [StashItem] == "true"	
+	[Type] == "Viridian Jewel" && [Rarity] == "Unique" # [UniqueName] == "Ancestral Vision" && [StashItem] == "true"	
+//	[Type] == "Cobalt Jewel" && [Rarity] == "Unique" # [UniqueName] == "Energy From Within" && [StashItem] == "true"	
+
+	[Type] == "Synthesised Map" && [Rarity] == "Unique" # [UniqueName] == "Cortex" && [StashItem] == "true"	
+	[Type] == "Synthesised Map" && [Rarity] == "Unique" # [UniqueName] == "Altered Distant Memory" && [StashItem] == "true"	
+	[Type] == "Synthesised Map" && [Rarity] == "Unique" # [UniqueName] == "Augmented Distant Memory" && [StashItem] == "true"	
+	[Type] == "Synthesised Map" && [Rarity] == "Unique" # [UniqueName] == "Twisted Distant Memory" && [StashItem] == "true"	
+	[Type] == "Synthesised Map" && [Rarity] == "Unique" # [UniqueName] == "Rewritten Distant Memory" && [StashItem] == "true"	
+
+//	[Type] == "Prophecy Wand" && [Rarity] == "Unique" # [UniqueName] == "Void Battery" && [StashItem] == "true"	
+	[Type] == "Archon Kite Shield" && [Rarity] == "Unique" # [UniqueName] == "Prism Guardian" && [StashItem] == "true"	
+	[Type] == "Champion Kite Shield" && [Rarity] == "Unique" # [UniqueName] == "Aegis Aurora" && [StashItem] == "true"	
+	[Type] == "Spidersilk Robe" && [Rarity] == "Unique" # [UniqueName] == "The Covenant" && [StashItem] == "true"	
+	[Type] == "Sage's Robe" && [Rarity] == "Unique" # [UniqueName] == "Dialla's Malefaction" && [StashItem] == "true"	
+	[Type] == "Siege Axe" && [Rarity] == "Unique" # [UniqueName] == "Soul Taker" && [StashItem] == "true"	
+	[Type] == "Elegant Round Shield" && [Rarity] == "Unique" # [UniqueName] == "The Squire" && [StashItem] == "true"	
+	[Type] == "Carnal Armour" && [Rarity] == "Unique" # [UniqueName] == "Stasis Prison" && [StashItem] == "true"	
+[Type] == "Defiance of Destiny" && [Rarity] == "Unique" # [UniqueName] == "" && [StashItem] == "true"	
+
+//
+////
+//
+//3.27 
 
 // Sell all bad map//
 
