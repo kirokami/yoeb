@@ -13,7 +13,8 @@
 [Type] == "Vaal Scouting Report" # [StashItem] == "true" //	//超凡偵查報告
 [Type] == "Delirious Scouting Report" # [StashItem] == "true" //	//勢力偵查報告
 [Type] == "Otherworldly Scouting Report" # [StashItem] == "true" //	//勢力偵查報告
-
+[Category] == "Scarab" # [StashItem] == "true"
+[Category] == "Divination Cards" # [StashItem] == "true"
 //
 //[Type] == "Blueprint: Bunker" # [StashItem] == "true" 
 //[Type] == "Blueprint: Laboratory" # [StashItem] == "true" 
