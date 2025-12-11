@@ -1,8 +1,8 @@
-[Type] == "Provisioning Wombgift" # [StashItem] == "true" 
+//[Type] == "Provisioning Wombgift" # [StashItem] == "true" 
 [Type] == "Lavish Wombgift" # [StashItem] == "true" 
 [Type] == "Ancient Wombgift" # [StashItem] == "true" 
-[Type] == "Growing Wombgift" # [StashItem] == "true" 
-[Type] == "Mysterious Wombgift" # [StashItem] == "true" 
+//[Type] == "Growing Wombgift" # [StashItem] == "true" 
+//[Type] == "Mysterious Wombgift" # [StashItem] == "true" 
 
 [Type] == "Singular Scouting Report" # [StashItem] == "true" //	//卓越偵查報告
 [Type] == "Otherworldly Scouting Report" # [StashItem] == "true" //	//超凡偵查報告
@@ -198,8 +198,8 @@
 [Type] == "Orb of Alteration" # [StashItem] == "true"////
 //[Type] == "Orb of Regret"# [StashItem] == "true"////
 //[Type] == "Orb of Unmaking"# [StashItem] == "true"////
-[Type] == "Enkindling Orb"# [StashItem] == "true"////
-[Type] == "Instilling Orb" # [StashItem] == "true" //	//
+//[Type] == "Enkindling Orb"# [StashItem] == "true"////
+//[Type] == "Instilling Orb" # [StashItem] == "true" //	//
 //[Type] == "Orb of Scouring"# [StashItem] == "true"////
 //[Type] == "Regal Orb" # [StashItem] == "true"////
 //[Type] == "Orb of Horizons"# [StashItem] == "true"////
@@ -207,7 +207,7 @@
 //[Type] == "Blacksmith's Whetstone" # [StashItem] == "true" //	//
 //[Type] == "Armourer's Scrap" # [StashItem] == "true" //	//
 [Type] == "Glassblower's Bauble" # [StashItem] == "true" //	//
-[Type] == "Blessed Orb" # [StashItem] == "true" //	//
+//[Type] == "Blessed Orb" # [StashItem] == "true" //	//
 
 //[Type] == "Forbidden Tome" # [StashItem] == "true" // 
 
@@ -221,7 +221,7 @@
 
 ////
 [Type] == "Orb of Alchemy" # [StashItem] == "true" //	//
-[Type] == "Vaal Orb" # [StashItem] == "true" //	//
+//[Type] == "Vaal Orb" # [StashItem] == "true" //	//
 [Type] == "Chaos Orb" # [StashItem] == "true"////
 [Type] == "Divine Orb" # [StashItem] == "true"////
 [Type] == "Exalted Orb" # [StashItem] == "true"////
