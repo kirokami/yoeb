@@ -1,206 +1,37 @@
-ËùÓÐÃüÁîµÄÊ¹ÓÃÉèÖÃÇë¿´ Ê¹ÓÃËµÃ÷ ±Ø¿´.chm
-10.30
-1¡¢ÐÂÔöÊÔÁ·´óÊ¦ÉèÖÃÍ¨ëº·ÖÊý¹¦ÄÜ£¬·ÖÊýÔ½Ð¡Ô½ÓÅÏÈ ¾ßÌå²é¿´ËµÃ÷Êé
-6.18
-1¡¢ÐÂÔö±äÁ¿ÐÍÃüÁî g_needYongBingLv ´òÓ¶±øÈü¼¾ÄÚÈÝ
-12.22
-1¡¢ÐÂÔö±äÁ¿ÐÍÃüÁî g_needHuangLinLv ´ò»ÄÁÖÈü¼¾ÄÚÈÝ 
-10.9
-1¡¢Ìí¼Óº¯ÊýÐÍÃüÁîSetMapCfg ¿ÉÓÃÀ´ÉèÖÃÐèÒªÊ¹ÓÃÆ½ÐÐÊ¯ºÍ²»´òµÄµØÍ¼ 
-2¡¢Ìí¼Ó±äÁ¿ÐÍÃüÁîg_czYouXianMap ÓÃÀ´ÉèÖÃ¶ÔÓÐ²»´òÊôÐÔµÄÓÅÏÈµØÍ¼Ê¹ÓÃÖØÖýÊ¯
-4.23
-1¡¢ÐÂÔöº¯ÊýÐÍÃüÁî SetSkillUseWaEr À´ÉèÖÃÍß¶û¼¼ÄÜ±¦Ê¯ ÏëÒªÊ¹Íß¶û¼¼ÄÜ Ö»ÐèÒªÉèÖÃºÃÕâÀï£¬Íß³É¹¦ºó½«»áÌæ»»µô¼¼ÄÜÁ¬ÏßÀïµÄÆÕÍ¨±¦Ê¯
-2¡¢ÐÂÔö±äÁ¿ÐÍÃüÁî g_notUseWaErSkill À´ÉèÖÃ²»×Ô¶¯Ê¹ÓÃÄÚÖÃµÄÍß¶û¼¼ÄÜ£¬ÉèÖÃÎª²»Ê¹ÓÃºó£¬ÄúÐèÒªÊÖ¶¯Ìí¼ÓÒªÊ¹ÓÃµÄÍß¶û¼¼ÄÜ ÊÊÓÃ³¡¾°¸üÁé»î
-3¡¢Ö§³ÖÖÚÉñµî×Ô¶¯×¥Éñ ÒÑ¾­ÄÚÖÃ Ê¹ÓÃ SetZhongShenData ÉèÖÃÁËÒª¼ÓµÄÖÚÉñµîÊý¾Ýºó Âú85¼¶½«»á×Ô¶¯×¥Ã»×¥¹ýµÄÉñ
-4.21
-1¡¢ÐÂÔöº¯ÊýÐÍÃüÁî SetWuQiTianFuCfg ºÍ AddOpenWuQiTianFuVal ÓÃÀ´ÉèÖÃ´òÈÛ»ðÄÚÈÝ ÏêÇé¿´ËµÃ÷Êé
-1.7
-1¡¢×¼È·»ñÈ¡ÁË¹ÖÎïÑÕÉ«£¬Éæ¼°µ½ÒÔÏÂ3¸öÃüÁî Èç¹ûÓÐÓÃµ½Õâ3¸öÃüÁîÇø·Ö¹ÖÎïÑÕÉ«µÄ»°£¬ÐèÒªÐÞ¸ÄÒ»ÏÂ ·Ö±ðÎª AddAttackSkillData¡¢SetUseTuTengMonsterShuXingCnt¡¢SetDebuffSkill ÏêÇéÇë¿´ËµÃ÷
-¼ÇµÃËÑË÷BD ÄÚÖÃÊý¾Ý Í¨ÓÃÉèÖÃ Ê¹ÓÃµ½Õâ3¸öÃüÁîµÄµØ·½ ¶¼¼ì²éÐÞ¸ÄÒ»ÏÂ£¬²»È»ÓÐ¿ÉÄÜÒ»Ö±±¨´í
-2¡¢ÐÂÔö±äÁ¿ÐÍÃüÁî  g_notAttackMonsterShuXingClassNameArr ²»´òº¬ÓÐÄ³Ð©ÊôÐÔµÄ¹Ö Ä¬ÈÏÎª ²»´ò ÎïÀíÃâÒß¡¢»ìãçÃâÒß¡¢»ðÑæÃâÒß¡¢ÉÁµçÃâÒß¡¢±ùÁ¹ÃâÒß ×Ô¼º¿ÉÒÔ±à¼­ ÏêÇé¿´ËµÃ÷
-8.31
-1¡¢ÐÂÔö±äÁ¿ÐÍÃüÁî  g_needZhuangYuanLv=nil--Êý×ÖÐÍ Âú¶àÉÙ¼¶´ò¹ÅÁé×¯Ô° nilÎªÒ»Ö±²»´ò
-7.27
-1¡¢SetNeedSkillLineDataÃüÁîÐÂÔö¼¼ÄÜ´òÆ·ÖÊ¹¦ÄÜ ÏêÇé¼ûËµÃ÷Êé
-2¡¢SetAtuoChangeEquipDataÃüÁîÐÂÔöDPSÊôÐÔÃû
-3¡¢ÐÂÔö±äÁ¿ÐÍÃüÁî g_changeHunDunLv=nil--¶àÉÙ¼¶Ç°²»»»C  Ëû¾Í²»»á»»CºÍ¼ñ»»C×°±¸ÁË Èç¹ûÖ»°á¸ÄÔìµÄ»°·Ç³£ºÃÓÃ
-4¡¢SetNeedFlaskData ÐÂÔöÒ©¼Á´òÆ·ÖÊ¹¦ÄÜ£¬ÏêÇé¼ûËµÃ÷Êé
-5¡¢SetJiaoYiGoods ÃüÁîµÄ ÊôÐÔÏÞÖÆ ²ÎÊý ÒÑ¾­Ö§³ÖÅÐ¶Ï»ùµ×ÊôÐÔÓëËæ»úÊôÐÔÁË ÏêÇé¼ûËµÃ÷Êé
-6¡¢Ö§³Ö¿ÕÊÖ¼¼ÄÜ£¬²»ÐèÒªÈÎºÎÉèÖÃ
-7¡¢ÐÂÔö±äÁ¿ÐÍÃüÁî g_useMinLvMapTianFuCnt È¡Í¼Ê±£¬µØÍ¼Ìì¸³Âú¶àÉÙµãºó ¾Í´ÓµÍ½×µØÍ¼¿ªÊ¼È¡
-8¡¢ÐÂÔö±äÁ¿ÐÍÃüÁî g_openQlkMaxMapTianFuCnt Âú¶àÉÙÌì¸³ºó²»¿ªÆæÀ­¿ËÈÎÎñ nilÎªÒ»Ö±¿ª
-6.15
-1¡¢ÐÞ¸´°á¸ÄÔìÊ±»áºÍ´ÕCÓÐ³åÍ»µÄÇé¿ö
-2¡¢Ã»ÓÐµØÍ¼Ê±»áÈ¥¹ºÂòµØÍ¼£¬Ã»ÓÐÄÜÄÃÌì¸³µÄµØÍ¼ÁË»áÈ¥¹ºÂòÄÜÄÃÌì¸³µÄµØÍ¼
-3¡¢»á×Ô¶¯Ê¹ÓÃÆ½ÐÐÊ¯°ÑµØÍ¼µãµ½Ã»ÄÃÌì¸³µÄµØÍ¼
-6.6
-1¡¢SetNeedHuWeiGoodsÐÂÔöÁË3¸ö²ÎÊý¿ÉÒÔ·Ö±ðÉèÖÃÃ¿¸öÑÕÉ«µÄ»¤ÎÀ×î¶àÁô¼¸¸ö 
-2¡¢SetNeedHuWeiCfgÐÂÔöÁË1¸öÄÜÊý¿Éµ¥¶ÀÉèÖÃÖÜ±ßÂú¶àÉÙÖ»¹ÖÊ±Ê¹ÓÃÀ¶»¤ÎÀ 
-3¡¢Ìí¼ÓÁËÁô¶àÉÙ»¤ÎÀºó ±ØÐëÊ¹ÓÃÏÂÃæµÄÉèÖÃ ÃâµÃ¼ñ¶àÓàµÄ»¤ÎÀÀË·ÑÊ±¼ä
-SetGoodsCaoZuo("SentinelDrone","0|4",nil,nil,nil,nil,nil,nil,"1|2|3",nil,nil,nil,nil,2,IsNeedShiQuHuWei)--Òì½çÊ±²Ö¿â»¤ÎÀÃ»´ïµ½ÉèÖÃÁôÏÂÀ´µÄÊýÁ¿Ê±¼ñ ¼ø¶¨ À¶ »Æ ³È »¤ÎÀ
-SetGoodsCaoZuo("SentinelDrone","0|2|4",nil,nil,nil,nil,nil,nil,"1|2|3",nil,nil,nil,nil,2,IsNeedHuWei)--Òì½çÊ±¼ñ ´æ ¼ø¶¨ ÓÐÖ¸¶¨ÊôÐÔµÄ À¶ »Æ ³È »¤ÎÀ
-SetGoodsCaoZuo("SentinelDrone","1|3",nil,nil,nil,nil,nil,nil,"1|2|3",nil,nil,nil,nil,2,function(gd)return not IsNeedHuWei(gd) end)--Òì½çÊ± Âô ¶ª Ã»ÓÐÖ¸¶¨ÊôÐÔµÄ À¶ »Æ ³È »¤ÎÀ
-4¡¢ÓÉÓÚÓÅ»¯ÁËÒì½çÅÜÍ¼Ëã·¨£¬ÐèÒªÌæ»»dll
-5.26
-1¡¢AddJiaoYiBossName ºÍ SetZhuangBeiBoss ÐÂÔöÒ»¸ö²ÎÊý Ö§³ÖÒÔ²Ö¿âºÅËùÔÚµÄµçÄÔÃûÀ´ÉèÖÃ²Ö¿âºÅ£¬ÏêÇé¼ûËµÃ÷Êé ÐèÒª¸üÐÂmypoe64.dll
-2¡¢ÐÂÔöÐÂÈü¼¾ÄÚÈÝÃüÁîSetNeedHuWeiCfg ºÍSetNeedHuWeiGoods £¬Ê¹ÓÃÊ¾ÀýÈçÏÂ  ÏêÇé¼ûËµÃ÷Êé
-SetSaveIndex("SentinelDrone","1|4")--Ö¸¶¨»¤ÎÀ´æÔÚÄÄ¸ö²Ö¿âÒ³
---¸½¼Ó½±ÀøµÄ¼¸ÂÊÔö¼Ó%
-SetNeedHuWeiCfg(0xFEBFFFFFFFFFFFFFull,0x000000000001EFDFull,80,80,85)--»¤ÎÀÌì¸³ÉèÖÃÈ«Á¬ 80¼¶Ê¹ÓÃºìÀ¶»¤ÎÀ 85¼¶ÓÃ»Æ»¤ÎÀ
-SetNeedHuWeiGoods("½±±­µÄ,SentinelDroneRewardChance2","sentinel_chance_for_reward_+%,1")--Ìí¼ÓÐèÒªµÄ»¤ÎÀMods»òÕßÊôÐÔ Ö§³ÖMods»òÕßÊôÐÔÅÐ¶¨
-SetGoodsCaoZuo("SentinelDrone","0|4",nil,nil,nil,nil,nil,nil,"1|2|3",nil,nil,nil,nil,2)--Òì½çÊ±¼ñ ¼ø¶¨À¶ »Æ ³È »¤ÎÀ
-SetGoodsCaoZuo("SentinelDrone","0|2|4",nil,nil,nil,nil,nil,nil,"1|2|3",nil,nil,nil,nil,2,IsNeedHuWei)--Òì½çÊ±¼ñ ´æ ¼ø¶¨ ÓÐÖ¸¶¨ÊôÐÔµÄ À¶ »Æ ³È »¤ÎÀ
-SetGoodsCaoZuo("SentinelDrone","1|3",nil,nil,nil,nil,nil,nil,"1|2|3",nil,nil,nil,nil,2,function(gd)return not IsNeedHuWei(gd) end)--Òì½çÊ± Âô ¶ª Ã»ÓÐÖ¸¶¨ÊôÐÔµÄ À¶ »Æ ³È »¤ÎÀ
-
-5.16
-1¡¢ÃüÁî AddJiaoYiBossName ÐÂÔöÒ»¸ö²ÎÊýÓÃÀ´Ö§³Ö¹«»á²Ö¿â·½Ê½¼¯»õ
-2¡¢ÃüÁî SetSaveIndex ÐÂÔöÒ»¸ö²ÎÊýÓÃÀ´Ö§³Ö¹«»á²Ö¿â·½Ê½¼¯»õ ÏêÇé²é¿´ËµÃ÷Êé
-3¡¢ÒªÊ¹ÓÃ¹«»á²Ö¿â·½Ê½¼¯»õÖ»ÐèÒª¹Ò»úºÅÐÞ¸ÄÉÏÃæ2ÌõÃüÁî ²Ö¿âºÅ¼ÓÈëÁË¹«»á²¢ÓÐÑûÇëÈ¨ÏÞ¼´¿É
-Ê¾Àý ÈçÏÂ
-SetSaveIndex("Í¨»õ|¿É¶ÑµþÍ¨»õ|Òì½çÍ¼¼øÉý¼¶ÎïÆ·","1|2",nil,nil,nil,nil,nil,true)--¹«»á²Ö¿â¼¯»õÊ±Ëù´æµ½µÄÒ³Ãæ
-AddJiaoYiBossName("¹«»á²Ö¿âºÅ",nil,nil,nil,true)--ÉèÖÃ¹«»á²Ö¿â·½Ê½¼¯»õ ²Ö¿âºÅÒªÇóÊÇ¹«»á¸É²¿»ò»á³¤²Å¿ÉÒÔ
-
-2.13
-1¡¢ÐÂÔö±äÁ¿ÐÍÃüÁî g_needSuDiLv=75--Âú75¼¶´òÇ¿Ï®ËÞµÐÄÚÈÝ
-2¡¢ÐÂÔöº¯ÊýÐÍÃüÁî SetUseArchnemesisGoods ÉèÖÃÇ¿Ï®ËÞµÐÊ±Ã¿¸ö¸ñ×ÓÊ¹ÓÃÄÄÖÖÎïÆ· Àý×Ó¼ûËµÃ÷Êé
-11.19
-1¡¢ÐÂÔö±äÁ¿ÐÍÃüÁî g_fengXianCdTime=5--·îÏ×Àà¼¼ÄÜÊ¹ÓÃ¼ä¸ôµ¥Î»ÎªÃëÖ§³ÖÐ¡Êý
-2¡¢º¯ÊýÐÍÃüÁîAddUseSkillData ÐÂÔöÊ¹ÓÃ¼ä¸ô ¾ßÌåÉèÖÃ²é¿´ËµÃ÷
-10.30
-1¡¢ÐÂÔö±äÁ¿ÐÍÃüÁî g_needMengYanLv=75--¶àÉÙ¼¶¿ªÊ¼´òÃÎ÷Ê
-10.24
-1¡¢ËæÓÎÏ·¸üÐÂ
-8.14
-1¡¢ÐÞ¸´¿¨Õ¨·Ø
-2¡¢ÐÞ¸´Å¼¶û¿¨¶á±¦¿ªÍ¼
-8.1
-1¡¢ÐÂÔö±äÁ¿ÐÍÃüÁî g_needZaFenLv=75 ÉèÖÃ¶àÉÙ¼¶¿ªÊ¼×öÐÂÈü¼¾Õ¨·ØÍæ·¨
-5.26
-1¡¢Èç¹ûÉèÖÃÁË×îÐ¡»¯´°¿Ú£¬ÔÚ¹ýÍ¼½çÃæÊ±½«»á×Ô¶¯µ¯³ö´°¿Ú£¬½øÍ¼ºó½«»á×îÐ¡»¯
-2¡¢SetGameModeÃüÁîÒÑ¾­È¡Ïû£¬Èç¹ûÐèÒªÇÐ»»Ô¤²âÓëÍ¬²½Ä£Ê½£¬Çë×ÔÐÐÔÚÓÎÏ·ÄÚÉèÖÃºÃ
-4.28
-1¡¢ÐÂÔö±äÁ¿ÐÍÃüÁî g_needShiLianDaShiLv ÓÃÀ´ÉèÖÃÂú¶àÉÙ¼¶´òÊÔÁ¶´óÊ¦
-2¡¢ÐÂÔöº¯ÊýÐÍÃüÁî SetNeedShiLianReward ÓÃÀ´ÉèÖÃÓÐÄ³ÖÖ½±ÀøÎïÆ·Ê±ÖÐÖ¹ÊÔÁ¶´óÊ¦ ÏêÇé¿´ËµÃ÷Êé
-1.31
-1¡¢ AddYouXianGongPingBuyGoods ÃüÁîÔö¼Ó ÇýÁéÎïÆ·Âò²»ÆðÊ±ÑÓÊ±¹¦ÄÜ ÏêÇé¿´ËµÃ÷Êé
-1.23
-1¡¢Ö§³ÖÐÂÄÚÈÝÇýÁé Ìí¼ÓÁËÁ½Ìõº¯ÊýÐÍÃüÁî£¬ SetQuLingData ÎªÉèÖÃ×öÇýÁéµÈ¼¶ AddYouXianGongPingBuyGoods Ìí¼ÓÓÅÏÈ¹ºÂòµÄÇýÁé½±Àø ÏêÇé¿´ËµÃ÷Êé
-1.19
-1¡¢ÐÞ¸´¶á±¦
-2¡¢ÊÕ²ËÏÖÔÚÖ»Ö§³ÖÍ¬½Å±¾ÕËºÅÄÚµÄ½ÇÉ«ÊÕ²ËÁË
-3¡¢·âºÅºó¹Ø±ÕÓÎÏ·½«»áÁ¬Í¬µÇÂ¼Æ÷Ò»Æð¹Ø±ÕÁË
-1.13
-1¡¢ÐÂÔöº¯ÊýÐÍÃüÁîSetShopNotBuyGoods  ÉèÖÃ²»È¥ÉÌµêÀïÂòµÄ¶«Î÷ ÓÐÐ©±¦Ê¯±ÈÈçÍß¶û¼¼ÄÜ ÉÌµêÂò²»µ½£¬ÓÃÕâÌõÃüÁîÉèÖÃÒ»ÏÂ¿ÉÒÔÃâÈ¥Ã¿´ÎÈ¥Òì½çÇ°¶¼È¥ÂòÒ»´Î±¦Ê¯
-2¡¢Ö§³Ö·ÉÈÐ·ç±©  ÉèÖÃÇë¿´ËµÃ÷ÊéÖÐµÄ½Ì³Ì
-3¡¢»áÏÈ×ö²ØÉíÆ¬ÈÎÎñÁË
-11.5
-1¡¢ÐÞ¸´¶Ô²»ÄÜ¸Ä±äÊôÐÔµÄÆõÔ¼Ê¹ÓÃµã½ðµÄÎÊÌâ
-2¡¢ËæÓÎÏ·¸üÐÂ
-10.25
-1¡¢ÐÞ¸´Ë¢Í¼Ã»µ½Íê³É¶È Ã»´òBOSS¾Í»Ø³ÇÐÂ¿ªÍ¼ (ÉÏ°æËµÃ÷ÊéÖÐÊ¾·¶´úÂëÓÐÎóÒ²ÊÇÒ»¸öÔ­Òò£¬Çë¼ì²é²¢ÐÞ¸Ä³É SetYiJieShuaTuModeByMapCnt(10,0.6,0)--²Ö¿âÖÐµØÍ¼ÊýÁ¿Âú10 Ë¢6³É ÇÒÒª´òÍêBOSS)
-2¡¢ÔÚÃÔÎíÊÂ¼þÖÐ£¬Ç¿ÖÆË¢È«Í¼
-3¡¢ÓÅ»¯ÁË¶á±¦Ê±¼ñÎï»Ø³Ç¡¢Ô¤Áô¾¯±¨Öµ¡¢±Ò²»×ã500µÄÊ±ºòÈ¡Ïû¶á±¦
-10.22
-1¡¢ÓÅ»¯¶á±¦£¬¸ü¼ÓË³³©
-2¡¢ÐÂÔöÃüÁîSetHeistData ÉèÖÃ¶á±¦Ïà¹ØµÄ²Ù×÷ ×Ô¼º¿É¶¨Òå¿ªÊ²Ã´Ïä×Ó  ¼ñµ½Ê²Ã´ÏÈ´æ ÒÔ¼°ÌÓÅÜµÄÊ±ºò¼ñÊ²Ã´¶«Î÷ ÇëÁôÒâÊ¹ÓÃËµÃ÷
-3¡¢ÐÞ¸´¿ªÊ¼¹Ò»úÊ±»áÎ´ÏìÓ¦³¤´ï¼¸Ê®ÃëµÄÎÊÌâ ÐèÒªÌæ»»mypoe64.dll
-10.20
-1¡¢ÐÂÔö±äÁ¿ÐÍÃüÁîg_youXianMapLv --È¡Í¼Ê±ÈËÎïÂú¶àÉÙ¼¶¾Í´Ó¸ß½×¿ªÊ¼È¡
-2¡¢Òì½ç´ó¶àÊýµØÍ¼Ö§³ÖËÙË¢ÁË£¬Ö±Í¨BOSS´òÍê»Ø¼ÒÅäºÏSetShuaTuMode Óë SetYiJieShuaTuModeByMapCnt ¿ÉÊµÏÖÁé»î¸ßÐ§µÄË¢Í¼ Íê³É¶ÈÅÐ¶ÏË³ÐòÎªSetShuaTuMode>SetYiJieShuaTuModeByMapCnt>g_yiJieWanChengDu »òÕß g_puTongWanChengDu
-3¡¢ÐÂÔöº¯ÊýÐÍÃüÁîSetShuaTuMode ÉèÖÃÖ¸¶¨µØÍ¼Ë¢Í¼Ä£Ê½ ¿Éµ¥¶À¶ÔµØÍ¼Éè¶¨Íê³É¶ÈÓëË¢Í¼Ä£Ê½
-4¡¢ÐÂÔöº¯ÊýÐÍÃüÁîSetYiJieShuaTuModeByMapCnt ¸ù¾Ý²Ö¿âÄÚÒì½çµØÍ¼ÊýÁ¿¾ö¶¨Íê³É¶ÈÓëË¢Í¼Ä£Ê½
-5¡¢¶á±¦µÄSetCheckHeistDataÃüÁîÐÂÔöÁËÒ»¸ö²ÎÊý¿ØÖÆÊ×ÊÎÂú¶àÉÙ¼þ»ØÈ¥´æ²Ö£¬ÇëÁôÒâÊ¹ÓÃËµÃ÷
-6¡¢¿ÉÒÔÉèÖÃËùÓÐ×°±¸¼ñÂôÓÃÀ´°á¸ÄÔì²»»á¸ú»»»ìãç³åÍ»ÁË
-10.14
-1¡¢ÍêÉÆ¶á±¦ SetCheckHeistDataÃüÁîÐÂÔöÁË¼¸¸ö²ÎÊý£¬ÇëÁôÒâÊ¹ÓÃËµÃ÷
-10.8
-1¡¢ÐÂÔöSetCheckHeistDataÃüÁî£¬¿ÉÒÔÉèÖÃÇÀ½ÙÁË ±ØÐëÔÚÍ¨ÓÃÉèÖÃÖÐÉèÖÃº£µÁ±Ò²»ÄÜ´æ²Ö ÒÔ¼°¼ñ´æÆõÔ¼ 
-2¡¢ÐÞ¸´ÔÝÍ£¿ªÊ¼»á±ÀÀ£µÄÎÊÌâ£¬ÐèÒªÌæ»»mypoe64.dll
-3¡¢ÐÞ¸´abcdÍË³ö»á²ÐÁô½ø³ÌµÄÎÊÌâ Êµ²âÒÑ¾­ºÜÉÙ»áÌáÊ¾ ÖØ¸´ÔËÐÐÁË ÐèÒªÌæ»»abcd.exe
-4¡¢ÐÞ¸´´ò¹ÖÊ±²»¶ã±ÜÎÊÌâ
-9.23
-1¡¢ÐÂÔöSetNeedFengYinYeShouÃüÁî£¬¿ÉÒÔ·âÓ¡Ò°ÊÞ ÏêÇé²é¿´ Ê¹ÓÃËµÃ÷ ±Ø¿´.chm
-2¡¢ÐÞ¸´²»×öÃüÔËÖ®ÓïµÄÎÊÌâ
-3¡¢ÖÐ¿Ø¿ÉÒÔµ¥¶ÀÉ¾³ýÊý¾Ý¿âÀïµÄÕËºÅÊý¾ÝÁË
 9.22
-1¡¢ÐÂÔö±äÁ¿ÐÍÃüÁîg_puTongWanChengDu ÆÕÍ¨µØÍ¼Íê³É¶È ´ËÉèÖÃ²»Ó°ÏìÖ÷Ïß£¬Ö»ÔÚÉý¼¶Ë¢Í¼ÓÐÐ§(Èç Ë¢°×ÅÛ Ö÷ÏßÊ±Ö¸¶¨Éý¼¶ Ö÷ÏßÍê³ÉºóÉý¼¶) ½¨Òé·¶Î§0.5-1 Ä¬ÈÏÎª1¾ÍÊÇË¢È«Í¼
-2¡¢ÐÂÔö±äÁ¿ÐÍÃüÁîg_usePuTongWanChengDuLv Ê¹ÓÃÆÕÍ¨µØÍ¼Íê³É¶ÈÄÇ¸öÉèÖÃµÄµÈ¼¶£¬Èç¹ûÎ´µ½µÈÔòË¢È«Í¼ Ä¬ÈÏÎªnil²»Ê¹ÓÃ
-9.20
-1¡¢ÐÂÔö±äÁ¿ÐÍÃüÁî g_maxMemoryUse ÉèÖÃÁËÓÎÏ·×îÐ¡»¯Ê± µ±ÓÎÏ·ÄÚ´æÕ¼ÓÃ¶àÉÙGÒÔÉÏºó»áµ¯³öÀ´ÈÃËûÊÍ·ÅÏÂÄÚ´æ£¬È»ºó20ÃëºóÓÖ×îÐ¡»¯ µ¥Î»ÎªG ÌînilÎªÓÀ²»¼ì²â Ä¬ÈÏÎª7G
-9.19
-1¡¢ËæÓÎÏ·¸üÐÂ
-2¡¢ÐÂÔöºÚÆÁÓëcpuÓÅ»¯£¬µ«²»Èç×îÐ¡»¯Ê¡×ÊÔ´ÇÒ»áÐÞ¸ÄÓÎÏ·´úÂë£¬ÓÐ¿ÉÄÜ»á±»¼ì²â£¬²»ÍÆ¼öÊ¹ÓÃ
-3¡¢ÖÐ¿ØÐÞ¸´µôÏßµÄÖ÷»úÓÐÊ±»á²ÐÁôµÄÎÊÌâ ÐèÒª¸üÐÂÖÐ¿Ø console.exe
-4¡¢ÐÞ¸´ÓÐÊ±ÕËºÅÃ»±»·â¶¼»áÏòÖÐ¿ØÒªºÅµÄÎÊÌâ ÐèÒª¸üÐÂabcd.exe
-5¡¢ÐÂÔöÁË Ê¹ÓÃ¾ÖÓòÍø×Ô¶¯¸üÐÂ¸¨ÖúÓë½Å±¾ ½Ì³Ì ÏêÇé²é¿´ Ê¹ÓÃËµÃ÷ ±Ø¿´.chm
-9.9
-1¡¢·¢²¼ÖÐ¿Ø¶Ë£¬ÖÐ¿Ø¶Ë¿ÉÏÂ·¢ÕËºÅÁË  Çë²é¿´ Ê¹ÓÃËµÃ÷ ±Ø¿´.chm
-8.3
-1¡¢¿Éµ÷Õû»»Í¨»õ»ò¹ºÂòÎïÆ·Ê±Í¬Ê±ÃÜÈËÊýÁ¿ÁË
-2¡¢¼¼ÄÜÎ´È«²¿×°±¸ÉÏ£¬¾Í»áÊ°È¡³öÊÛÈýÉ«ÏàÁ¬×°±¸ ÒÑ¾­Ð´µ½ÄÚÖÃÊý¾Ý.luaÖÐÁË£¬ÈÎºÎÇé¿öÏÂ¶¼²»Ïë¼ñ»ÃÉ«µÄ¿ÉÒÔ×¢ÊÍµôÄÇ¾ä
-3¡¢½Å±¾ÄÚÖÃ¶Ô´øÓÐ¼¯ÖÐÐ§Ó¦Ð§¹ûµÄ×°±¸½øÐÐÁËÃ¿¼¶¼õ3000·ÖµÄ²Ù×÷£¬ÏÖÔÚÒÑ¾­ÒÆµ½ÄÚÖÃÊý¾ÝÖÐ£¬ÐèÒªÊ¹ÓÃµ½ÄÇÖÖ×°±¸µÄ¿ÉÒÔ×¢ÊÍµôÄÇ¾ä¾Í»áÕý³£¸ß¼¶»»×°ÁË
-4¡¢ÐÂÔö AddWebNeedChangeGoodsÃüÁî£¬¿ÉÒÔÈ¥¼¯ÊÐ°ÑÒ»ÖÖÍ¨»õ»»³ÉÁíÒ»ÖÖÍ¨»õ
-5¡¢ÐÂÔö SetChatDataÃüÁî£¬¿ÉÒÔÉèÖÃ½»Ò×Ê±º°Ò»Ð©»°
-7.1
-1¡¢ÉèÖÃ½»Ò×ÎïÆ·µÄÃüÁî SetJiaoYiGoods Ìí¼ÓÁËÒ»¸öÁ¬¶´²ÎÊý ¿ÉÊµÏÖ6Á¬×°±¸½»Ò×¸ø²Ö¿âºÅÁË
-1¡¢ÉèÖÃ½»Ò×ÎïÆ·µÄÃüÁî SetJiaoYiGoods Ìí¼ÓÁËÒ»¸öÊôÐÔÖµÏÞÖÆ ²ÎÊý ¿ÉÊµÏÖ¿ÝÎ®Í¼»òÄ³Ð©¼«Æ·ÊôÐÔµÄ¶«Î÷½»Ò×¸ø²Ö¿âºÅÁË Ê¹ÓÃËµÃ÷ÖÐÓÐÉèÖÃ½Ì³Ì
-6.28
-1¡¢ÐÞ¸´²»×Ô¶¯»»Ò©µÄÎÊÌâ¡£
-6.26
-1¡¢ÐÞ¸´µÚ9ÕÂ¾ÞÊÞÕÓÔó ÓÐ¼¸ÂÊÕÒ²»µ½ÏÂ¸öµØÍ¼µÄÂ·
-2¡¢ÐÞ¸´ÓÐÐ©Çé¿öÂò²»È«¼¼ÄÜ±¦Ê¯
-3¡¢ÉèÖÃÒ©Æ¿°Ú·ÅÃüÁî SetNeedFlaskData ¿ÉÒÔÉè¶¨×îÖÕÓÃÊ²Ã´Ò©ÁË
-4¡¢ÐÞ¸´ÓÐÐ©Çé¿öÏÂÒ»Ö±¿¨ÔÚÏ´×°±¸
-6.25
-1¡¢ÐÞ¸´²Ö¿âÒ³Ì«¶àµ¼ÖÂµÄ ·¢ËÍÖ¸ÁîÌ«¶àÎÞÏÞ±»ÌßÏÂÏß Ã»ÓÐÕâÎÊÌâµÄ¿É²»ÓÃÌæ»»
-6.24A
-1¡¢ÐÞ¸´Ò»¸ö·´¸´»»×°µÄÎÊÌâ
-6.24
-1¡¢ÐÞ¸´ÁË¿ªÍ¼Ñ¡ÔñÊÂ¼þÊ±Î´¼ì²âÊ£Óà´ÎÊýÎÊÌâ
-2¡¢SetJiaoYiGoods Óë SetGoodsCaoZuo Óë SetSaveIndex ÃüÁîµÄ goodsType(»òsaveType) ²ÎÊý ÏÖÒÑÖ§³Ö ´óÀàµÄÀàÃûÁË ±ÈÈç ¿É¶ÑµþÍ¨»õ ÏÖÔÚ¿ÉÒÔÐ´³É StackableCurrency 
-3¡¢goodsType(»òsaveType) ²ÎÊý ÐÂÔö ÔÖ±äÑù±¾¡¢Òì½çÍ¼¼øÉý¼¶ÎïÆ·¡¢ÊÕ¸îÖÖ×Ó ´óÀàÃû×Ö  ÒâË¼ÊÇÄã¿ÉÒÔÖ±½ÓÌî ÊÕ¸îÖÖ×Ó Õâ¸ö´óÀàÃû×ÖÁË Ç¿ÁÒÍÆ¼öÊ¹ÓÃÉÏÃæµÄ´óÀàÀàÃû(Èç StackableCurrency)£¬ÒòÎªÖÐÎÄµÄ´óÀàÃû×ÖÒªÎÒÊÖ¶¯Ìí¼Ó
+1ã€æ–°å¢žåœ°å›¾å¤©èµ‹ f3æ¸…ç©º f4å½•åˆ¶
+2ã€æ–°å¢žæ·±æ¸ŠåŠŸèƒ½
+3ã€æ”¯æŒç¢‘ç‰Œæ•°é‡
+2.27
+1ã€éšæ¸¸æˆæ›´æ–°
+2.25
+1ã€ä¿®å¤é‰´å®šç‰©å“æ—¶ è¯¯ç‚¹åˆ°è¿”è¿˜å¤©èµ‹ ä¸å…³é—­çš„é—®é¢˜
+2ã€ä¿®å¤æ‰“æ€ªæ—¶ä¸ä¼šæ£€æµ‹å¯¹è‡ªå·±é‡Šæ”¾çš„buffæŠ€èƒ½ æ¯”å¦‚å˜èº«æ¶é­”
+3ã€é‡Šæ”¾ç¥ˆæ„¿æŠ€èƒ½ä¹Ÿä¼šé€€å‡ æ­¥äº† å¢žå¼ºç”Ÿå­˜å‡ çŽ‡
+2.23
+1ã€æ–°å¢ž è®¾ç½®å…¬ä¼šå­˜ä»“é¡µé¢ å‘½ä»¤ï¼Œç”¨äºŽå­˜æ”¾ è®¾ç½®ç‰©å“æ“ä½œ å‘½ä»¤ä¸­è®¾ç½®äº† ä¼˜ã€äº¤ æ“ä½œçš„ç‰©å“ã€‚ä½† ä¹‹å‰ç‰ˆæœ¬çš„é€šç”¨è®¾ç½®ä¸­è®¾ç½®çš„ä¼˜å…ˆç‰©å“ æ”¾åœ¨äº†æœ€ä¸Šè¾¹ï¼Œä¼šå¯¼è‡´æ“ä½œè¢«è¦†ç›–ï¼Œæ‰€ä»¥éœ€è¦æŠŠå‘½ä»¤ç§»åˆ°æœ€ä¸‹é¢æ‰èƒ½ç”Ÿæ•ˆï¼Œå¦‚æžœä¸ä¼šè®¾ç½® è¯·å‚è€ƒå®Œæ•´ç‰ˆä¸­çš„é€šç”¨è®¾ç½®.lua
+2ã€ä¿®å¤ ä¹‹å‰æŽ¢ç´¢åˆ°äº†çŽ©æ³•å›¾æ ‡ï¼Œä½†ç¦»å›¾æ ‡è¿œäº†åŽï¼Œä»–ä¸ä¼šç›´æŽ¥å¯»è¿‡åŽ»çš„é—®é¢˜ã€‚
+2.22
+1ã€è®¾ç½®ä½¿ç”¨æŠ€èƒ½ å‘½ä»¤æ·»åŠ äº† æŠ¤ç›¾æ¯”é‡æ»¡å¤šå°‘ å‚æ•°
+2ã€ä¿®å¤2.21 ä¼šéš”å¢™æ‰“æ€ªçš„é—®é¢˜
+2.21
+1ã€ä¼˜åŒ–åˆ·å›¾æ•ˆçŽ‡
+2ã€æ·»åŠ äº† è®¾ç½®ä¸æ‰“æ€ªç‰© è‡ªä¼¤.lua ä¸­è®¾ç½®äº†ä¸æ‰“ç™½æ€ª
+2.20
+1ã€æ·»åŠ äº†å˜é‡åž‹å‘½ä»¤ ç¥­ç¥€åˆ·æ–°æœ€å°è´¡å“æ•°é‡=1650  --æ•°å­—åž‹ ç¥­ç¥€åœ°å›¾åˆ·æ–°æ—¶æœ€å°è´¡å“æ•°é‡  é»˜è®¤æ˜¯1650 å¯è‡ªè¡Œä¿®æ”¹
+2ã€æ·»åŠ å–å›¾è®¾ç½® å‘½ä»¤æ·»åŠ äº†ä¸€ä¸ªå‚æ•° å¯è®¾å®šæœ€å¤§æ¶‚æ²¹æ¬¡æ•°
+3ã€ä¿®å¤äº†2.19ç‰ˆä¼šå¼€ä¸æ‰“çš„å›¾çš„é—®é¢˜
+4ã€æ”¯æŒäº†steamå¤šå¼€ éœ€è¦æ›¿æ¢abcd.exe å¹¶ä¸”è¦åœ¨setting.iniä¸­å¡«ç™»å½•æˆåŠŸç­‰å¾…å¤šå°‘ç§’ è®©ç¬¬ä¸€ä¸ªçª—å£è¿›å…¥æ¸¸æˆåŽæ‰å¼€ç¬¬2çª— å¯æŸ¥çœ‹2.20å®Œæ•´ç‰ˆä¸­çš„setting.iniä¸­çœ‹åˆ°æ ¼å¼
+2.19
+1ã€è®¾ç½®ä¿æŠ¤ å‘½ä»¤æ·»åŠ äº†å¯¹æŠ¤ç›¾çš„æ”¯æŒ
+2ã€æ·»åŠ å–å›¾è®¾ç½® å‘½ä»¤æ·»åŠ äº†å¯¹æ¶‚æ²¹çš„æ”¯æŒ
+3ã€æ”¯æŒäº†å¤šå¼€ï¼Œ
+2.17
+1ã€ä¼˜åŒ–åˆ·å›¾é€Ÿåº¦
+2ã€æ”¯æŒå¯¹åœ°å›¾ä½¿ç”¨å´‡é«˜çŸ³
+3ã€æ–°å¢ž å˜é‡åž‹å‘½ä»¤ BOSSæ­»åŽç­‰å¾…æ—¶é—´  å•ä½ä¸ºç§’ é»˜è®¤ä¸º10
+4ã€ç¥­ç¥€æ‰“å®ŒåŽä¼šé©¬ä¸Šè¿›è¡Œè´­ä¹°äº†
 
-6.21
-1¡¢ÐÞ¸´ÁË×°±¸µÈ¼¶²»¹»»¹Ò»Ö±ÓÃ¹¤½³¿ª¿××°±¸µÄÎÊÌâ
-6.20A
-1¡¢ÐÞ¸ÄÁËÎ´µ½Òì½çÒ²¼ì²â½»Ò×
-6.20
-1¡¢ËæÓÎÏ·¸üÐÂ
-2¡¢Ôö¼Ó¶ÔÂã±¼Í· ×°±¸µÄÖ§³Ö
-6.18
-1¡¢ÓÅ»¯´ò¿×¡¢Á´½á¡¢»ÃÉ«×°±¸ËÙ¶È
-2¡¢AddWebNeedBuyGoods ÃüÁîÐÂÔöÁË µÈ¼¶¡¢ÎïÆ·ÊýÁ¿Ìõ¼þ£¬¿ÉÒÔÔÚÖ»Âú×ãÌõ¼þÊ±²ÅÈ¥ÍøÒ³¼¯ÊÐ¹ºÂòÁË
-3¡¢SetJiaoYiGoods ÃüÁîÐÂÔöÁË±£ÁôÊýÁ¿¹¦ÄÜ£¬¿ÉÒÔ×Ô¼º¶¨Òå±£Áô¶àÉÙ¸ö£¬¶à³öµÄ²ÅÈ¥½»Ò×¸ø²Ö¿âºÅÁË
-4¡¢ÐÂÔöÁËÒ»¸ö ÄÚÖÃÊý¾Ý.lua½Å±¾£¬ÓÐÐ©ÄãÃÇ¾õµÃ²»ÐèÒªµÄÄÚÖÃÉèÖÃ£¬¿ÉÒÔÔÚÀïÃæ×¢ÊÍµôÁË
-6.15A
-1¡¢ÐÂÔöSetDebuffSkill ÃüÁî ÉèÖÃ¶Ô¹ÖÎïÊ©·ÅµÄ¼õÒæ¼¼ÄÜ ²¢ÄÚÖÃÁËËùÓÐ×çÖä¼¼ÄÜ
-2¡¢ÐÂÔöAddShengJiZhuangBeiGoodsData ÃüÁî ÉèÖÃÉý¼¶×°±¸ÑÕÉ«µÄÎïÆ· ¿É¶¨Òå¶àÉÙ¼¶Ê¹ÓÃµã½ð ¾«ËèµÈÍ¨»õÉý¼¶×°±¸µÄÑÕÉ«
-6.15 
-1¡¢SetGoodsCaoZuo ÃüÁîÐÂÔöÓÐÐ§³¡¾°²ÎÊý 
-2¡¢AddAttackSkillData ÃüÁîÐÂÔö¹ÖÎïÊôÐÔÊýÁ¿²ÎÊý£¬¿ÉÓÃÀ´¿ØÖÆ¶Ô²»Í¬Ç¿¶ÈµÄ¹ÖÎï¶¨Òå²»Í¬µÄ¼¼ÄÜ ËùÓÐÍ¼ÌÚ¾ùÒÑÄÚÖÃ
-3¡¢ÐÂÔöSetOpenMapMasterData ÃüÁî ÉèÖÃÒì½ç¿ªÍ¼Ê±Ñ¡ÔñµÄÊÂ¼þ
-6.14A
-1¡¢ÄÚÖÃ·¨Êõ»ØÒô¡¢ÎÁÒßÊ¹Í½ ¼¼ÄÜÖ§³Ö
-6.14
-1¡¢ÐÞ¸´È¡Í¼Ê±Åöµ½Î´¼ø¶¨µÄÎÛÈ¾Í¼»á¼ø¶¨µÄÎÊÌâ
-2¡¢Ôö¼Ó µòÁãÖ®²½¡¢±©·çÖ®¶Ü¡¢µzÄÜÅûïL¡¢¼á¾öÕ½ºð¡¢¼¤ÀøÕ½ºð¡¢ÉîÔ¨Õ½ºð¼¼ÄÜÖ§³Ö
-6.11
-1¡¢ÐÞ¸´°×ÅÛÒ²»áÊ¶±ð³ÉÈýÉ«ÏàÁ¬µÄÎÊÌâ
-2¡¢ÐÞ¸´»á¶Ô°×ÅÛÊ¹ÓÃ»¤¼×Æ¬µÄÎÊÌâ
-3¡¢Ôö¼ÓÌì¸³Öé±¦Ö§³Ö ¾ßÌåÉèÖÃÇë¿´ Ê¹ÓÃËµÃ÷ ±Ø¿´.chm
-4¡¢Ôö¼ÓÏ´Ò©¹¦ÄÜ ¾ßÌåÉèÖÃÇë¿´ Ê¹ÓÃËµÃ÷ ±Ø¿´.chm
-6.8
-1¡¢ÐÞ¸´ÁËºÜ¶àÎÊÌâ£¬²¢ÐÂÔöÁË´óÁ¿ÉèÖÃÃüÁî Çë²é¿´ Ê¹ÓÃËµÃ÷ ±Ø¿´.chm ¹¦ÄÜÒÑÇ÷ÓÚÍêÉÆ£¬ÓÐÎÊÌâÇëÏòÎÒ·´À¡
-3.30
-1¡¢±ï³öÁËÁ½¸öÓ²Ò»µãµÄ½Å±¾×öÊ¾·¶£¬ËÀµÃÉÙ ²úÁ¿ÓÐËùÌá¸ß£¬¼ÇµÃÓÃÕâÁ½¸ö½Å±¾±ØÐëµÃÖØÐÂÁ·ºÅ¡£ £¨ÏëÒª²úÁ¿¸ß»¹ÊÇµÃ»áÍæÓÎÏ·µÄÈËÀ´È¥ÉèÖÃÅä×°BDÓë¼¼ÄÜ²ÅÐÐ£¬ÓÐÐËÈ¤µÄ¿ÉÒÔÕÕ×ÅÑù×Ó¸Ä×Ô¼ºÏëÒªµÄÉèÖÃ£©
-2¡¢¼òµ¥×öÁËÒ»¸öËµÃ÷ÈçºÎÕÒÓÎÏ·ÀïÎïÆ· ¼¼ÄÜ Óë´Ê×º ÔÚÄ¿Â¼ÏÂÀàÃû²éÕÒËµÃ÷.chm Ïë×Ô¼ºÐ´BDµÄ¿ÉÒÔ²Î¿¼Ò»ÏÂ
-3.19
-1¡¢ÐÞ¸´Å¼¶û¿¨¹ºÂòÍ¨»õ½çÃæ
-2¡¢ÐÞ¸´¼ñÔÙÓÐÔÚÐ¡µØÍ¼ÓÐÍ¼±êµÄÎïÆ·
-3.18
-1¡¢ÓÅ»¯¾çÇéËÙ¶È
-2¡¢ÐÞ¸´ÍøÒ³¼¯ÊÐ¹ºÂòµÄÐ¡ÎÊÌâ
-ÐèÒªÌæ»»½Å±¾Ä¿Â¼ÖÐµÄËùÓÐÓ¢ÎÄ½Å±¾ »¹ÓÐmypoe64.dll
-3.16 
-1¡¢ÐÂÔöÍøÒ³ÊÐ¼¯¹ºÂò×°±¸ ¿É×ÔÐÐÉèÖÃ ·¶Àý²Î¿¼Å®Î×½Å±¾ ÉèÖÃÃüÁîÎªAddWebNeedBuyGoods
-2¡¢ÐÂÔöµ½¶àÉÙ¼¶´ò²ÅÃÔÎí£¨ÐÂÈü¼¾ÄÚÈÝ£©ÔÚÍ¨ÓÃÉèÖÃÀï ÉèÖÃÃüÁîÎªg_needMiWuLv=75 ÒâË¼ÊÇÂú75¼¶²Å½øÃÔÎí´¥·¢
+
+
+
