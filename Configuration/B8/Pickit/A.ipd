@@ -60,9 +60,7 @@
 [Type] == "Omen of Fortune" # [StashItem] == "true" //	
 [Type] == "Incandescent Invitation" # [StashItem] == "true"//
 
-[Type] == "Shipyard Map" && [Rarity] == "Magic" # [ForceSellItem] == "true" //
-[Type] == "Shipyard Map" && [Rarity] == "Normal" # [ForceSellItem] == "true" //
-[Type] == "Toxic Sewer Map" && [Rarity] == "Magic" # [ForceSellItem] == "true" //
+
 //3.22
 
 //[Type] == "Portal" # [StashItem] == "true"
