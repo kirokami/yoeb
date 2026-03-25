@@ -101,7 +101,7 @@
 
 //// 3.28 Map ////
 
-[Type] == "Map" && [Rarity] == "Magic"  # [StashItem] == "true" //
+[Type] == "Map" && [Rarity] == "Magic"  # [ForceSellItem] == "true" //
 [Type] == "Map" && [Rarity] == "Normal"  # [StashItem] == "true" //
 [Type] == "Map" && [Rarity] == "Rare"  # [StashItem] == "true" //
 
@@ -192,7 +192,7 @@
 
 ////
 
-[Type] == "Orb of Alteration" # [StashItem] == "true"////
+//[Type] == "Orb of Alteration" # [StashItem] == "true"////
 //[Type] == "Orb of Regret"# [StashItem] == "true"////
 //[Type] == "Orb of Unmaking"# [StashItem] == "true"////
 //[Type] == "Enkindling Orb"# [StashItem] == "true"////
