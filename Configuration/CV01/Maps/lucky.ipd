@@ -24,7 +24,7 @@
 // 8 Original Description
 // 9 PS
 
-
+[Category] == "Map" #  [ExitAfterBossKill]  == "true"
 // 0 Basic Settings
 
 // Upgrading Quality
