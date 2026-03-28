@@ -1,8 +1,8 @@
 //[Type] == "Provisioning Wombgift" # [StashItem] == "true" 
-[Type] == "Lavish Wombgift" # [StashItem] == "true" 
-[Type] == "Ancient Wombgift" # [StashItem] == "true" 
+//[Type] == "Lavish Wombgift" # [StashItem] == "true" 
+//[Type] == "Ancient Wombgift" # [StashItem] == "true" 
 //[Type] == "Growing Wombgift" # [StashItem] == "true" 
-[Type] == "Mysterious Wombgift" # [StashItem] == "true" 
+//[Type] == "Mysterious Wombgift" # [StashItem] == "true" 
 
 [Type] == "Reflecting Mist" # [StashItem] == "true"//
 //
@@ -164,7 +164,7 @@
 
 ////
 
-//[Type] == "Orb of Alteration" # [StashItem] == "true"////
+[Type] == "Orb of Alteration" # [StashItem] == "true"////
 //[Type] == "Orb of Regret"# [StashItem] == "true"////
 //[Type] == "Orb of Unmaking"# [StashItem] == "true"////
 //[Type] == "Enkindling Orb"# [StashItem] == "true"////
@@ -192,7 +192,7 @@
 
 ////
 
-[Type] == "Vaal Orb" # [StashItem] == "true" //	//
+//[Type] == "Vaal Orb" # [StashItem] == "true" //	//
 [Type] == "Chaos Orb" # [StashItem] == "true"////
 [Type] == "Divine Orb" # [StashItem] == "true"////
 [Type] == "Exalted Orb" # [StashItem] == "true"////
