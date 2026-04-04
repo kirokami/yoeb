@@ -1,0 +1,8 @@
+{
+  "Enabled": false,
+  "SelectedLink": 0,
+  "CastRange": 55,
+  "BuffDurationSeconds": 12.0,
+  "RefreshThresholdSeconds": 3.0,
+  "MinIntervalMs": 800
+}

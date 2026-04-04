@@ -1,0 +1,36 @@
+{
+  "CompileAsynchronously": true,
+  "ExitOnLoadErrors": false,
+  "ExitOnCompileErrors": false,
+  "NoHideOnMinimize": false,
+  "WindowX": 148,
+  "WindowY": 159,
+  "WindowWidth": 640,
+  "WindowHeight": 480,
+  "SettingsWindowX": 0,
+  "SettingsWindowY": 0,
+  "SettingsWindowWidth": 627,
+  "SettingsWindowHeight": 477,
+  "TopRowDefinitionHeight": "124*",
+  "BottomRowDefinitionHeight": "292*",
+  "SplitterRowDefinitionHeight": "Auto",
+  "LastBot": "ExileFriend",
+  "LastRoutine": "ExampleRoutine",
+  "LastMover": "ExampleMover",
+  "LogLevel": "Full",
+  "EnabledPlugins": [
+    "DevTab",
+    "ObjectExplorer",
+    "palLoader"
+  ],
+  "ContentOrder": [
+    {
+      "Name": "CommonEvents"
+    }
+  ],
+  "DisabledContents": [
+    {
+      "Name": "ExampleDisabledPlugin"
+    }
+  ]
+}
