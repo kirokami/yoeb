@@ -1,0 +1,19 @@
+2026-03-14 14:31:12,970 [1] INFO  App - DreamPoeBot Version: 0.3.27.31
+Path: C:\Users\<Username>\Desktop\DreamPoeBot\<ExeName>
+Arguments: C:\Users\Administrator\Desktop\DreamPoeBot\DreamPoeBot.exe
+
+OS Name: Microsoft Windows 10 企业版 2016 长期服务版
+OS Version: 10.0.14393
+OS Architecture: 64 位
+InstalledUICulture: zh-CN [Chinese (Simplified, China)]
+CurrentUICulture: zh-CN [Chinese (Simplified, China)]
+CurrentCulture: zh-CN [Chinese (Simplified, China)]
+
+2026-03-14 14:31:13,029 [1] INFO  App - Now setting up JitProfiles...
+2026-03-14 14:31:13,032 [1] INFO  App - JitProfiles successfully setup!
+2026-03-14 14:31:13,034 [1] INFO  App - Now checking prerequisites...
+2026-03-14 14:31:13,035 [1] INFO  App - Prerequisite check complete!
+2026-03-14 14:32:29,452 [1] DEBUG ConfigSelection - Profile randomization enabled.
+2026-03-14 14:32:29,456 [1] DEBUG ConfigSelection - RandomProfileSelected is empty, selecting a new random profile.
+2026-03-14 14:32:29,458 [1] ERROR ConfigSelection - [SelectRandomProfile] Profiles Folder Path is empty, be sure to select a valid path.
+2026-03-14 14:32:35,310 [1] INFO  BotManager - [BotManager] MsBetweenTicks = 80

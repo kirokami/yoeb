@@ -1,0 +1,197 @@
+2026-03-24 19:19:57,901 [1] INFO  Logger - DreamPoeBot Version: 0.3.28.27
+Path: C:\Users\<Username>\Desktop\DreamPoeBot\<ExeName>
+Arguments: C:\Users\Administrator\Desktop\DreamPoeBot\DreamPoeBot.exe
+
+OS Name: Microsoft Windows 10 企业版 2016 长期服务版
+OS Version: 10.0.14393
+OS Architecture: 64 位
+InstalledUICulture: zh-CN [Chinese (Simplified, China)]
+CurrentUICulture: zh-CN [Chinese (Simplified, China)]
+CurrentCulture: zh-CN [Chinese (Simplified, China)]
+
+2026-03-24 19:19:57,948 [1] INFO  Logger - Now setting up JitProfiles...
+2026-03-24 19:19:57,948 [1] INFO  Logger - JitProfiles successfully setup!
+2026-03-24 19:19:57,948 [1] INFO  Logger - Now checking prerequisites...
+2026-03-24 19:19:57,948 [1] INFO  Logger - Prerequisite check complete!
+2026-03-24 19:20:01,355 [1] INFO  Logger - The selected domain is: Singapore. [S: 00:00:00.5242839, E: 00:00:00.5819017, C: 00:00:00.5916065, R: 00:00:00.6699621]
+2026-03-24 19:20:01,370 [1] INFO  Logger - DreamPoeBot [0.3.28.27] is up to date!
+2026-03-24 19:20:01,541 [12] INFO  Logger - [Pre-Login] Connecting to BestLatency [15.235.186.246]
+2026-03-24 19:20:02,419 [12] INFO  Logger - Region: eu
+2026-03-24 19:20:02,420 [12] INFO  Logger - T: 5250785498442805286 
+2026-03-24 19:21:09,235 [1] INFO  BotManager - [BotManager] MsBetweenTicks = 80
+2026-03-24 19:21:10,455 [15] INFO  Logger - Pattern scan completed.
+2026-03-24 19:21:33,283 [15] INFO  Logger - [Dat] Now building the Stat lookup table.
+2026-03-24 19:21:34,722 [15] INFO  Logger - [Dat] The Stat lookup table has been built.
+2026-03-24 19:21:34,777 [15] INFO  Logger - [Dat] Now building the Passive Skills lookup table.
+2026-03-24 19:21:35,205 [15] INFO  Logger - [Dat] The Passive Skills lookup table has been built.
+2026-03-24 19:21:35,256 [15] INFO  Logger - IGS = 385DFFF1010.
+2026-03-24 19:21:35,256 [15] INFO  Logger - LIS = 385DA17DF10.
+2026-03-24 19:21:35,256 [15] INFO  Logger - CSS = 385DAB10990.
+2026-03-24 19:21:35,257 [15] INFO  Logger - LSS = 385E43B6810.
+2026-03-24 19:21:35,258 [15] INFO  Logger - ALS = 385E43B5810.
+2026-03-24 19:21:38,367 [15] DEBUG ThirdPartyLoader - Loading start.
+2026-03-24 19:21:38,377 [15] DEBUG ThirdPartyLoader - Now loading [ExampleMover].
+2026-03-24 19:21:38,388 [15] DEBUG ThirdPartyLoader - [ExampleMover] will be loaded as [ExampleMover]. The base path is [].
+2026-03-24 19:21:38,390 [15] DEBUG ThirdPartyLoader - Now loading [ExamplePlugin].
+2026-03-24 19:21:38,391 [15] DEBUG ThirdPartyLoader - [ExamplePlugin] will be loaded as [ExamplePlugin]. The base path is [].
+2026-03-24 19:21:38,391 [15] DEBUG ThirdPartyLoader - Now loading [ExampleRoutine].
+2026-03-24 19:21:38,392 [15] DEBUG ThirdPartyLoader - [ExampleRoutine] will be loaded as [ExampleRoutine]. The base path is [].
+2026-03-24 19:21:38,392 [15] DEBUG ThirdPartyLoader - Now loading [Legacy].
+2026-03-24 19:21:38,395 [15] DEBUG ThirdPartyLoader - [Legacy] will be loaded as [Legacy]. The base path is [].
+2026-03-24 19:21:38,395 [15] DEBUG ThirdPartyLoader - Now loading [NullBot].
+2026-03-24 19:21:38,396 [15] DEBUG ThirdPartyLoader - [NullBot] will be loaded as [NullBot]. The base path is [].
+2026-03-24 19:21:38,396 [15] DEBUG ThirdPartyLoader - Now loading [ObjectExplorer].
+2026-03-24 19:21:38,397 [15] DEBUG ThirdPartyLoader - [ObjectExplorer] will be loaded as [ObjectExplorer]. The base path is [].
+2026-03-24 19:21:38,398 [15] DEBUG ThirdPartyLoader - Now loading [PatherExplorer].
+2026-03-24 19:21:38,399 [15] DEBUG ThirdPartyLoader - [PatherExplorer] will be loaded as [PatherExplorer]. The base path is [].
+2026-03-24 19:21:38,399 [15] DEBUG ThirdPartyLoader - Now loading [PluginLoader].
+2026-03-24 19:21:38,400 [15] DEBUG ThirdPartyLoader - [PluginLoader] will be loaded as [PluginLoader]. The base path is [].
+2026-03-24 19:21:38,401 [15] DEBUG ThirdPartyLoader - Now loading [SkillPlayerMover].
+2026-03-24 19:21:38,402 [15] DEBUG ThirdPartyLoader - [SkillPlayerMover] will be loaded as [SkillPlayerMover]. The base path is [].
+2026-03-24 19:21:38,403 [15] INFO  ThirdPartyLoader - Now asynchronously compiling dependency free content...
+2026-03-24 19:21:45,146 [20] INFO  ThirdPartyLoader - SkillPlayerMover
+2026-03-24 19:21:45,148 [20] INFO  ThirdPartyLoader -                    [Bots] : 
+2026-03-24 19:21:45,148 [20] INFO  ThirdPartyLoader -                    [Plugins] : 
+2026-03-24 19:21:45,148 [20] INFO  ThirdPartyLoader -                    [Routines] : 
+2026-03-24 19:21:45,149 [20] INFO  ThirdPartyLoader -                    [Content] : 
+2026-03-24 19:21:45,150 [20] INFO  ThirdPartyLoader -                    [PlayerMovers] : SkillPlayerMover (SkillPlayerMover: 0.4.0.12)
+2026-03-24 19:21:45,150 [7] INFO  ThirdPartyLoader - ExampleRoutine
+2026-03-24 19:21:45,151 [7] INFO  ThirdPartyLoader -                    [Bots] : 
+2026-03-24 19:21:45,151 [7] INFO  ThirdPartyLoader -                    [Plugins] : 
+2026-03-24 19:21:45,154 [7] INFO  ThirdPartyLoader -                    [Routines] : ExampleRoutine (ExampleRoutine: 1.0)
+2026-03-24 19:21:45,156 [7] INFO  ThirdPartyLoader -                    [Content] : 
+2026-03-24 19:21:45,156 [7] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2026-03-24 19:21:45,156 [5] INFO  ThirdPartyLoader - NullBot
+2026-03-24 19:21:45,158 [5] INFO  ThirdPartyLoader -                    [Bots] : NullBot (NullBot: 1.0)
+2026-03-24 19:21:45,158 [5] INFO  ThirdPartyLoader -                    [Plugins] : 
+2026-03-24 19:21:45,158 [5] INFO  ThirdPartyLoader -                    [Routines] : 
+2026-03-24 19:21:45,159 [5] INFO  ThirdPartyLoader -                    [Content] : 
+2026-03-24 19:21:45,159 [5] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2026-03-24 19:21:45,160 [15] INFO  ThirdPartyLoader - ExampleMover
+2026-03-24 19:21:45,165 [15] INFO  ThirdPartyLoader -                    [Bots] : 
+2026-03-24 19:21:45,166 [15] INFO  ThirdPartyLoader -                    [Plugins] : 
+2026-03-24 19:21:45,166 [15] INFO  ThirdPartyLoader -                    [Routines] : 
+2026-03-24 19:21:45,166 [15] INFO  ThirdPartyLoader -                    [Content] : 
+2026-03-24 19:21:45,178 [15] INFO  ThirdPartyLoader -                    [PlayerMovers] : ExampleMover (ExampleMover: 1.0)
+2026-03-24 19:21:45,180 [6] INFO  ThirdPartyLoader - PatherExplorer
+2026-03-24 19:21:45,181 [6] INFO  ThirdPartyLoader -                    [Bots] : 
+2026-03-24 19:21:45,182 [6] INFO  ThirdPartyLoader -                    [Plugins] : PatherExplorer (PatherExplorer: 0.0.1.4)
+2026-03-24 19:21:45,183 [6] INFO  ThirdPartyLoader -                    [Routines] : 
+2026-03-24 19:21:45,183 [6] INFO  ThirdPartyLoader -                    [Content] : 
+2026-03-24 19:21:45,184 [6] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2026-03-24 19:21:45,720 [5] INFO  ThirdPartyLoader - ObjectExplorer
+2026-03-24 19:21:45,720 [5] INFO  ThirdPartyLoader -                    [Bots] : 
+2026-03-24 19:21:45,721 [5] INFO  ThirdPartyLoader -                    [Plugins] : ObjectExplorer (ObjectExplorer: 0.0.1.1)
+2026-03-24 19:21:45,721 [5] INFO  ThirdPartyLoader -                    [Routines] : 
+2026-03-24 19:21:45,722 [5] INFO  ThirdPartyLoader -                    [Content] : 
+2026-03-24 19:21:45,722 [5] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2026-03-24 19:21:45,734 [20] INFO  ThirdPartyLoader - ExamplePlugin
+2026-03-24 19:21:45,734 [20] INFO  ThirdPartyLoader -                    [Bots] : 
+2026-03-24 19:21:45,735 [20] INFO  ThirdPartyLoader -                    [Plugins] : ExamplePlugin (ExamplePlugin: 1.0)
+2026-03-24 19:21:45,736 [20] INFO  ThirdPartyLoader -                    [Routines] : 
+2026-03-24 19:21:45,736 [20] INFO  ThirdPartyLoader -                    [Content] : 
+2026-03-24 19:21:45,736 [20] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2026-03-24 19:21:45,743 [15] INFO  Logger - [PluginLoader] Detected plugins: 
+-----------------
+	C:\Users\Administrator\Desktop\DreamPoeBot\Plugins\PalLoader.dll
+-----------------
+2026-03-24 19:21:45,764 [7] INFO  ThirdPartyLoader - Legacy
+2026-03-24 19:21:45,764 [7] INFO  ThirdPartyLoader -                    [Bots] : 
+2026-03-24 19:21:45,765 [7] INFO  ThirdPartyLoader -                    [Plugins] : DevTab (DevTab: 0.0.1.1)
+2026-03-24 19:21:45,766 [7] INFO  ThirdPartyLoader -                    [Routines] : 
+2026-03-24 19:21:45,771 [7] INFO  ThirdPartyLoader -                    [Content] : 
+2026-03-24 19:21:45,771 [7] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2026-03-24 19:21:45,799 [15] INFO  Logger - [PalLoader] Key found. Loading ExileFriend...
+2026-03-24 19:21:49,100 [12] INFO  Logger - [PalLoader] Bot type: ExileFriend.ExileFriend
+2026-03-24 19:21:49,444 [23] WARN  Logger - [_window_PropertyChanged] Handle: 721532
+2026-03-24 19:21:49,459 [12] INFO  Logger - [PalLoader] Loaded: ExileFriend v0.0.6.7
+2026-03-24 19:21:49,462 [12] INFO  Logger - [PalLoader] ExileFriend registered in BotManager. Select it from the bot dropdown.
+2026-03-24 19:21:49,464 [15] INFO  Logger - [PalLoader] ExileFriend ready. Select it from the bot dropdown.
+2026-03-24 19:21:49,466 [15] INFO  Logger - [[PluginLoader] Loaded: palLoader v1.3 <pallala> - Protected ExileFriend loader
+2026-03-24 19:21:49,467 [15] INFO  ThirdPartyLoader - PluginLoader
+2026-03-24 19:21:49,467 [15] INFO  ThirdPartyLoader -                    [Bots] : 
+2026-03-24 19:21:49,468 [15] INFO  ThirdPartyLoader -                    [Plugins] : PluginLoader (PluginLoader: 1.0)
+2026-03-24 19:21:49,468 [15] INFO  ThirdPartyLoader -                    [Routines] : 
+2026-03-24 19:21:49,470 [15] INFO  ThirdPartyLoader -                    [Content] : 
+2026-03-24 19:21:49,470 [15] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2026-03-24 19:21:49,471 [15] INFO  ThirdPartyLoader - Content compiled in 00:00:11.0672794.
+2026-03-24 19:21:49,472 [15] DEBUG ThirdPartyLoader - Loading finished!
+2026-03-24 19:21:49,482 [15] ERROR ThirdPartyLoader - Please put your plugins into respective subdirectories!
+2026-03-24 19:21:49,554 [24] WARN  Logger - [_window_PropertyChanged] X: 104
+2026-03-24 19:21:49,555 [24] WARN  Logger - [_window_PropertyChanged] Y: 44
+2026-03-24 19:21:50,385 [15] INFO  Logger - [Initialize] DreamPoeBot.Loki.Bot.SkillBlacklist
+2026-03-24 19:21:50,600 [15] INFO  Logger - [Initialize] NullBot.NullBot
+2026-03-24 19:21:50,602 [15] INFO  Logger - [Initialize] ExileFriend.ExileFriend
+2026-03-24 19:21:50,610 [25] WARN  Logger - [_window_PropertyChanged] Handle: 459826
+2026-03-24 19:21:50,632 [1] INFO  Logger - [ItemEvaluator] Instance = DreamPoeBot.Loki.Bot.DefaultItemEvaluator.
+2026-03-24 19:21:50,638 [26] WARN  Logger - [_window_PropertyChanged] X: 104
+2026-03-24 19:21:50,639 [26] WARN  Logger - [_window_PropertyChanged] Y: 44
+2026-03-24 19:21:50,770 [15] INFO  Logger - [Initialize] ExampleRoutine.ExampleRoutine
+2026-03-24 19:21:50,772 [15] INFO  Logger - Name: SingleTargetMeleeSlot (System.Int32)
+2026-03-24 19:21:50,774 [15] INFO  Logger - Name: SingleTargetRangedSlot (System.Int32)
+2026-03-24 19:21:50,775 [15] INFO  Logger - Name: AoeMeleeSlot (System.Int32)
+2026-03-24 19:21:50,775 [15] INFO  Logger - Name: AoeRangedSlot (System.Int32)
+2026-03-24 19:21:50,776 [15] INFO  Logger - Name: FallbackSlot (System.Int32)
+2026-03-24 19:21:50,776 [15] INFO  Logger - Name: CombatRange (System.Int32)
+2026-03-24 19:21:50,776 [15] INFO  Logger - Name: MaxMeleeRange (System.Int32)
+2026-03-24 19:21:50,777 [15] INFO  Logger - Name: MaxRangeRange (System.Int32)
+2026-03-24 19:21:50,777 [15] INFO  Logger - Name: SkipShrines (System.Boolean)
+2026-03-24 19:21:50,777 [15] INFO  Logger - Name: AoePackSize (System.Int32)
+2026-03-24 19:21:50,778 [15] INFO  Logger - Name: AlwaysAttackInPlace (System.Boolean)
+2026-03-24 19:21:50,882 [15] INFO  Logger - [Initialize] ExampleMover.ExampleMover
+2026-03-24 19:21:50,920 [15] INFO  Logger - [Initialize] SkillPlayerMover.SkillPlayerMover
+2026-03-24 19:21:51,018 [15] INFO  Logger - [PluginLoader] Detected plugins: 
+-----------------
+	C:\Users\Administrator\Desktop\DreamPoeBot\Plugins\PalLoader.dll
+-----------------
+2026-03-24 19:21:51,019 [15] INFO  Logger - [[PluginLoader] Loaded: palLoader v1.3 <pallala> - Protected ExileFriend loader
+2026-03-24 19:21:51,035 [15] INFO  Logger - [Initialize] ExileFriend.Banner.BannerManager
+2026-03-24 19:21:51,036 [15] INFO  Logger - [BannerManager] Initialized.
+2026-03-24 19:21:51,041 [15] INFO  Logger - [Initialize] Legacy.DevTab.DevTab
+2026-03-24 19:21:51,049 [15] INFO  Logger - [Initialize] ExamplePlugin.ExamplePlugin
+2026-03-24 19:21:51,054 [15] INFO  Logger - [Initialize] ExileFriend.Link.LinkManager
+2026-03-24 19:21:51,055 [15] INFO  Logger - [LinkManager] Initialized.
+2026-03-24 19:21:51,058 [15] INFO  Logger - [Initialize] ObjectExplorer.ObjectExplorer
+2026-03-24 19:21:51,059 [15] INFO  Logger - [Initialize] PalLoader.PalLoader
+2026-03-24 19:21:51,060 [15] INFO  Logger - [Initialize] PatherExplorer.PatherExplorer
+2026-03-24 19:21:51,061 [15] INFO  Logger - [Initialize] PluginLoader.PluginLoader
+2026-03-24 19:21:51,079 [15] INFO  Logger - [Initialize] ExileFriend.SmartFlask.SmartFlaskManager
+2026-03-24 19:21:51,079 [15] INFO  Logger - [SmartFlaskManager] Initialized.
+2026-03-24 19:21:51,101 [15] INFO  Logger - [Initialize] ExileFriend.Warcry.WarcryManager
+2026-03-24 19:21:51,101 [15] INFO  Logger - [WarcryManager] Initialized.
+2026-03-24 19:21:51,103 [15] INFO  Logger - [Enable] Legacy.DevTab.DevTab
+2026-03-24 19:21:51,104 [15] INFO  Logger - [Enable] ObjectExplorer.ObjectExplorer
+2026-03-24 19:21:51,105 [15] INFO  Logger - [Enable] PalLoader.PalLoader
+2026-03-24 19:21:51,275 [1] DEBUG Logger - Current 'Bot' set to ExileFriend.
+2026-03-24 19:21:51,576 [1] DEBUG Logger - Current 'Routine' set to ExampleRoutine.
+2026-03-24 19:21:51,975 [1] DEBUG Logger - Current 'PlayerMover' set to ExampleMover.
+2026-03-24 19:21:52,075 [15] INFO  Logger - Registering default Hotkeys:
+2026-03-24 19:21:52,079 [15] INFO  Logger - 
+GuideText
+GuideLink
+2026-03-24 19:26:33,258 [17] INFO  Logger - The Bot window is closed, now terminating DPB
+2026-03-24 19:26:33,867 [1] INFO  Logger - [PluginManager.Deinitialize] ExileFriend.Banner.BannerManager
+2026-03-24 19:26:33,869 [1] INFO  Logger - [BannerManager] Deinitialized.
+2026-03-24 19:26:33,870 [1] INFO  Logger - [PluginManager.Deinitialize] Legacy.DevTab.DevTab
+2026-03-24 19:26:33,871 [1] INFO  Logger - [PluginManager.Deinitialize] ExamplePlugin.ExamplePlugin
+2026-03-24 19:26:33,871 [1] INFO  Logger - [PluginManager.Deinitialize] ExileFriend.Link.LinkManager
+2026-03-24 19:26:33,872 [1] INFO  Logger - [LinkManager] Deinitialized.
+2026-03-24 19:26:33,873 [1] INFO  Logger - [PluginManager.Deinitialize] ObjectExplorer.ObjectExplorer
+2026-03-24 19:26:33,874 [1] INFO  Logger - [PluginManager.Deinitialize] PalLoader.PalLoader
+2026-03-24 19:26:33,876 [1] INFO  Logger - [PluginManager.Deinitialize] PatherExplorer.PatherExplorer
+2026-03-24 19:26:33,876 [1] INFO  Logger - [PluginManager.Deinitialize] PluginLoader.PluginLoader
+2026-03-24 19:26:33,876 [1] INFO  Logger - [PluginManager.Deinitialize] ExileFriend.SmartFlask.SmartFlaskManager
+2026-03-24 19:26:33,878 [1] INFO  Logger - [SmartFlaskManager] Deinitialized.
+2026-03-24 19:26:33,878 [1] INFO  Logger - [PluginManager.Deinitialize] ExileFriend.Warcry.WarcryManager
+2026-03-24 19:26:33,879 [1] INFO  Logger - [WarcryManager] Deinitialized.
+2026-03-24 19:26:33,881 [1] INFO  Logger - [PlayerMoverManager.Deinitialize] ExampleMover.ExampleMover
+2026-03-24 19:26:33,882 [1] INFO  Logger - [PlayerMoverManager.Deinitialize] SkillPlayerMover.SkillPlayerMover
+2026-03-24 19:26:33,884 [1] INFO  Logger - [RoutineManager.Deinitialize] ExampleRoutine.ExampleRoutine
+2026-03-24 19:26:33,886 [1] INFO  BotManager - [BotManager.Deinitialize] NullBot.NullBot
+2026-03-24 19:26:33,887 [1] INFO  BotManager - [BotManager.Deinitialize] ExileFriend.ExileFriend
+2026-03-24 19:26:33,888 [1] INFO  Logger - [ContentManager.Deinitialize] DreamPoeBot.Loki.Bot.SkillBlacklist
+2026-03-24 19:26:34,269 [14] ERROR Logger - Authentication thread exception: System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   在 System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   在 GG9lXdY6dBxWdvtqnKHX.RadYqAWmIic(Int32 , GG9lXdY6dBxWdvtqnKHX )
+   在 CBvkp2DfMAw8owPW2X.bhqQBD5ABvBeAfYAGlo.FIeamkjM1j9DuqlRsm5Z.C1JjMqgV4cY()

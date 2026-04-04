@@ -1,0 +1,27 @@
+2026-03-14 14:56:34,863 [1] INFO  Logger - DreamPoeBot Version: 0.3.28.10
+Path: C:\Users\<Username>\Desktop\DreamPoeBot\<ExeName>
+Arguments: C:\Users\Administrator\Desktop\DreamPoeBot\DreamPoeBot.exe
+
+OS Name: Microsoft Windows 10 企业版 2016 长期服务版
+OS Version: 10.0.14393
+OS Architecture: 64 位
+InstalledUICulture: zh-CN [Chinese (Simplified, China)]
+CurrentUICulture: zh-CN [Chinese (Simplified, China)]
+CurrentCulture: zh-CN [Chinese (Simplified, China)]
+
+2026-03-14 14:56:34,910 [1] INFO  Logger - Now setting up JitProfiles...
+2026-03-14 14:56:34,910 [1] INFO  Logger - JitProfiles successfully setup!
+2026-03-14 14:56:34,925 [1] INFO  Logger - Now checking prerequisites...
+2026-03-14 14:56:34,925 [1] INFO  Logger - Prerequisite check complete!
+2026-03-14 14:56:50,124 [1] INFO  Logger - The selected domain is: Singapore. [S: 00:00:00.4988166, E: 00:00:00.5964690, C: 00:00:00.5927728, R: 00:00:00.6073221]
+2026-03-14 14:56:50,124 [1] INFO  Logger - DreamPoeBot [0.3.28.10] is up to date!
+2026-03-14 14:56:50,354 [12] INFO  Logger - [Pre-Login] Connecting to BestLatency [15.235.186.246]
+2026-03-14 14:56:51,350 [12] INFO  Logger - Region: eu
+2026-03-14 14:56:51,352 [12] INFO  Logger - T: 5250776700530946333 
+2026-03-14 14:56:53,042 [1] INFO  BotManager - [BotManager] MsBetweenTicks = 80
+2026-03-14 14:56:54,373 [7] INFO  Logger - Pattern scan completed.
+2026-03-14 14:56:54,388 [7] ERROR Logger - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 DreamPoeBot.Loki.Controllers.GameStateController..ctor()
+   在 DreamPoeBot.Loki.Controllers.GameController..ctor(Memory memory)
+   在 DreamPoeBot.Loki.Game.LokiPoe.QrviIrwxr4(Offsets  , Int32  )
+   在 DreamPoeBot.Loki.Game.LokiPoe.ONvitGEZPZ(Process  , String&  )

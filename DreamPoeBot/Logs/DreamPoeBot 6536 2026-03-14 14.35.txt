@@ -1,0 +1,66 @@
+2026-03-14 14:35:21,815 [1] INFO  Logger - DreamPoeBot Version: 0.3.28.10
+Path: C:\Users\<Username>\Desktop\DreamPoeBot\<ExeName>
+Arguments: C:\Users\Administrator\Desktop\DreamPoeBot\DreamPoeBot.exe
+
+OS Name: Microsoft Windows 10 企业版 2016 长期服务版
+OS Version: 10.0.14393
+OS Architecture: 64 位
+InstalledUICulture: zh-CN [Chinese (Simplified, China)]
+CurrentUICulture: zh-CN [Chinese (Simplified, China)]
+CurrentCulture: zh-CN [Chinese (Simplified, China)]
+
+2026-03-14 14:35:21,857 [1] INFO  Logger - Now setting up JitProfiles...
+2026-03-14 14:35:21,860 [1] INFO  Logger - JitProfiles successfully setup!
+2026-03-14 14:35:21,867 [1] INFO  Logger - Now checking prerequisites...
+2026-03-14 14:35:21,868 [1] INFO  Logger - Prerequisite check complete!
+2026-03-14 14:36:00,627 [1] INFO  Logger - The selected domain is: Singapore. [S: 00:00:00.5029508, E: 00:00:00.5768279, C: 00:00:00.5953564, R: 00:00:00.5806385]
+2026-03-14 14:36:00,631 [1] INFO  Logger - DreamPoeBot [0.3.28.10] is up to date!
+2026-03-14 14:36:01,050 [13] INFO  Logger - [Pre-Login] Connecting to BestLatency [15.235.186.246]
+2026-03-14 14:36:02,367 [13] INFO  Logger - The connection with the Auth server were lost and could not be reestablished for more than 1 minute, the bot is now closing.
+2026-03-14 14:36:02,370 [13] ERROR Logger - Error
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 nmhASbKh5QExTAgV2U.VixGK5r8fqSAavEmIa5h.h1Qr8gPDsRb()
+   在 nmhASbKh5QExTAgV2U.epGL2yV5b7lR0EtrsKK.rr8hnsrlrN7iItZAwbO9.kMFrlGWL9aT(Object  , EventArgs  )
+   在 nmhASbKh5QExTAgV2U.vhaeRTK9BChrslhoSAE.KcoBc6jAQG(String  , Byte  , Int64  )
+   在 nmhASbKh5QExTAgV2U.epGL2yV5b7lR0EtrsKK.RrxeHVrl65Ner20VZUTT.eyXrlj8CQD6(vhaeRTK9BChrslhoSAE  )
+2026-03-14 14:36:02,646 [13] INFO  Logger - AttemptLogin failed for the current key, waiting 1s then trying next one...
+2026-03-14 14:36:03,647 [13] INFO  Logger - [Pre-Login] Connecting to BestLatency [15.235.186.246]
+2026-03-14 14:36:04,375 [13] INFO  Logger - The connection with the Auth server were lost and could not be reestablished for more than 1 minute, the bot is now closing.
+2026-03-14 14:36:04,375 [13] ERROR Logger - Error
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 nmhASbKh5QExTAgV2U.VixGK5r8fqSAavEmIa5h.h1Qr8gPDsRb()
+   在 nmhASbKh5QExTAgV2U.epGL2yV5b7lR0EtrsKK.rr8hnsrlrN7iItZAwbO9.kMFrlGWL9aT(Object  , EventArgs  )
+   在 nmhASbKh5QExTAgV2U.vhaeRTK9BChrslhoSAE.KcoBc6jAQG(String  , Byte  , Int64  )
+   在 nmhASbKh5QExTAgV2U.epGL2yV5b7lR0EtrsKK.RrxeHVrl65Ner20VZUTT.eyXrlj8CQD6(vhaeRTK9BChrslhoSAE  )
+2026-03-14 14:36:05,612 [13] INFO  Logger - AttemptLogin failed for the current key, waiting 1s then trying next one...
+2026-03-14 14:36:06,614 [13] INFO  Logger - [Pre-Login] Connecting to BestLatency [15.235.186.246]
+2026-03-14 14:36:07,299 [13] INFO  Logger - The connection with the Auth server were lost and could not be reestablished for more than 1 minute, the bot is now closing.
+2026-03-14 14:36:07,301 [13] ERROR Logger - Error
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 nmhASbKh5QExTAgV2U.VixGK5r8fqSAavEmIa5h.h1Qr8gPDsRb()
+   在 nmhASbKh5QExTAgV2U.epGL2yV5b7lR0EtrsKK.rr8hnsrlrN7iItZAwbO9.kMFrlGWL9aT(Object  , EventArgs  )
+   在 nmhASbKh5QExTAgV2U.vhaeRTK9BChrslhoSAE.KcoBc6jAQG(String  , Byte  , Int64  )
+   在 nmhASbKh5QExTAgV2U.epGL2yV5b7lR0EtrsKK.RrxeHVrl65Ner20VZUTT.eyXrlj8CQD6(vhaeRTK9BChrslhoSAE  )
+2026-03-14 14:36:07,528 [13] INFO  Logger - AttemptLogin failed for the current key, waiting 1s then trying next one...
+2026-03-14 14:36:08,529 [13] INFO  Logger - [Pre-Login] Connecting to BestLatency [15.235.186.246]
+2026-03-14 14:36:09,237 [13] INFO  Logger - The connection with the Auth server were lost and could not be reestablished for more than 1 minute, the bot is now closing.
+2026-03-14 14:36:09,245 [13] ERROR Logger - Error
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 nmhASbKh5QExTAgV2U.VixGK5r8fqSAavEmIa5h.h1Qr8gPDsRb()
+   在 nmhASbKh5QExTAgV2U.epGL2yV5b7lR0EtrsKK.rr8hnsrlrN7iItZAwbO9.kMFrlGWL9aT(Object  , EventArgs  )
+   在 nmhASbKh5QExTAgV2U.vhaeRTK9BChrslhoSAE.KcoBc6jAQG(String  , Byte  , Int64  )
+   在 nmhASbKh5QExTAgV2U.epGL2yV5b7lR0EtrsKK.RrxeHVrl65Ner20VZUTT.eyXrlj8CQD6(vhaeRTK9BChrslhoSAE  )
+2026-03-14 14:36:09,488 [13] INFO  Logger - AttemptLogin failed for the current key, waiting 1s then trying next one...
+2026-03-14 14:36:10,491 [13] ERROR Logger - There was an error authenticating your key with the server. Please try again or use a different key.
+
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 nmhASbKh5QExTAgV2U.VixGK5r8fqSAavEmIa5h.h1Qr8gPDsRb()
+   在 nmhASbKh5QExTAgV2U.epGL2yV5b7lR0EtrsKK.rr8hnsrlrN7iItZAwbO9.kMFrlGWL9aT(Object  , EventArgs  )
+   在 nmhASbKh5QExTAgV2U.vhaeRTK9BChrslhoSAE.KcoBc6jAQG(String  , Byte  , Int64  )
+   在 nmhASbKh5QExTAgV2U.epGL2yV5b7lR0EtrsKK.RrxeHVrl65Ner20VZUTT.eyXrlj8CQD6(vhaeRTK9BChrslhoSAE  )
+2026-03-14 14:36:13,893 [1] INFO  BotManager - [BotManager] MsBetweenTicks = 80
+2026-03-14 14:36:13,914 [1] ERROR Logger - [LokiPoe.Deinitializer-Exception] Unhandled exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at nmhASbKh5QExTAgV2U.VixGK5r8fqSAavEmIa5h.h1Qr8gPDsRb()
+   at nmhASbKh5QExTAgV2U.XnnthArLdYXki4he206D.aqvrLotW9tl()
+   at DreamPoeBot.Loki.Game.LokiPoe.F5MiX1uFdM()
+   at DreamPoeBot.App.OnExit(ExitEventArgs e)

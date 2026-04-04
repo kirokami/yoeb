@@ -1,0 +1,22 @@
+2026-03-17 21:17:09,736 [1] INFO  Logger - DreamPoeBot Version: 0.3.28.10
+Path: C:\Users\<Username>\Desktop\DreamPoeBot\<ExeName>
+Arguments: C:\Users\Administrator\Desktop\DreamPoeBot\DreamPoeBot.exe
+
+OS Name: Microsoft Windows 10 企业版 2016 长期服务版
+OS Version: 10.0.14393
+OS Architecture: 64 位
+InstalledUICulture: zh-CN [Chinese (Simplified, China)]
+CurrentUICulture: zh-CN [Chinese (Simplified, China)]
+CurrentCulture: zh-CN [Chinese (Simplified, China)]
+
+2026-03-17 21:17:09,835 [1] INFO  Logger - Now setting up JitProfiles...
+2026-03-17 21:17:09,840 [1] INFO  Logger - JitProfiles successfully setup!
+2026-03-17 21:17:09,853 [1] INFO  Logger - Now checking prerequisites...
+2026-03-17 21:17:09,854 [1] INFO  Logger - Prerequisite check complete!
+2026-03-17 21:17:17,749 [1] INFO  Logger - The selected domain is: Canada. [S: 10675199.02:48:05.4775807, E: 00:00:03.5969723, C: 00:00:00.5891667, R: 00:00:00.6845212]
+2026-03-17 21:17:23,330 [1] INFO  BotManager - [BotManager] MsBetweenTicks = 80
+2026-03-17 21:17:23,369 [1] ERROR Logger - [LokiPoe.Deinitializer-Exception] Unhandled exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at nmhASbKh5QExTAgV2U.VixGK5r8fqSAavEmIa5h.h1Qr8gPDsRb()
+   at nmhASbKh5QExTAgV2U.XnnthArLdYXki4he206D.aqvrLotW9tl()
+   at DreamPoeBot.Loki.Game.LokiPoe.F5MiX1uFdM()
+   at DreamPoeBot.App.OnExit(ExitEventArgs e)

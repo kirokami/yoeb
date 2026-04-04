@@ -1,0 +1,569 @@
+2026-03-14 15:10:24,006 [1] INFO  Logger - DreamPoeBot Version: 0.3.28.10
+Path: C:\Users\<Username>\Desktop\DreamPoeBot\<ExeName>
+Arguments: C:\Users\Administrator\Desktop\DreamPoeBot\DreamPoeBot.exe
+
+OS Name: Microsoft Windows 10 企业版 2016 长期服务版
+OS Version: 10.0.14393
+OS Architecture: 64 位
+InstalledUICulture: zh-CN [Chinese (Simplified, China)]
+CurrentUICulture: zh-CN [Chinese (Simplified, China)]
+CurrentCulture: zh-CN [Chinese (Simplified, China)]
+
+2026-03-14 15:10:24,037 [1] INFO  Logger - Now setting up JitProfiles...
+2026-03-14 15:10:24,037 [1] INFO  Logger - JitProfiles successfully setup!
+2026-03-14 15:10:24,052 [1] INFO  Logger - Now checking prerequisites...
+2026-03-14 15:10:24,052 [1] INFO  Logger - Prerequisite check complete!
+2026-03-14 15:10:28,412 [1] INFO  Logger - The selected domain is: Singapore. [S: 00:00:00.4871839, E: 00:00:00.5800891, C: 00:00:00.5746766, R: 00:00:00.5832581]
+2026-03-14 15:10:28,412 [1] INFO  Logger - DreamPoeBot [0.3.28.10] is up to date!
+2026-03-14 15:10:29,069 [12] INFO  Logger - [Pre-Login] Connecting to BestLatency [15.235.186.246]
+2026-03-14 15:10:30,320 [12] INFO  Logger - Region: eu
+2026-03-14 15:10:30,321 [12] INFO  Logger - T: 5250776708718080866 
+2026-03-14 15:11:43,732 [1] INFO  BotManager - [BotManager] MsBetweenTicks = 80
+2026-03-14 15:11:45,351 [15] INFO  Logger - Pattern scan completed.
+2026-03-14 15:12:11,062 [15] INFO  Logger - [Dat] Now building the Stat lookup table.
+2026-03-14 15:12:12,571 [15] INFO  Logger - [Dat] The Stat lookup table has been built.
+2026-03-14 15:12:12,629 [15] INFO  Logger - [Dat] Now building the Passive Skills lookup table.
+2026-03-14 15:12:13,084 [15] INFO  Logger - [Dat] The Passive Skills lookup table has been built.
+2026-03-14 15:12:13,135 [15] INFO  Logger - IGS = 4CAC9FC1010.
+2026-03-14 15:12:13,136 [15] INFO  Logger - LIS = 4CAC417DC10.
+2026-03-14 15:12:13,136 [15] INFO  Logger - CSS = 4CAC9B70990.
+2026-03-14 15:12:13,136 [15] INFO  Logger - LSS = 4CACC346810.
+2026-03-14 15:12:13,137 [15] INFO  Logger - ALS = 4CACC345810.
+2026-03-14 15:12:15,991 [15] DEBUG ThirdPartyLoader - Loading start.
+2026-03-14 15:12:16,000 [15] DEBUG ThirdPartyLoader - Now loading [ExampleMover].
+2026-03-14 15:12:16,012 [15] DEBUG ThirdPartyLoader - [ExampleMover] will be loaded as [ExampleMover]. The base path is [].
+2026-03-14 15:12:16,014 [15] DEBUG ThirdPartyLoader - Now loading [ExamplePlugin].
+2026-03-14 15:12:16,015 [15] DEBUG ThirdPartyLoader - [ExamplePlugin] will be loaded as [ExamplePlugin]. The base path is [].
+2026-03-14 15:12:16,016 [15] DEBUG ThirdPartyLoader - Now loading [ExampleRoutine].
+2026-03-14 15:12:16,018 [15] DEBUG ThirdPartyLoader - [ExampleRoutine] will be loaded as [ExampleRoutine]. The base path is [].
+2026-03-14 15:12:16,018 [15] DEBUG ThirdPartyLoader - Now loading [Legacy].
+2026-03-14 15:12:16,022 [15] DEBUG ThirdPartyLoader - [Legacy] will be loaded as [Legacy]. The base path is [].
+2026-03-14 15:12:16,022 [15] DEBUG ThirdPartyLoader - Now loading [NullBot].
+2026-03-14 15:12:16,024 [15] DEBUG ThirdPartyLoader - [NullBot] will be loaded as [NullBot]. The base path is [].
+2026-03-14 15:12:16,024 [15] DEBUG ThirdPartyLoader - Now loading [ObjectExplorer].
+2026-03-14 15:12:16,027 [15] DEBUG ThirdPartyLoader - [ObjectExplorer] will be loaded as [ObjectExplorer]. The base path is [].
+2026-03-14 15:12:16,027 [15] DEBUG ThirdPartyLoader - Now loading [PatherExplorer].
+2026-03-14 15:12:16,029 [15] DEBUG ThirdPartyLoader - [PatherExplorer] will be loaded as [PatherExplorer]. The base path is [].
+2026-03-14 15:12:16,030 [15] DEBUG ThirdPartyLoader - Now loading [PluginLoader].
+2026-03-14 15:12:16,032 [15] DEBUG ThirdPartyLoader - [PluginLoader] will be loaded as [PluginLoader]. The base path is [].
+2026-03-14 15:12:16,032 [15] DEBUG ThirdPartyLoader - Now loading [SkillPlayerMover].
+2026-03-14 15:12:16,036 [15] DEBUG ThirdPartyLoader - [SkillPlayerMover] will be loaded as [SkillPlayerMover]. The base path is [].
+2026-03-14 15:12:16,037 [15] INFO  ThirdPartyLoader - Now asynchronously compiling dependency free content...
+2026-03-14 15:12:22,848 [14] INFO  ThirdPartyLoader - ExampleRoutine
+2026-03-14 15:12:22,850 [14] INFO  ThirdPartyLoader -                    [Bots] : 
+2026-03-14 15:12:22,850 [14] INFO  ThirdPartyLoader -                    [Plugins] : 
+2026-03-14 15:12:22,851 [14] INFO  ThirdPartyLoader -                    [Routines] : ExampleRoutine (ExampleRoutine: 1.0)
+2026-03-14 15:12:22,853 [14] INFO  ThirdPartyLoader -                    [Content] : 
+2026-03-14 15:12:22,853 [14] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2026-03-14 15:12:22,854 [7] INFO  ThirdPartyLoader - PatherExplorer
+2026-03-14 15:12:22,854 [7] INFO  ThirdPartyLoader -                    [Bots] : 
+2026-03-14 15:12:22,855 [7] INFO  ThirdPartyLoader -                    [Plugins] : PatherExplorer (PatherExplorer: 0.0.1.4)
+2026-03-14 15:12:22,855 [7] INFO  ThirdPartyLoader -                    [Routines] : 
+2026-03-14 15:12:22,856 [7] INFO  ThirdPartyLoader -                    [Content] : 
+2026-03-14 15:12:22,856 [7] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2026-03-14 15:12:22,857 [15] INFO  ThirdPartyLoader - ExampleMover
+2026-03-14 15:12:22,858 [15] INFO  ThirdPartyLoader -                    [Bots] : 
+2026-03-14 15:12:22,858 [15] INFO  ThirdPartyLoader -                    [Plugins] : 
+2026-03-14 15:12:22,858 [15] INFO  ThirdPartyLoader -                    [Routines] : 
+2026-03-14 15:12:22,858 [15] INFO  ThirdPartyLoader -                    [Content] : 
+2026-03-14 15:12:22,860 [15] INFO  ThirdPartyLoader -                    [PlayerMovers] : ExampleMover (ExampleMover: 1.0)
+2026-03-14 15:12:22,861 [12] INFO  ThirdPartyLoader - NullBot
+2026-03-14 15:12:22,869 [12] INFO  ThirdPartyLoader -                    [Bots] : NullBot (NullBot: 1.0)
+2026-03-14 15:12:22,869 [12] INFO  ThirdPartyLoader -                    [Plugins] : 
+2026-03-14 15:12:22,870 [12] INFO  ThirdPartyLoader -                    [Routines] : 
+2026-03-14 15:12:22,872 [12] INFO  ThirdPartyLoader -                    [Content] : 
+2026-03-14 15:12:22,872 [12] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2026-03-14 15:12:23,265 [14] INFO  ThirdPartyLoader - Legacy
+2026-03-14 15:12:23,265 [14] INFO  ThirdPartyLoader -                    [Bots] : 
+2026-03-14 15:12:23,265 [14] INFO  ThirdPartyLoader -                    [Plugins] : DevTab (DevTab: 0.0.1.1)
+2026-03-14 15:12:23,267 [14] INFO  ThirdPartyLoader -                    [Routines] : 
+2026-03-14 15:12:23,267 [14] INFO  ThirdPartyLoader -                    [Content] : 
+2026-03-14 15:12:23,267 [14] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2026-03-14 15:12:23,291 [7] INFO  Logger - [PluginLoader] Detected plugins: 
+-----------------
+	C:\Users\Administrator\Desktop\DreamPoeBot\Plugins\PalLoader.dll
+-----------------
+2026-03-14 15:12:23,353 [7] INFO  Logger - [PalLoader] Key found. Loading ExileFriend...
+2026-03-14 15:12:23,376 [15] INFO  ThirdPartyLoader - ExamplePlugin
+2026-03-14 15:12:23,376 [15] INFO  ThirdPartyLoader -                    [Bots] : 
+2026-03-14 15:12:23,379 [15] INFO  ThirdPartyLoader -                    [Plugins] : ExamplePlugin (ExamplePlugin: 1.0)
+2026-03-14 15:12:23,379 [15] INFO  ThirdPartyLoader -                    [Routines] : 
+2026-03-14 15:12:23,379 [15] INFO  ThirdPartyLoader -                    [Content] : 
+2026-03-14 15:12:23,379 [15] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2026-03-14 15:12:23,453 [12] INFO  ThirdPartyLoader - ObjectExplorer
+2026-03-14 15:12:23,453 [12] INFO  ThirdPartyLoader -                    [Bots] : 
+2026-03-14 15:12:23,454 [12] INFO  ThirdPartyLoader -                    [Plugins] : ObjectExplorer (ObjectExplorer: 0.0.1.1)
+2026-03-14 15:12:23,454 [12] INFO  ThirdPartyLoader -                    [Routines] : 
+2026-03-14 15:12:23,454 [12] INFO  ThirdPartyLoader -                    [Content] : 
+2026-03-14 15:12:23,454 [12] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2026-03-14 15:12:23,681 [14] INFO  ThirdPartyLoader - SkillPlayerMover
+2026-03-14 15:12:23,681 [14] INFO  ThirdPartyLoader -                    [Bots] : 
+2026-03-14 15:12:23,681 [14] INFO  ThirdPartyLoader -                    [Plugins] : 
+2026-03-14 15:12:23,681 [14] INFO  ThirdPartyLoader -                    [Routines] : 
+2026-03-14 15:12:23,681 [14] INFO  ThirdPartyLoader -                    [Content] : 
+2026-03-14 15:12:23,681 [14] INFO  ThirdPartyLoader -                    [PlayerMovers] : SkillPlayerMover (SkillPlayerMover: 0.4.0.12)
+2026-03-14 15:12:24,488 [6] INFO  Logger - [PalLoader] Bot type: ExileFriend.ExileFriend
+2026-03-14 15:12:24,859 [20] WARN  Logger - [_window_PropertyChanged] Handle: 394382
+2026-03-14 15:12:24,869 [6] INFO  Logger - [PalLoader] Loaded: ExileFriend v0.0.6.1
+2026-03-14 15:12:24,872 [6] INFO  Logger - [PalLoader] ExileFriend registered in BotManager. Select it from the bot dropdown.
+2026-03-14 15:12:24,873 [7] INFO  Logger - [PalLoader] ExileFriend ready. Select it from the bot dropdown.
+2026-03-14 15:12:24,875 [7] INFO  Logger - [[PluginLoader] Loaded: palLoader v1.1 <pallala> - Protected ExileFriend loader
+2026-03-14 15:12:24,876 [7] INFO  ThirdPartyLoader - PluginLoader
+2026-03-14 15:12:24,876 [7] INFO  ThirdPartyLoader -                    [Bots] : 
+2026-03-14 15:12:24,877 [7] INFO  ThirdPartyLoader -                    [Plugins] : PluginLoader (PluginLoader: 1.0)
+2026-03-14 15:12:24,877 [7] INFO  ThirdPartyLoader -                    [Routines] : 
+2026-03-14 15:12:24,878 [7] INFO  ThirdPartyLoader -                    [Content] : 
+2026-03-14 15:12:24,878 [7] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2026-03-14 15:12:24,878 [15] INFO  ThirdPartyLoader - Content compiled in 00:00:08.8403359.
+2026-03-14 15:12:24,879 [15] DEBUG ThirdPartyLoader - Loading finished!
+2026-03-14 15:12:24,888 [15] ERROR ThirdPartyLoader - Please put your plugins into respective subdirectories!
+2026-03-14 15:12:24,966 [21] WARN  Logger - [_window_PropertyChanged] X: 104
+2026-03-14 15:12:24,967 [21] WARN  Logger - [_window_PropertyChanged] Y: 44
+2026-03-14 15:12:25,929 [15] INFO  Logger - [Initialize] DreamPoeBot.Loki.Bot.SkillBlacklist
+2026-03-14 15:12:26,136 [15] INFO  Logger - [Initialize] NullBot.NullBot
+2026-03-14 15:12:26,138 [15] INFO  Logger - [Initialize] ExileFriend.ExileFriend
+2026-03-14 15:12:26,145 [22] WARN  Logger - [_window_PropertyChanged] Handle: 460080
+2026-03-14 15:12:26,178 [23] WARN  Logger - [_window_PropertyChanged] X: 104
+2026-03-14 15:12:26,179 [23] WARN  Logger - [_window_PropertyChanged] Y: 44
+2026-03-14 15:12:26,193 [1] INFO  Logger - [ItemEvaluator] Instance = DreamPoeBot.Loki.Bot.DefaultItemEvaluator.
+2026-03-14 15:12:26,338 [15] INFO  Logger - [Initialize] ExampleRoutine.ExampleRoutine
+2026-03-14 15:12:26,342 [15] INFO  Logger - Name: SingleTargetMeleeSlot (System.Int32)
+2026-03-14 15:12:26,344 [15] INFO  Logger - Name: SingleTargetRangedSlot (System.Int32)
+2026-03-14 15:12:26,344 [15] INFO  Logger - Name: AoeMeleeSlot (System.Int32)
+2026-03-14 15:12:26,345 [15] INFO  Logger - Name: AoeRangedSlot (System.Int32)
+2026-03-14 15:12:26,345 [15] INFO  Logger - Name: FallbackSlot (System.Int32)
+2026-03-14 15:12:26,345 [15] INFO  Logger - Name: CombatRange (System.Int32)
+2026-03-14 15:12:26,346 [15] INFO  Logger - Name: MaxMeleeRange (System.Int32)
+2026-03-14 15:12:26,346 [15] INFO  Logger - Name: MaxRangeRange (System.Int32)
+2026-03-14 15:12:26,346 [15] INFO  Logger - Name: SkipShrines (System.Boolean)
+2026-03-14 15:12:26,347 [15] INFO  Logger - Name: AoePackSize (System.Int32)
+2026-03-14 15:12:26,347 [15] INFO  Logger - Name: AlwaysAttackInPlace (System.Boolean)
+2026-03-14 15:12:26,448 [15] INFO  Logger - [Initialize] ExampleMover.ExampleMover
+2026-03-14 15:12:26,486 [15] INFO  Logger - [Initialize] SkillPlayerMover.SkillPlayerMover
+2026-03-14 15:12:26,605 [15] INFO  Logger - [PluginLoader] Detected plugins: 
+-----------------
+	C:\Users\Administrator\Desktop\DreamPoeBot\Plugins\PalLoader.dll
+-----------------
+2026-03-14 15:12:26,607 [15] INFO  Logger - [[PluginLoader] Loaded: palLoader v1.1 <pallala> - Protected ExileFriend loader
+2026-03-14 15:12:26,631 [15] INFO  Logger - [Initialize] ExileFriend.Banner.BannerManager
+2026-03-14 15:12:26,632 [15] INFO  Logger - [BannerManager] Initialized.
+2026-03-14 15:12:26,639 [15] INFO  Logger - [Initialize] Legacy.DevTab.DevTab
+2026-03-14 15:12:26,647 [15] INFO  Logger - [Initialize] ExamplePlugin.ExamplePlugin
+2026-03-14 15:12:26,651 [15] INFO  Logger - [Initialize] ExileFriend.Link.LinkManager
+2026-03-14 15:12:26,652 [15] INFO  Logger - [LinkManager] Initialized.
+2026-03-14 15:12:26,656 [15] INFO  Logger - [Initialize] ObjectExplorer.ObjectExplorer
+2026-03-14 15:12:26,656 [15] INFO  Logger - [Initialize] PalLoader.PalLoader
+2026-03-14 15:12:26,658 [15] INFO  Logger - [Initialize] PatherExplorer.PatherExplorer
+2026-03-14 15:12:26,659 [15] INFO  Logger - [Initialize] PluginLoader.PluginLoader
+2026-03-14 15:12:26,675 [15] INFO  Logger - [Initialize] ExileFriend.SmartFlask.SmartFlaskManager
+2026-03-14 15:12:26,675 [15] INFO  Logger - [SmartFlaskManager] Initialized.
+2026-03-14 15:12:26,693 [15] INFO  Logger - [Initialize] ExileFriend.Warcry.WarcryManager
+2026-03-14 15:12:26,693 [15] INFO  Logger - [WarcryManager] Initialized.
+2026-03-14 15:12:26,695 [15] INFO  Logger - [Enable] Legacy.DevTab.DevTab
+2026-03-14 15:12:26,696 [15] INFO  Logger - [Enable] ObjectExplorer.ObjectExplorer
+2026-03-14 15:12:26,697 [15] INFO  Logger - [Enable] PalLoader.PalLoader
+2026-03-14 15:12:26,964 [1] DEBUG Logger - Current 'Bot' set to ExileFriend.
+2026-03-14 15:12:27,267 [1] DEBUG Logger - Current 'Routine' set to ExampleRoutine.
+2026-03-14 15:12:27,661 [1] DEBUG Logger - Current 'PlayerMover' set to ExampleMover.
+2026-03-14 15:12:27,760 [15] INFO  Logger - Registering default Hotkeys:
+2026-03-14 15:12:27,762 [15] INFO  Logger - 
+GuideText
+GuideLink
+2026-03-14 15:12:30,001 [1] INFO  BotManager - [Start] Now creating the BotThread.
+2026-03-14 15:12:30,125 [30] INFO  BotManager - [Start] ExileFriend.ExileFriend
+2026-03-14 15:12:30,139 [30] INFO  Logger - [ItemEvaluator] Instance = DreamPoeBot.Loki.Bot.DefaultItemEvaluator.
+2026-03-14 15:12:30,143 [30] INFO  Logger - [ComplexExplorer] ExileFriend settings provider has been added.
+2026-03-14 15:12:30,217 [30] DEBUG Logger - [Start] MsBetweenTicks: 80.
+2026-03-14 15:12:30,217 [30] DEBUG Logger - [Start] PlayerMover.Instance: ExampleMover.ExampleMover.
+2026-03-14 15:12:30,222 [30] INFO  Logger - [ExilePather] BlockLockedDoors = Disabled.
+2026-03-14 15:12:30,223 [30] INFO  Logger - [ExilePather] BlockLockedTempleDoors = Disabled.
+2026-03-14 15:12:30,223 [30] INFO  Logger - [ExilePather] BlockTrialOfAscendancy = Disabled.
+2026-03-14 15:12:30,263 [30] INFO  Logger - Now reloading the WorldArea cache.
+2026-03-14 15:12:30,524 [30] INFO  Logger - The WorldArea cache has been reloaded.
+2026-03-14 15:12:30,763 [26] INFO  Logger - [ExilePather] Navmesh + height map ready in 129.7 ms.
+2026-03-14 15:12:30,880 [30] DEBUG TaskManagerBase<ITask> - [Add] Now adding [ClearCursorTask] This task places any item left on the cursor into the inventory..
+2026-03-14 15:12:30,889 [30] DEBUG TaskManagerBase<ITask> - [Add] Now adding [DefenseAndFlaskTask] This task provides a logic to use defensive skills and flasks..
+2026-03-14 15:12:30,890 [30] DEBUG TaskManagerBase<ITask> - [Add] Now adding [TradeTask] Handles accept-trade invites and the full trade loop with category filtering..
+2026-03-14 15:12:30,891 [30] DEBUG TaskManagerBase<ITask> - [Add] Now adding [UltimatumMirrorTask] Automatically selects the best Ultimatum modifier based on weighted scoring.
+2026-03-14 15:12:30,892 [30] DEBUG TaskManagerBase<ITask> - [Add] Now adding [LootItemTask] Task that handles item looting..
+2026-03-14 15:12:30,892 [30] DEBUG TaskManagerBase<ITask> - [Add] Now adding [PreCombatFollowTask] This task will keep the bot under a specific distance from the leader, in combat situation..
+2026-03-14 15:12:30,898 [30] DEBUG TaskManagerBase<ITask> - [Add] Now adding [BlightTowerTask] Builds and upgrades Blight towers while respecting a dedicated leader-distance leash..
+2026-03-14 15:12:30,899 [30] DEBUG TaskManagerBase<ITask> - [Add] Now adding [ShrineTask] Handles shrine clicking from ExileFriend instead of depending on a routine-specific shrine hook..
+2026-03-14 15:12:30,899 [30] DEBUG TaskManagerBase<ITask> - [Add] Now adding [CombatTask (Leash 50)] This task executes routine logic for combat..
+2026-03-14 15:12:30,900 [30] DEBUG TaskManagerBase<ITask> - [Add] Now adding [PostCombatHookTask] This task provides a coroutine hook for executing user logic after combat has completed..
+2026-03-14 15:12:30,903 [30] DEBUG TaskManagerBase<ITask> - [Add] Now adding [LevelGemsTask] This task will Level gems..
+2026-03-14 15:12:30,903 [30] DEBUG TaskManagerBase<ITask> - [Add] Now adding [CombatTask (Leash -1)] This task executes routine logic for combat..
+2026-03-14 15:12:30,905 [30] DEBUG TaskManagerBase<ITask> - [Add] Now adding [CastAuraTask] Task for casting auras before entering a map..
+2026-03-14 15:12:30,906 [30] DEBUG TaskManagerBase<ITask> - [Add] Now adding [TravelToPartyZone] This task will travel to party grind zone..
+2026-03-14 15:12:30,908 [30] DEBUG TaskManagerBase<ITask> - [Add] Now adding [FollowTask] This task will Follow a Leader..
+2026-03-14 15:12:30,908 [30] DEBUG TaskManagerBase<ITask> - [Add] Now adding [OpenWaypointTask] Task that handles waypoint opening..
+2026-03-14 15:12:30,909 [30] DEBUG TaskManagerBase<ITask> - [Add] Now adding [JoinPartyTask] This task will ask for party..
+2026-03-14 15:12:30,909 [30] DEBUG TaskManagerBase<ITask> - [Add] Now adding [FallbackTask] This task is the last task executed. It should not execute..
+2026-03-14 15:12:30,911 [30] INFO  Logger - [Start] Legacy.DevTab.DevTab
+2026-03-14 15:12:30,912 [30] INFO  Logger - [Start] ObjectExplorer.ObjectExplorer
+2026-03-14 15:12:30,912 [30] INFO  Logger - [Start] PalLoader.PalLoader
+2026-03-14 15:12:30,913 [30] INFO  Logger - [Start] ExampleRoutine.ExampleRoutine
+2026-03-14 15:12:30,915 [30] ERROR Logger - [Start] Please configure the ExampleRoutine settings (Settings -> ExampleRoutine) before starting!
+2026-03-14 15:12:30,917 [30] INFO  BotManager - [Stop] Now requesting the BotThread to stop.
+2026-03-14 15:12:30,918 [30] INFO  Logger - [TradeTask] Task Loaded.
+2026-03-14 15:12:30,920 [30] INFO  Logger - [UltimatumMirrorTask] Task started - automatic best modifier selection enabled
+2026-03-14 15:12:30,920 [30] INFO  Logger - [PreCombatFollowTask] Task Loaded.
+2026-03-14 15:12:30,926 [30] WARN  Logger - [ShrineTask] Failed to apply ExampleRoutine shrine guard: 类型“System.Tuple`2[System.Object,System.String]”的对象无法转换为类型“System.Boolean”。
+2026-03-14 15:12:30,927 [30] INFO  Logger - [FollowTask] Task Loaded.
+2026-03-14 15:12:30,928 [30] INFO  Logger - [JoinPartyTask] Task Loaded.
+2026-03-14 15:12:30,929 [30] DEBUG Logger - [Start] The plugin DevTab is enabled.
+2026-03-14 15:12:30,929 [30] DEBUG Logger - [Start] The plugin ObjectExplorer is enabled.
+2026-03-14 15:12:30,929 [30] DEBUG Logger - [Start] The plugin palLoader is enabled.
+2026-03-14 15:12:30,930 [30] DEBUG Logger - [Start] PlayerMover.Instance: ExampleMover.ExampleMover.
+2026-03-14 15:12:30,932 [30] INFO  BotManager - [Stop] ExileFriend.ExileFriend
+2026-03-14 15:12:30,933 [30] INFO  Logger - [UltimatumMirrorTask] Task stopped
+2026-03-14 15:12:30,936 [30] INFO  Logger - [Stop] Legacy.DevTab.DevTab
+2026-03-14 15:12:30,936 [30] INFO  Logger - [Stop] ObjectExplorer.ObjectExplorer
+2026-03-14 15:12:30,937 [30] INFO  Logger - [Stop] PalLoader.PalLoader
+2026-03-14 15:12:30,938 [30] INFO  Logger - [Stop] ExampleRoutine.ExampleRoutine
+2026-03-14 15:12:41,604 [1] INFO  BotManager - [Start] Now creating the BotThread.
+2026-03-14 15:12:41,678 [41] INFO  BotManager - [Start] ExileFriend.ExileFriend
+2026-03-14 15:12:41,678 [41] INFO  Logger - [ItemEvaluator] Instance = DreamPoeBot.Loki.Bot.DefaultItemEvaluator.
+2026-03-14 15:12:41,678 [41] INFO  Logger - [ComplexExplorer] ExileFriend settings provider has been added.
+2026-03-14 15:12:41,733 [41] DEBUG Logger - [Start] MsBetweenTicks: 80.
+2026-03-14 15:12:41,734 [41] DEBUG Logger - [Start] PlayerMover.Instance: ExampleMover.ExampleMover.
+2026-03-14 15:12:41,742 [41] DEBUG TaskManagerBase<ITask> - [Add] Now adding [ClearCursorTask] This task places any item left on the cursor into the inventory..
+2026-03-14 15:12:41,742 [41] DEBUG TaskManagerBase<ITask> - [Add] Now adding [DefenseAndFlaskTask] This task provides a logic to use defensive skills and flasks..
+2026-03-14 15:12:41,742 [41] DEBUG TaskManagerBase<ITask> - [Add] Now adding [TradeTask] Handles accept-trade invites and the full trade loop with category filtering..
+2026-03-14 15:12:41,743 [41] DEBUG TaskManagerBase<ITask> - [Add] Now adding [UltimatumMirrorTask] Automatically selects the best Ultimatum modifier based on weighted scoring.
+2026-03-14 15:12:41,743 [41] DEBUG TaskManagerBase<ITask> - [Add] Now adding [LootItemTask] Task that handles item looting..
+2026-03-14 15:12:41,744 [41] DEBUG TaskManagerBase<ITask> - [Add] Now adding [PreCombatFollowTask] This task will keep the bot under a specific distance from the leader, in combat situation..
+2026-03-14 15:12:41,744 [41] DEBUG TaskManagerBase<ITask> - [Add] Now adding [BlightTowerTask] Builds and upgrades Blight towers while respecting a dedicated leader-distance leash..
+2026-03-14 15:12:41,744 [41] DEBUG TaskManagerBase<ITask> - [Add] Now adding [ShrineTask] Handles shrine clicking from ExileFriend instead of depending on a routine-specific shrine hook..
+2026-03-14 15:12:41,744 [41] DEBUG TaskManagerBase<ITask> - [Add] Now adding [CombatTask (Leash 50)] This task executes routine logic for combat..
+2026-03-14 15:12:41,745 [41] DEBUG TaskManagerBase<ITask> - [Add] Now adding [PostCombatHookTask] This task provides a coroutine hook for executing user logic after combat has completed..
+2026-03-14 15:12:41,745 [41] DEBUG TaskManagerBase<ITask> - [Add] Now adding [LevelGemsTask] This task will Level gems..
+2026-03-14 15:12:41,745 [41] DEBUG TaskManagerBase<ITask> - [Add] Now adding [CombatTask (Leash -1)] This task executes routine logic for combat..
+2026-03-14 15:12:41,746 [41] DEBUG TaskManagerBase<ITask> - [Add] Now adding [CastAuraTask] Task for casting auras before entering a map..
+2026-03-14 15:12:41,746 [41] DEBUG TaskManagerBase<ITask> - [Add] Now adding [TravelToPartyZone] This task will travel to party grind zone..
+2026-03-14 15:12:41,753 [41] DEBUG TaskManagerBase<ITask> - [Add] Now adding [FollowTask] This task will Follow a Leader..
+2026-03-14 15:12:41,753 [41] DEBUG TaskManagerBase<ITask> - [Add] Now adding [OpenWaypointTask] Task that handles waypoint opening..
+2026-03-14 15:12:41,753 [41] DEBUG TaskManagerBase<ITask> - [Add] Now adding [JoinPartyTask] This task will ask for party..
+2026-03-14 15:12:41,754 [41] DEBUG TaskManagerBase<ITask> - [Add] Now adding [FallbackTask] This task is the last task executed. It should not execute..
+2026-03-14 15:12:41,754 [41] INFO  Logger - [Start] Legacy.DevTab.DevTab
+2026-03-14 15:12:41,754 [41] INFO  Logger - [Start] ObjectExplorer.ObjectExplorer
+2026-03-14 15:12:41,755 [41] INFO  Logger - [Start] PalLoader.PalLoader
+2026-03-14 15:12:41,755 [41] INFO  Logger - [Start] ExampleRoutine.ExampleRoutine
+2026-03-14 15:12:41,755 [41] ERROR Logger - [Start] Please configure the ExampleRoutine settings (Settings -> ExampleRoutine) before starting!
+2026-03-14 15:12:41,756 [41] INFO  BotManager - [Stop] Now requesting the BotThread to stop.
+2026-03-14 15:12:41,756 [41] INFO  Logger - [TradeTask] Task Loaded.
+2026-03-14 15:12:41,756 [41] INFO  Logger - [UltimatumMirrorTask] Task started - automatic best modifier selection enabled
+2026-03-14 15:12:41,757 [41] INFO  Logger - [PreCombatFollowTask] Task Loaded.
+2026-03-14 15:12:41,757 [41] WARN  Logger - [ShrineTask] Failed to apply ExampleRoutine shrine guard: 类型“System.Tuple`2[System.Object,System.String]”的对象无法转换为类型“System.Boolean”。
+2026-03-14 15:12:41,757 [41] INFO  Logger - [FollowTask] Task Loaded.
+2026-03-14 15:12:41,757 [41] INFO  Logger - [JoinPartyTask] Task Loaded.
+2026-03-14 15:12:41,757 [41] DEBUG Logger - [Start] The plugin DevTab is enabled.
+2026-03-14 15:12:41,759 [41] DEBUG Logger - [Start] The plugin ObjectExplorer is enabled.
+2026-03-14 15:12:41,759 [41] DEBUG Logger - [Start] The plugin palLoader is enabled.
+2026-03-14 15:12:41,759 [41] DEBUG Logger - [Start] PlayerMover.Instance: ExampleMover.ExampleMover.
+2026-03-14 15:12:41,759 [41] INFO  BotManager - [Stop] ExileFriend.ExileFriend
+2026-03-14 15:12:41,759 [41] INFO  Logger - [UltimatumMirrorTask] Task stopped
+2026-03-14 15:12:41,759 [41] INFO  Logger - [Stop] Legacy.DevTab.DevTab
+2026-03-14 15:12:41,759 [41] INFO  Logger - [Stop] ObjectExplorer.ObjectExplorer
+2026-03-14 15:12:41,761 [41] INFO  Logger - [Stop] PalLoader.PalLoader
+2026-03-14 15:12:41,761 [41] INFO  Logger - [Stop] ExampleRoutine.ExampleRoutine
+2026-03-14 15:12:58,423 [1] DEBUG Logger - Current 'PlayerMover' set to SkillPlayerMover.
+2026-03-14 15:12:58,792 [1] INFO  BotManager - [Start] Now creating the BotThread.
+2026-03-14 15:12:58,865 [42] INFO  BotManager - [Start] ExileFriend.ExileFriend
+2026-03-14 15:12:58,866 [42] INFO  Logger - [ItemEvaluator] Instance = DreamPoeBot.Loki.Bot.DefaultItemEvaluator.
+2026-03-14 15:12:58,866 [42] INFO  Logger - [ComplexExplorer] ExileFriend settings provider has been added.
+2026-03-14 15:12:58,920 [42] DEBUG Logger - [Start] MsBetweenTicks: 80.
+2026-03-14 15:12:58,921 [42] DEBUG Logger - [Start] PlayerMover.Instance: SkillPlayerMover.SkillPlayerMover.
+2026-03-14 15:12:58,928 [42] DEBUG TaskManagerBase<ITask> - [Add] Now adding [ClearCursorTask] This task places any item left on the cursor into the inventory..
+2026-03-14 15:12:58,928 [42] DEBUG TaskManagerBase<ITask> - [Add] Now adding [DefenseAndFlaskTask] This task provides a logic to use defensive skills and flasks..
+2026-03-14 15:12:58,928 [42] DEBUG TaskManagerBase<ITask> - [Add] Now adding [TradeTask] Handles accept-trade invites and the full trade loop with category filtering..
+2026-03-14 15:12:58,930 [42] DEBUG TaskManagerBase<ITask> - [Add] Now adding [UltimatumMirrorTask] Automatically selects the best Ultimatum modifier based on weighted scoring.
+2026-03-14 15:12:58,930 [42] DEBUG TaskManagerBase<ITask> - [Add] Now adding [LootItemTask] Task that handles item looting..
+2026-03-14 15:12:58,930 [42] DEBUG TaskManagerBase<ITask> - [Add] Now adding [PreCombatFollowTask] This task will keep the bot under a specific distance from the leader, in combat situation..
+2026-03-14 15:12:58,931 [42] DEBUG TaskManagerBase<ITask> - [Add] Now adding [BlightTowerTask] Builds and upgrades Blight towers while respecting a dedicated leader-distance leash..
+2026-03-14 15:12:58,931 [42] DEBUG TaskManagerBase<ITask> - [Add] Now adding [ShrineTask] Handles shrine clicking from ExileFriend instead of depending on a routine-specific shrine hook..
+2026-03-14 15:12:58,931 [42] DEBUG TaskManagerBase<ITask> - [Add] Now adding [CombatTask (Leash 50)] This task executes routine logic for combat..
+2026-03-14 15:12:58,931 [42] DEBUG TaskManagerBase<ITask> - [Add] Now adding [PostCombatHookTask] This task provides a coroutine hook for executing user logic after combat has completed..
+2026-03-14 15:12:58,931 [42] DEBUG TaskManagerBase<ITask> - [Add] Now adding [LevelGemsTask] This task will Level gems..
+2026-03-14 15:12:58,931 [42] DEBUG TaskManagerBase<ITask> - [Add] Now adding [CombatTask (Leash -1)] This task executes routine logic for combat..
+2026-03-14 15:12:58,931 [42] DEBUG TaskManagerBase<ITask> - [Add] Now adding [CastAuraTask] Task for casting auras before entering a map..
+2026-03-14 15:12:58,933 [42] DEBUG TaskManagerBase<ITask> - [Add] Now adding [TravelToPartyZone] This task will travel to party grind zone..
+2026-03-14 15:12:58,934 [42] DEBUG TaskManagerBase<ITask> - [Add] Now adding [FollowTask] This task will Follow a Leader..
+2026-03-14 15:12:58,934 [42] DEBUG TaskManagerBase<ITask> - [Add] Now adding [OpenWaypointTask] Task that handles waypoint opening..
+2026-03-14 15:12:58,934 [42] DEBUG TaskManagerBase<ITask> - [Add] Now adding [JoinPartyTask] This task will ask for party..
+2026-03-14 15:12:58,934 [42] DEBUG TaskManagerBase<ITask> - [Add] Now adding [FallbackTask] This task is the last task executed. It should not execute..
+2026-03-14 15:12:58,935 [42] INFO  Logger - [Start] Legacy.DevTab.DevTab
+2026-03-14 15:12:58,935 [42] INFO  Logger - [Start] ObjectExplorer.ObjectExplorer
+2026-03-14 15:12:58,935 [42] INFO  Logger - [Start] PalLoader.PalLoader
+2026-03-14 15:12:58,936 [42] INFO  Logger - [Start] ExampleRoutine.ExampleRoutine
+2026-03-14 15:12:58,936 [42] ERROR Logger - [Start] Please configure the ExampleRoutine settings (Settings -> ExampleRoutine) before starting!
+2026-03-14 15:12:58,936 [42] INFO  BotManager - [Stop] Now requesting the BotThread to stop.
+2026-03-14 15:12:58,936 [42] INFO  Logger - [TradeTask] Task Loaded.
+2026-03-14 15:12:58,937 [42] INFO  Logger - [UltimatumMirrorTask] Task started - automatic best modifier selection enabled
+2026-03-14 15:12:58,937 [42] INFO  Logger - [PreCombatFollowTask] Task Loaded.
+2026-03-14 15:12:58,937 [42] WARN  Logger - [ShrineTask] Failed to apply ExampleRoutine shrine guard: 类型“System.Tuple`2[System.Object,System.String]”的对象无法转换为类型“System.Boolean”。
+2026-03-14 15:12:58,938 [42] INFO  Logger - [FollowTask] Task Loaded.
+2026-03-14 15:12:58,938 [42] INFO  Logger - [JoinPartyTask] Task Loaded.
+2026-03-14 15:12:58,938 [42] DEBUG Logger - [Start] The plugin DevTab is enabled.
+2026-03-14 15:12:58,939 [42] DEBUG Logger - [Start] The plugin ObjectExplorer is enabled.
+2026-03-14 15:12:58,939 [42] DEBUG Logger - [Start] The plugin palLoader is enabled.
+2026-03-14 15:12:58,939 [42] DEBUG Logger - [Start] PlayerMover.Instance: SkillPlayerMover.SkillPlayerMover.
+2026-03-14 15:12:58,939 [42] INFO  BotManager - [Stop] ExileFriend.ExileFriend
+2026-03-14 15:12:58,940 [42] INFO  Logger - [UltimatumMirrorTask] Task stopped
+2026-03-14 15:12:58,940 [42] INFO  Logger - [Stop] Legacy.DevTab.DevTab
+2026-03-14 15:12:58,940 [42] INFO  Logger - [Stop] ObjectExplorer.ObjectExplorer
+2026-03-14 15:12:58,940 [42] INFO  Logger - [Stop] PalLoader.PalLoader
+2026-03-14 15:12:58,940 [42] INFO  Logger - [Stop] ExampleRoutine.ExampleRoutine
+2026-03-14 15:13:02,098 [1] INFO  BotManager - [Start] Now creating the BotThread.
+2026-03-14 15:13:02,173 [42] INFO  BotManager - [Start] ExileFriend.ExileFriend
+2026-03-14 15:13:02,173 [42] INFO  Logger - [ItemEvaluator] Instance = DreamPoeBot.Loki.Bot.DefaultItemEvaluator.
+2026-03-14 15:13:02,174 [42] INFO  Logger - [ComplexExplorer] ExileFriend settings provider has been added.
+2026-03-14 15:13:02,230 [42] DEBUG Logger - [Start] MsBetweenTicks: 80.
+2026-03-14 15:13:02,230 [42] DEBUG Logger - [Start] PlayerMover.Instance: SkillPlayerMover.SkillPlayerMover.
+2026-03-14 15:13:02,236 [42] DEBUG TaskManagerBase<ITask> - [Add] Now adding [ClearCursorTask] This task places any item left on the cursor into the inventory..
+2026-03-14 15:13:02,236 [42] DEBUG TaskManagerBase<ITask> - [Add] Now adding [DefenseAndFlaskTask] This task provides a logic to use defensive skills and flasks..
+2026-03-14 15:13:02,237 [42] DEBUG TaskManagerBase<ITask> - [Add] Now adding [TradeTask] Handles accept-trade invites and the full trade loop with category filtering..
+2026-03-14 15:13:02,237 [42] DEBUG TaskManagerBase<ITask> - [Add] Now adding [UltimatumMirrorTask] Automatically selects the best Ultimatum modifier based on weighted scoring.
+2026-03-14 15:13:02,237 [42] DEBUG TaskManagerBase<ITask> - [Add] Now adding [LootItemTask] Task that handles item looting..
+2026-03-14 15:13:02,238 [42] DEBUG TaskManagerBase<ITask> - [Add] Now adding [PreCombatFollowTask] This task will keep the bot under a specific distance from the leader, in combat situation..
+2026-03-14 15:13:02,238 [42] DEBUG TaskManagerBase<ITask> - [Add] Now adding [BlightTowerTask] Builds and upgrades Blight towers while respecting a dedicated leader-distance leash..
+2026-03-14 15:13:02,238 [42] DEBUG TaskManagerBase<ITask> - [Add] Now adding [ShrineTask] Handles shrine clicking from ExileFriend instead of depending on a routine-specific shrine hook..
+2026-03-14 15:13:02,238 [42] DEBUG TaskManagerBase<ITask> - [Add] Now adding [CombatTask (Leash 50)] This task executes routine logic for combat..
+2026-03-14 15:13:02,239 [42] DEBUG TaskManagerBase<ITask> - [Add] Now adding [PostCombatHookTask] This task provides a coroutine hook for executing user logic after combat has completed..
+2026-03-14 15:13:02,239 [42] DEBUG TaskManagerBase<ITask> - [Add] Now adding [LevelGemsTask] This task will Level gems..
+2026-03-14 15:13:02,239 [42] DEBUG TaskManagerBase<ITask> - [Add] Now adding [CombatTask (Leash -1)] This task executes routine logic for combat..
+2026-03-14 15:13:02,239 [42] DEBUG TaskManagerBase<ITask> - [Add] Now adding [CastAuraTask] Task for casting auras before entering a map..
+2026-03-14 15:13:02,240 [42] DEBUG TaskManagerBase<ITask> - [Add] Now adding [TravelToPartyZone] This task will travel to party grind zone..
+2026-03-14 15:13:02,240 [42] DEBUG TaskManagerBase<ITask> - [Add] Now adding [FollowTask] This task will Follow a Leader..
+2026-03-14 15:13:02,240 [42] DEBUG TaskManagerBase<ITask> - [Add] Now adding [OpenWaypointTask] Task that handles waypoint opening..
+2026-03-14 15:13:02,240 [42] DEBUG TaskManagerBase<ITask> - [Add] Now adding [JoinPartyTask] This task will ask for party..
+2026-03-14 15:13:02,240 [42] DEBUG TaskManagerBase<ITask> - [Add] Now adding [FallbackTask] This task is the last task executed. It should not execute..
+2026-03-14 15:13:02,241 [42] INFO  Logger - [Start] Legacy.DevTab.DevTab
+2026-03-14 15:13:02,241 [42] INFO  Logger - [Start] ObjectExplorer.ObjectExplorer
+2026-03-14 15:13:02,242 [42] INFO  Logger - [Start] PalLoader.PalLoader
+2026-03-14 15:13:02,242 [42] INFO  Logger - [Start] ExampleRoutine.ExampleRoutine
+2026-03-14 15:13:02,242 [42] ERROR Logger - [Start] Please configure the ExampleRoutine settings (Settings -> ExampleRoutine) before starting!
+2026-03-14 15:13:02,243 [42] INFO  BotManager - [Stop] Now requesting the BotThread to stop.
+2026-03-14 15:13:02,243 [42] INFO  Logger - [TradeTask] Task Loaded.
+2026-03-14 15:13:02,244 [42] INFO  Logger - [UltimatumMirrorTask] Task started - automatic best modifier selection enabled
+2026-03-14 15:13:02,244 [42] INFO  Logger - [PreCombatFollowTask] Task Loaded.
+2026-03-14 15:13:02,245 [42] WARN  Logger - [ShrineTask] Failed to apply ExampleRoutine shrine guard: 类型“System.Tuple`2[System.Object,System.String]”的对象无法转换为类型“System.Boolean”。
+2026-03-14 15:13:02,245 [42] INFO  Logger - [FollowTask] Task Loaded.
+2026-03-14 15:13:02,245 [42] INFO  Logger - [JoinPartyTask] Task Loaded.
+2026-03-14 15:13:02,245 [42] DEBUG Logger - [Start] The plugin DevTab is enabled.
+2026-03-14 15:13:02,246 [42] DEBUG Logger - [Start] The plugin ObjectExplorer is enabled.
+2026-03-14 15:13:02,249 [42] DEBUG Logger - [Start] The plugin palLoader is enabled.
+2026-03-14 15:13:02,249 [42] DEBUG Logger - [Start] PlayerMover.Instance: SkillPlayerMover.SkillPlayerMover.
+2026-03-14 15:13:02,249 [42] INFO  BotManager - [Stop] ExileFriend.ExileFriend
+2026-03-14 15:13:02,250 [42] INFO  Logger - [UltimatumMirrorTask] Task stopped
+2026-03-14 15:13:02,250 [42] INFO  Logger - [Stop] Legacy.DevTab.DevTab
+2026-03-14 15:13:02,250 [42] INFO  Logger - [Stop] ObjectExplorer.ObjectExplorer
+2026-03-14 15:13:02,251 [42] INFO  Logger - [Stop] PalLoader.PalLoader
+2026-03-14 15:13:02,251 [42] INFO  Logger - [Stop] ExampleRoutine.ExampleRoutine
+2026-03-14 15:13:09,726 [1] DEBUG Logger - Current 'PlayerMover' set to ExampleMover.
+2026-03-14 15:19:04,438 [1] INFO  BotManager - [Start] Now creating the BotThread.
+2026-03-14 15:19:04,528 [53] INFO  BotManager - [Start] ExileFriend.ExileFriend
+2026-03-14 15:19:04,528 [53] INFO  Logger - [ItemEvaluator] Instance = DreamPoeBot.Loki.Bot.DefaultItemEvaluator.
+2026-03-14 15:19:04,529 [53] INFO  Logger - [ComplexExplorer] ExileFriend settings provider has been added.
+2026-03-14 15:19:04,594 [53] DEBUG Logger - [Start] MsBetweenTicks: 80.
+2026-03-14 15:19:04,596 [53] DEBUG Logger - [Start] PlayerMover.Instance: ExampleMover.ExampleMover.
+2026-03-14 15:19:04,625 [53] DEBUG TaskManagerBase<ITask> - [Add] Now adding [ClearCursorTask] This task places any item left on the cursor into the inventory..
+2026-03-14 15:19:04,626 [53] DEBUG TaskManagerBase<ITask> - [Add] Now adding [DefenseAndFlaskTask] This task provides a logic to use defensive skills and flasks..
+2026-03-14 15:19:04,626 [53] DEBUG TaskManagerBase<ITask> - [Add] Now adding [TradeTask] Handles accept-trade invites and the full trade loop with category filtering..
+2026-03-14 15:19:04,626 [53] DEBUG TaskManagerBase<ITask> - [Add] Now adding [UltimatumMirrorTask] Automatically selects the best Ultimatum modifier based on weighted scoring.
+2026-03-14 15:19:04,626 [53] DEBUG TaskManagerBase<ITask> - [Add] Now adding [LootItemTask] Task that handles item looting..
+2026-03-14 15:19:04,626 [53] DEBUG TaskManagerBase<ITask> - [Add] Now adding [PreCombatFollowTask] This task will keep the bot under a specific distance from the leader, in combat situation..
+2026-03-14 15:19:04,626 [53] DEBUG TaskManagerBase<ITask> - [Add] Now adding [BlightTowerTask] Builds and upgrades Blight towers while respecting a dedicated leader-distance leash..
+2026-03-14 15:19:04,628 [53] DEBUG TaskManagerBase<ITask> - [Add] Now adding [ShrineTask] Handles shrine clicking from ExileFriend instead of depending on a routine-specific shrine hook..
+2026-03-14 15:19:04,628 [53] DEBUG TaskManagerBase<ITask> - [Add] Now adding [CombatTask (Leash 50)] This task executes routine logic for combat..
+2026-03-14 15:19:04,628 [53] DEBUG TaskManagerBase<ITask> - [Add] Now adding [PostCombatHookTask] This task provides a coroutine hook for executing user logic after combat has completed..
+2026-03-14 15:19:04,628 [53] DEBUG TaskManagerBase<ITask> - [Add] Now adding [LevelGemsTask] This task will Level gems..
+2026-03-14 15:19:04,629 [53] DEBUG TaskManagerBase<ITask> - [Add] Now adding [CombatTask (Leash -1)] This task executes routine logic for combat..
+2026-03-14 15:19:04,629 [53] DEBUG TaskManagerBase<ITask> - [Add] Now adding [CastAuraTask] Task for casting auras before entering a map..
+2026-03-14 15:19:04,629 [53] DEBUG TaskManagerBase<ITask> - [Add] Now adding [TravelToPartyZone] This task will travel to party grind zone..
+2026-03-14 15:19:04,630 [53] DEBUG TaskManagerBase<ITask> - [Add] Now adding [FollowTask] This task will Follow a Leader..
+2026-03-14 15:19:04,630 [53] DEBUG TaskManagerBase<ITask> - [Add] Now adding [OpenWaypointTask] Task that handles waypoint opening..
+2026-03-14 15:19:04,630 [53] DEBUG TaskManagerBase<ITask> - [Add] Now adding [JoinPartyTask] This task will ask for party..
+2026-03-14 15:19:04,630 [53] DEBUG TaskManagerBase<ITask> - [Add] Now adding [FallbackTask] This task is the last task executed. It should not execute..
+2026-03-14 15:19:04,631 [53] INFO  Logger - [Start] Legacy.DevTab.DevTab
+2026-03-14 15:19:04,631 [53] INFO  Logger - [Start] ObjectExplorer.ObjectExplorer
+2026-03-14 15:19:04,631 [53] INFO  Logger - [Start] PalLoader.PalLoader
+2026-03-14 15:19:04,631 [53] INFO  Logger - [Start] ExampleRoutine.ExampleRoutine
+2026-03-14 15:19:04,633 [53] ERROR Logger - [Start] Please configure the ExampleRoutine settings (Settings -> ExampleRoutine) before starting!
+2026-03-14 15:19:04,633 [53] INFO  BotManager - [Stop] Now requesting the BotThread to stop.
+2026-03-14 15:19:04,633 [53] INFO  Logger - [TradeTask] Task Loaded.
+2026-03-14 15:19:04,633 [53] INFO  Logger - [UltimatumMirrorTask] Task started - automatic best modifier selection enabled
+2026-03-14 15:19:04,634 [53] INFO  Logger - [PreCombatFollowTask] Task Loaded.
+2026-03-14 15:19:04,634 [53] INFO  Logger - [FollowTask] Task Loaded.
+2026-03-14 15:19:04,634 [53] INFO  Logger - [JoinPartyTask] Task Loaded.
+2026-03-14 15:19:04,635 [53] DEBUG Logger - [Start] The plugin DevTab is enabled.
+2026-03-14 15:19:04,635 [53] DEBUG Logger - [Start] The plugin ObjectExplorer is enabled.
+2026-03-14 15:19:04,635 [53] DEBUG Logger - [Start] The plugin palLoader is enabled.
+2026-03-14 15:19:04,635 [53] DEBUG Logger - [Start] PlayerMover.Instance: ExampleMover.ExampleMover.
+2026-03-14 15:19:04,636 [53] INFO  BotManager - [Stop] ExileFriend.ExileFriend
+2026-03-14 15:19:04,636 [53] INFO  Logger - [UltimatumMirrorTask] Task stopped
+2026-03-14 15:19:04,636 [53] INFO  Logger - [Stop] Legacy.DevTab.DevTab
+2026-03-14 15:19:04,636 [53] INFO  Logger - [Stop] ObjectExplorer.ObjectExplorer
+2026-03-14 15:19:04,637 [53] INFO  Logger - [Stop] PalLoader.PalLoader
+2026-03-14 15:19:04,637 [53] INFO  Logger - [Stop] ExampleRoutine.ExampleRoutine
+2026-03-14 15:23:18,026 [1] INFO  BotManager - [Start] Now creating the BotThread.
+2026-03-14 15:23:18,109 [59] INFO  BotManager - [Start] ExileFriend.ExileFriend
+2026-03-14 15:23:18,109 [59] INFO  Logger - [ItemEvaluator] Instance = DreamPoeBot.Loki.Bot.DefaultItemEvaluator.
+2026-03-14 15:23:18,110 [59] INFO  Logger - [ComplexExplorer] ExileFriend settings provider has been added.
+2026-03-14 15:23:18,169 [59] DEBUG Logger - [Start] MsBetweenTicks: 80.
+2026-03-14 15:23:18,169 [59] DEBUG Logger - [Start] PlayerMover.Instance: ExampleMover.ExampleMover.
+2026-03-14 15:23:18,179 [59] DEBUG TaskManagerBase<ITask> - [Add] Now adding [ClearCursorTask] This task places any item left on the cursor into the inventory..
+2026-03-14 15:23:18,179 [59] DEBUG TaskManagerBase<ITask> - [Add] Now adding [DefenseAndFlaskTask] This task provides a logic to use defensive skills and flasks..
+2026-03-14 15:23:18,180 [59] DEBUG TaskManagerBase<ITask> - [Add] Now adding [TradeTask] Handles accept-trade invites and the full trade loop with category filtering..
+2026-03-14 15:23:18,180 [59] DEBUG TaskManagerBase<ITask> - [Add] Now adding [UltimatumMirrorTask] Automatically selects the best Ultimatum modifier based on weighted scoring.
+2026-03-14 15:23:18,180 [59] DEBUG TaskManagerBase<ITask> - [Add] Now adding [LootItemTask] Task that handles item looting..
+2026-03-14 15:23:18,181 [59] DEBUG TaskManagerBase<ITask> - [Add] Now adding [PreCombatFollowTask] This task will keep the bot under a specific distance from the leader, in combat situation..
+2026-03-14 15:23:18,181 [59] DEBUG TaskManagerBase<ITask> - [Add] Now adding [BlightTowerTask] Builds and upgrades Blight towers while respecting a dedicated leader-distance leash..
+2026-03-14 15:23:18,181 [59] DEBUG TaskManagerBase<ITask> - [Add] Now adding [ShrineTask] Handles shrine clicking from ExileFriend instead of depending on a routine-specific shrine hook..
+2026-03-14 15:23:18,182 [59] DEBUG TaskManagerBase<ITask> - [Add] Now adding [CombatTask (Leash 50)] This task executes routine logic for combat..
+2026-03-14 15:23:18,182 [59] DEBUG TaskManagerBase<ITask> - [Add] Now adding [PostCombatHookTask] This task provides a coroutine hook for executing user logic after combat has completed..
+2026-03-14 15:23:18,183 [59] DEBUG TaskManagerBase<ITask> - [Add] Now adding [LevelGemsTask] This task will Level gems..
+2026-03-14 15:23:18,183 [59] DEBUG TaskManagerBase<ITask> - [Add] Now adding [CombatTask (Leash -1)] This task executes routine logic for combat..
+2026-03-14 15:23:18,183 [59] DEBUG TaskManagerBase<ITask> - [Add] Now adding [CastAuraTask] Task for casting auras before entering a map..
+2026-03-14 15:23:18,184 [59] DEBUG TaskManagerBase<ITask> - [Add] Now adding [TravelToPartyZone] This task will travel to party grind zone..
+2026-03-14 15:23:18,184 [59] DEBUG TaskManagerBase<ITask> - [Add] Now adding [FollowTask] This task will Follow a Leader..
+2026-03-14 15:23:18,185 [59] DEBUG TaskManagerBase<ITask> - [Add] Now adding [OpenWaypointTask] Task that handles waypoint opening..
+2026-03-14 15:23:18,185 [59] DEBUG TaskManagerBase<ITask> - [Add] Now adding [JoinPartyTask] This task will ask for party..
+2026-03-14 15:23:18,185 [59] DEBUG TaskManagerBase<ITask> - [Add] Now adding [FallbackTask] This task is the last task executed. It should not execute..
+2026-03-14 15:23:18,186 [59] INFO  Logger - [Start] Legacy.DevTab.DevTab
+2026-03-14 15:23:18,186 [59] INFO  Logger - [Start] ObjectExplorer.ObjectExplorer
+2026-03-14 15:23:18,186 [59] INFO  Logger - [Start] PalLoader.PalLoader
+2026-03-14 15:23:18,187 [59] INFO  Logger - [Start] ExampleRoutine.ExampleRoutine
+2026-03-14 15:23:18,187 [59] INFO  Logger - [TradeTask] Task Loaded.
+2026-03-14 15:23:18,187 [59] INFO  Logger - [UltimatumMirrorTask] Task started - automatic best modifier selection enabled
+2026-03-14 15:23:18,188 [59] INFO  Logger - [PreCombatFollowTask] Task Loaded.
+2026-03-14 15:23:18,188 [59] INFO  Logger - [FollowTask] Task Loaded.
+2026-03-14 15:23:18,188 [59] INFO  Logger - [JoinPartyTask] Task Loaded.
+2026-03-14 15:23:18,189 [59] DEBUG Logger - [Start] The plugin DevTab is enabled.
+2026-03-14 15:23:18,189 [59] DEBUG Logger - [Start] The plugin ObjectExplorer is enabled.
+2026-03-14 15:23:18,189 [59] DEBUG Logger - [Start] The plugin palLoader is enabled.
+2026-03-14 15:23:18,190 [59] DEBUG Logger - [Start] PlayerMover.Instance: ExampleMover.ExampleMover.
+2026-03-14 15:23:18,198 [59] INFO  Logger - [Events] Ingame bot start.
+2026-03-14 15:23:18,216 [59] INFO  Logger - [Events] Area changed (null -> The Sarn Encampment)
+2026-03-14 15:23:18,353 [59] INFO  Logger - Now creating the Stats cache.
+2026-03-14 15:23:19,355 [59] INFO  Logger - [InjectKeyEvent1] 148 ms sleep for 8.
+2026-03-14 15:23:20,013 [59] INFO  Logger - [InjectKeyEvent1] 136 ms sleep for 13.
+2026-03-14 15:23:20,578 [59] INFO  Logger - [SmartFlaskManager] Using Quicksilver Flask (slot 3) because moving and no mobs nearby.
+2026-03-14 15:23:20,580 [59] INFO  Logger - [InjectKeyEvent1] 118 ms sleep for 0.
+2026-03-14 15:23:20,947 [59] INFO  Logger - [LevelGemsTask] SkillGemHud.HandlePendingLevelUps returned GemLeveled.
+2026-03-14 15:23:21,078 [59] INFO  Logger - [SmartFlaskManager] Using Quicksilver Flask (slot 3) because moving and no mobs nearby.
+2026-03-14 15:23:21,113 [59] WARN  Logger - IsInSameZone returned false for 宇佐木肖太 retry [1/3]
+2026-03-14 15:23:21,249 [59] INFO  Logger - [InjectKeyEvent1] 112 ms sleep for 73.
+2026-03-14 15:23:21,401 [59] DEBUG Logger - [ArtificialDelay] Now waiting for 24 ms.
+2026-03-14 15:23:21,495 [59] INFO  Logger - [SmartFlaskManager] Using Quicksilver Flask (slot 3) because moving and no mobs nearby.
+2026-03-14 15:23:21,649 [59] INFO  Logger - [CloseBlockingWindows] IsLeftPanelShown || IsRightPanelShown. Closing them.
+2026-03-14 15:23:21,651 [59] INFO  Logger - [InjectKeyEvent1] 143 ms sleep for 32.
+2026-03-14 15:23:21,954 [59] INFO  Logger - [SmartFlaskManager] Using Quicksilver Flask (slot 3) because moving and no mobs nearby.
+2026-03-14 15:23:22,088 [59] WARN  Logger - IsInSameZone returned false for 宇佐木肖太 retry [2/3]
+2026-03-14 15:23:22,275 [59] INFO  Logger - [SmartFlaskManager] Using Quicksilver Flask (slot 3) because moving and no mobs nearby.
+2026-03-14 15:23:24,488 [42] INFO  Logger - [ExilePather] Navmesh + height map ready in 58.1 ms.
+2026-03-14 15:23:24,490 [59] INFO  Logger - [Events] Area changed (The Sarn Encampment -> Cartographer's Hideout)
+2026-03-14 15:23:24,566 [59] INFO  Logger - Now creating the ActiveSkills cache.
+2026-03-14 15:24:28,461 [59] WARN  Logger - IsInSameZone returned false for 宇佐木肖太 retry [1/3]
+2026-03-14 15:24:28,633 [59] WARN  Logger - IsInSameZone returned false for 宇佐木肖太 retry [2/3]
+2026-03-14 15:24:33,674 [62] INFO  Logger - [ExilePather] Navmesh + height map ready in 456.9 ms.
+2026-03-14 15:24:33,685 [59] INFO  Logger - [Events] Area changed (Cartographer's Hideout -> The Blood Aqueduct)
+2026-03-14 15:24:33,704 [59] INFO  Logger - [Events] Combat area changed (null -> The Blood Aqueduct)
+2026-03-14 15:24:33,716 [59] INFO  Logger - [CombatAreaCache] Creating cache for "The Blood Aqueduct" (hash: 166673432)
+2026-03-14 15:24:33,733 [59] INFO  Logger - [ComplexExplorer] Exploration settings provided by ExileFriend.
+2026-03-14 15:24:33,735 [59] INFO  Logger - [ExplorationSettings] BasicExploration: True
+2026-03-14 15:24:33,735 [59] INFO  Logger - [ExplorationSettings] FastTransition: False
+2026-03-14 15:24:33,736 [59] INFO  Logger - [ExplorationSettings] Backtracking: False
+2026-03-14 15:24:33,736 [59] INFO  Logger - [ExplorationSettings] OpenPortals: False
+2026-03-14 15:24:33,737 [59] INFO  Logger - [ExplorationSettings] PriorityTransition: null
+2026-03-14 15:24:33,737 [59] INFO  Logger - [ExplorationSettings] TileKnownRadius: 7
+2026-03-14 15:24:33,737 [59] INFO  Logger - [ExplorationSettings] TileSeenRadius: 4
+2026-03-14 15:24:33,745 [59] INFO  Logger - [GridExplorer] AutoResetOnAreaChange is being set to True.
+2026-03-14 15:24:33,747 [59] INFO  Logger - [GridExplorer] TileKnownRadius is being set to 7.
+2026-03-14 15:24:33,748 [59] INFO  Logger - [GridExplorer] TileSeenRadius is being set to 5.
+2026-03-14 15:24:33,748 [59] INFO  Logger - [GridExplorer] AutoResetOnAreaChange is being set to False.
+2026-03-14 15:24:33,749 [59] INFO  Logger - [GridExplorer] TileKnownRadius is being set to 7.
+2026-03-14 15:24:33,750 [59] INFO  Logger - [GridExplorer] TileSeenRadius is being set to 4.
+2026-03-14 15:24:33,924 [59] INFO  Logger - [InjectKeyEvent1] 142 ms sleep for 1.
+2026-03-14 15:24:34,447 [59] INFO  Logger - [InjectKeyEvent1] 154 ms sleep for 84.
+2026-03-14 15:24:34,681 [59] WARN  Logger - [BeginUseAt] {512, 295}
+2026-03-14 15:24:34,776 [59] INFO  Logger - [SmartFlaskManager] Using Quicksilver Flask (slot 3) because moving and no mobs nearby.
+2026-03-14 15:24:35,205 [59] WARN  Logger - [BeginUseAt] {503, 312}
+2026-03-14 15:24:35,293 [59] INFO  Logger - [SmartFlaskManager] Using Quicksilver Flask (slot 3) because moving and no mobs nearby.
+2026-03-14 15:24:36,425 [59] INFO  Logger - [SmartFlaskManager] Using Quicksilver Flask (slot 3) because moving and no mobs nearby.
+2026-03-14 15:24:37,516 [59] INFO  Logger - [SmartFlaskManager] Using Quicksilver Flask (slot 3) because moving and no mobs nearby.
+2026-03-14 15:24:38,719 [59] INFO  Logger - [SmartFlaskManager] Using Quicksilver Flask (slot 3) because moving and no mobs nearby.
+2026-03-14 15:24:39,781 [59] INFO  Logger - [SmartFlaskManager] Using Quicksilver Flask (slot 3) because moving and no mobs nearby.
+2026-03-14 15:24:40,982 [59] INFO  Logger - [SmartFlaskManager] Using Quicksilver Flask (slot 3) because moving and no mobs nearby.
+2026-03-14 15:24:42,383 [59] INFO  Logger - [SmartFlaskManager] Using Quicksilver Flask (slot 3) because moving and no mobs nearby.
+2026-03-14 15:24:43,643 [59] INFO  Logger - [SmartFlaskManager] Using Quicksilver Flask (slot 3) because moving and no mobs nearby.
+2026-03-14 15:24:44,747 [59] INFO  Logger - [SmartFlaskManager] Using Quicksilver Flask (slot 3) because moving and no mobs nearby.
+2026-03-14 15:24:45,922 [59] INFO  Logger - [SmartFlaskManager] Using Quicksilver Flask (slot 3) because moving and no mobs nearby.
+2026-03-14 15:24:46,980 [59] INFO  Logger - [SmartFlaskManager] Using Quicksilver Flask (slot 3) because moving and no mobs nearby.
+2026-03-14 15:24:48,227 [59] INFO  Logger - [SmartFlaskManager] Using Quicksilver Flask (slot 3) because moving and no mobs nearby.
+2026-03-14 15:24:49,438 [59] INFO  Logger - [SmartFlaskManager] Using Quicksilver Flask (slot 3) because moving and no mobs nearby.
+2026-03-14 15:24:50,686 [59] INFO  Logger - [SmartFlaskManager] Using Quicksilver Flask (slot 3) because moving and no mobs nearby.
+2026-03-14 15:24:51,899 [59] INFO  Logger - [SmartFlaskManager] Using Quicksilver Flask (slot 3) because moving and no mobs nearby.
+2026-03-14 15:24:53,169 [59] INFO  Logger - [SmartFlaskManager] Using Quicksilver Flask (slot 3) because moving and no mobs nearby.
+2026-03-14 15:24:54,183 [59] INFO  Logger - [SmartFlaskManager] Using Quicksilver Flask (slot 3) because moving and no mobs nearby.
+2026-03-14 15:24:55,460 [59] INFO  Logger - [SmartFlaskManager] Using Quicksilver Flask (slot 3) because moving and no mobs nearby.
+2026-03-14 15:24:56,716 [59] INFO  Logger - [SmartFlaskManager] Using Quicksilver Flask (slot 3) because moving and no mobs nearby.
+2026-03-14 15:24:57,930 [59] INFO  Logger - [SmartFlaskManager] Using Quicksilver Flask (slot 3) because moving and no mobs nearby.
+2026-03-14 15:24:59,053 [59] INFO  Logger - [SmartFlaskManager] Using Quicksilver Flask (slot 3) because moving and no mobs nearby.
+2026-03-14 15:25:00,382 [59] INFO  Logger - [SmartFlaskManager] Using Quicksilver Flask (slot 3) because moving and no mobs nearby.
+2026-03-14 15:25:01,475 [59] INFO  Logger - [SmartFlaskManager] Using Quicksilver Flask (slot 3) because moving and no mobs nearby.
+2026-03-14 15:25:02,666 [59] INFO  Logger - [SmartFlaskManager] Using Quicksilver Flask (slot 3) because moving and no mobs nearby.
+2026-03-14 15:25:03,927 [59] INFO  Logger - [SmartFlaskManager] Using Quicksilver Flask (slot 3) because moving and no mobs nearby.
+2026-03-14 15:25:05,023 [59] INFO  Logger - [SmartFlaskManager] Using Quicksilver Flask (slot 3) because moving and no mobs nearby.
+2026-03-14 15:25:06,125 [59] INFO  Logger - [SmartFlaskManager] Using Quicksilver Flask (slot 3) because moving and no mobs nearby.
+2026-03-14 15:25:07,308 [59] INFO  Logger - [SmartFlaskManager] Using Quicksilver Flask (slot 3) because moving and no mobs nearby.
+2026-03-14 15:25:08,308 [59] INFO  Logger - [SmartFlaskManager] Using Quicksilver Flask (slot 3) because moving and no mobs nearby.
+2026-03-14 15:25:09,419 [59] INFO  Logger - [SmartFlaskManager] Using Quicksilver Flask (slot 3) because moving and no mobs nearby.
+2026-03-14 15:25:10,532 [59] INFO  Logger - [SmartFlaskManager] Using Quicksilver Flask (slot 3) because moving and no mobs nearby.
+2026-03-14 15:25:11,615 [59] INFO  Logger - [SmartFlaskManager] Using Quicksilver Flask (slot 3) because moving and no mobs nearby.
+2026-03-14 15:25:12,819 [59] INFO  Logger - [SmartFlaskManager] Using Quicksilver Flask (slot 3) because moving and no mobs nearby.
+2026-03-14 15:25:13,985 [59] INFO  Logger - [SmartFlaskManager] Using Quicksilver Flask (slot 3) because moving and no mobs nearby.
+2026-03-14 15:25:15,171 [59] INFO  Logger - [SmartFlaskManager] Using Quicksilver Flask (slot 3) because moving and no mobs nearby.
+2026-03-14 15:25:16,348 [59] INFO  Logger - [SmartFlaskManager] Using Quicksilver Flask (slot 3) because moving and no mobs nearby.
+2026-03-14 15:25:17,528 [59] INFO  Logger - [SmartFlaskManager] Using Quicksilver Flask (slot 3) because moving and no mobs nearby.
+2026-03-14 15:25:18,848 [59] INFO  Logger - [SmartFlaskManager] Using Quicksilver Flask (slot 3) because moving and no mobs nearby.
+2026-03-14 15:25:19,958 [59] INFO  Logger - [SmartFlaskManager] Using Quicksilver Flask (slot 3) because moving and no mobs nearby.
+2026-03-14 15:25:21,016 [59] INFO  Logger - [SmartFlaskManager] Using Quicksilver Flask (slot 3) because moving and no mobs nearby.
+2026-03-14 15:25:22,341 [59] INFO  Logger - [SmartFlaskManager] Using Quicksilver Flask (slot 3) because moving and no mobs nearby.
+2026-03-14 15:25:23,425 [59] INFO  Logger - [SmartFlaskManager] Using Quicksilver Flask (slot 3) because moving and no mobs nearby.
+2026-03-14 15:25:24,708 [59] INFO  Logger - [SmartFlaskManager] Using Quicksilver Flask (slot 3) because moving and no mobs nearby.
+2026-03-14 15:25:26,039 [59] INFO  Logger - [SmartFlaskManager] Using Quicksilver Flask (slot 3) because moving and no mobs nearby.
+2026-03-14 15:25:27,094 [16] INFO  Logger - The Bot window is closed, now terminating DPB
+2026-03-14 15:25:27,296 [59] INFO  Logger - [SmartFlaskManager] Using Quicksilver Flask (slot 3) because moving and no mobs nearby.
+2026-03-14 15:25:27,390 [21] WARN  Logger - [_window_PropertyChanged] X: 340
+2026-03-14 15:25:27,391 [21] WARN  Logger - [_window_PropertyChanged] Y: 41
+2026-03-14 15:25:27,393 [23] WARN  Logger - [_window_PropertyChanged] X: 340
+2026-03-14 15:25:27,393 [23] WARN  Logger - [_window_PropertyChanged] Y: 41
+2026-03-14 15:25:27,462 [1] INFO  Logger - [PluginManager.Deinitialize] ExileFriend.Banner.BannerManager
+2026-03-14 15:25:27,463 [1] INFO  Logger - [BannerManager] Deinitialized.
+2026-03-14 15:25:27,464 [1] INFO  Logger - [PluginManager.Deinitialize] Legacy.DevTab.DevTab
+2026-03-14 15:25:27,464 [1] INFO  Logger - [PluginManager.Deinitialize] ExamplePlugin.ExamplePlugin
+2026-03-14 15:25:27,465 [1] INFO  Logger - [PluginManager.Deinitialize] ExileFriend.Link.LinkManager
+2026-03-14 15:25:27,465 [1] INFO  Logger - [LinkManager] Deinitialized.
+2026-03-14 15:25:27,466 [1] INFO  Logger - [PluginManager.Deinitialize] ObjectExplorer.ObjectExplorer
+2026-03-14 15:25:27,467 [1] INFO  Logger - [PluginManager.Deinitialize] PalLoader.PalLoader
+2026-03-14 15:25:27,469 [1] INFO  Logger - [PluginManager.Deinitialize] PatherExplorer.PatherExplorer
+2026-03-14 15:25:27,470 [1] INFO  Logger - [PluginManager.Deinitialize] PluginLoader.PluginLoader
+2026-03-14 15:25:27,470 [1] INFO  Logger - [PluginManager.Deinitialize] ExileFriend.SmartFlask.SmartFlaskManager
+2026-03-14 15:25:27,471 [1] INFO  Logger - [SmartFlaskManager] Deinitialized.
+2026-03-14 15:25:27,471 [1] INFO  Logger - [PluginManager.Deinitialize] ExileFriend.Warcry.WarcryManager
+2026-03-14 15:25:27,472 [1] INFO  Logger - [WarcryManager] Deinitialized.
+2026-03-14 15:25:27,472 [1] INFO  Logger - [PlayerMoverManager.Deinitialize] ExampleMover.ExampleMover
+2026-03-14 15:25:27,473 [1] INFO  Logger - [PlayerMoverManager.Deinitialize] SkillPlayerMover.SkillPlayerMover
+2026-03-14 15:25:27,474 [1] INFO  Logger - [RoutineManager.Deinitialize] ExampleRoutine.ExampleRoutine
+2026-03-14 15:25:27,475 [1] INFO  BotManager - [BotManager.Deinitialize] NullBot.NullBot
+2026-03-14 15:25:27,477 [1] INFO  BotManager - [BotManager.Deinitialize] ExileFriend.ExileFriend
+2026-03-14 15:25:27,477 [1] INFO  Logger - [ContentManager.Deinitialize] DreamPoeBot.Loki.Bot.SkillBlacklist
+2026-03-14 15:25:27,652 [59] INFO  Logger - [SmartFlaskManager] Using Quicksilver Flask (slot 3) because moving and no mobs nearby.
+2026-03-14 15:25:28,100 [13] ERROR Logger - Authentication thread exception: System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   在 System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   在 xBFhPvGU2Sqx15yMFN9b.NplGM1neDb2(Int32 , xBFhPvGU2Sqx15yMFN9b )
+   在 nmhASbKh5QExTAgV2U.epGL2yV5b7lR0EtrsKK.rr8hnsrlrN7iItZAwbO9.xtYrl7sXbiR()
+2026-03-14 15:25:28,105 [13] ERROR Logger - Authentication thread abort exception: System.Threading.ThreadAbortException: 正在中止线程。
+   在 nmhASbKh5QExTAgV2U.epGL2yV5b7lR0EtrsKK.rr8hnsrlrN7iItZAwbO9.xtYrl7sXbiR()

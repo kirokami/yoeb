@@ -1,0 +1,23 @@
+2026-03-14 15:09:58,379 [1] INFO  Logger - DreamPoeBot Version: 0.3.28.10
+Path: C:\Users\<Username>\Desktop\DreamPoeBot\<ExeName>
+Arguments: C:\Users\Administrator\Desktop\DreamPoeBot\DreamPoeBot.exe
+
+OS Name: Microsoft Windows 10 企业版 2016 长期服务版
+OS Version: 10.0.14393
+OS Architecture: 64 位
+InstalledUICulture: zh-CN [Chinese (Simplified, China)]
+CurrentUICulture: zh-CN [Chinese (Simplified, China)]
+CurrentCulture: zh-CN [Chinese (Simplified, China)]
+
+2026-03-14 15:09:58,426 [1] INFO  Logger - Now setting up JitProfiles...
+2026-03-14 15:09:58,426 [1] INFO  Logger - JitProfiles successfully setup!
+2026-03-14 15:09:58,441 [1] INFO  Logger - Now checking prerequisites...
+2026-03-14 15:09:58,441 [1] INFO  Logger - Prerequisite check complete!
+2026-03-14 15:10:03,120 [1] INFO  Logger - The selected domain is: Singapore. [S: 00:00:00.4970722, E: 00:00:00.5740248, C: 00:00:00.5745403, R: 00:00:00.6027849]
+2026-03-14 15:10:03,128 [1] INFO  Logger - DreamPoeBot [0.3.28.10] is up to date!
+2026-03-14 15:10:04,264 [12] INFO  Logger - [Pre-Login] Connecting to BestLatency [15.235.186.246]
+2026-03-14 15:10:07,689 [12] INFO  Logger - Region: eu
+2026-03-14 15:10:07,689 [12] INFO  Logger - T: 5250776708470042873 
+2026-03-14 15:10:09,615 [1] INFO  BotManager - [BotManager] MsBetweenTicks = 80
+2026-03-14 15:10:12,362 [6] INFO  Logger - Pattern scan completed.
+2026-03-14 15:10:16,943 [7] INFO  Logger - The Game Proces is closed, now terminating DPB

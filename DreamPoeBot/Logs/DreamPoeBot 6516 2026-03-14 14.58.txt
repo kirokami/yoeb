@@ -1,0 +1,238 @@
+2026-03-14 14:58:01,501 [1] INFO  Logger - DreamPoeBot Version: 0.3.28.10
+Path: C:\Users\<Username>\Desktop\DreamPoeBot\<ExeName>
+Arguments: C:\Users\Administrator\Desktop\DreamPoeBot\DreamPoeBot.exe
+
+OS Name: Microsoft Windows 10 企业版 2016 长期服务版
+OS Version: 10.0.14393
+OS Architecture: 64 位
+InstalledUICulture: zh-CN [Chinese (Simplified, China)]
+CurrentUICulture: zh-CN [Chinese (Simplified, China)]
+CurrentCulture: zh-CN [Chinese (Simplified, China)]
+
+2026-03-14 14:58:01,559 [1] INFO  Logger - Now setting up JitProfiles...
+2026-03-14 14:58:01,562 [1] INFO  Logger - JitProfiles successfully setup!
+2026-03-14 14:58:01,570 [1] INFO  Logger - Now checking prerequisites...
+2026-03-14 14:58:01,571 [1] INFO  Logger - Prerequisite check complete!
+2026-03-14 14:58:06,116 [1] INFO  Logger - The selected domain is: Singapore. [S: 00:00:00.5063007, E: 00:00:00.5940515, C: 00:00:00.5868350, R: 00:00:00.5871186]
+2026-03-14 14:58:06,120 [1] INFO  Logger - DreamPoeBot [0.3.28.10] is up to date!
+2026-03-14 14:58:06,824 [12] INFO  Logger - [Pre-Login] Connecting to BestLatency [15.235.186.246]
+2026-03-14 14:58:08,146 [12] INFO  Logger - Region: eu
+2026-03-14 14:58:08,148 [12] INFO  Logger - T: 5250776701295648390 
+2026-03-14 14:58:09,549 [1] INFO  BotManager - [BotManager] MsBetweenTicks = 80
+2026-03-14 14:58:10,816 [8] INFO  Logger - Pattern scan completed.
+2026-03-14 14:58:38,043 [8] INFO  Logger - [Dat] Now building the Stat lookup table.
+2026-03-14 14:58:40,150 [8] INFO  Logger - [Dat] The Stat lookup table has been built.
+2026-03-14 14:58:40,205 [8] INFO  Logger - [Dat] Now building the Passive Skills lookup table.
+2026-03-14 14:58:40,647 [8] INFO  Logger - [Dat] The Passive Skills lookup table has been built.
+2026-03-14 14:58:40,698 [8] INFO  Logger - IGS = 55451FF1010.
+2026-03-14 14:58:40,698 [8] INFO  Logger - LIS = 5544C17DE10.
+2026-03-14 14:58:40,699 [8] INFO  Logger - CSS = 55455FB0A10.
+2026-03-14 14:58:40,699 [8] INFO  Logger - LSS = 55454706810.
+2026-03-14 14:58:40,700 [8] INFO  Logger - ALS = 55454705810.
+2026-03-14 14:58:43,601 [8] DEBUG ThirdPartyLoader - Loading start.
+2026-03-14 14:58:43,609 [8] DEBUG ThirdPartyLoader - Now loading [ExampleMover].
+2026-03-14 14:58:43,633 [8] DEBUG ThirdPartyLoader - [ExampleMover] will be loaded as [ExampleMover]. The base path is [].
+2026-03-14 14:58:43,636 [8] DEBUG ThirdPartyLoader - Now loading [ExamplePlugin].
+2026-03-14 14:58:43,637 [8] DEBUG ThirdPartyLoader - [ExamplePlugin] will be loaded as [ExamplePlugin]. The base path is [].
+2026-03-14 14:58:43,637 [8] DEBUG ThirdPartyLoader - Now loading [ExampleRoutine].
+2026-03-14 14:58:43,638 [8] DEBUG ThirdPartyLoader - [ExampleRoutine] will be loaded as [ExampleRoutine]. The base path is [].
+2026-03-14 14:58:43,638 [8] DEBUG ThirdPartyLoader - Now loading [Legacy].
+2026-03-14 14:58:43,642 [8] DEBUG ThirdPartyLoader - [Legacy] will be loaded as [Legacy]. The base path is [].
+2026-03-14 14:58:43,644 [8] DEBUG ThirdPartyLoader - Now loading [NullBot].
+2026-03-14 14:58:43,645 [8] DEBUG ThirdPartyLoader - [NullBot] will be loaded as [NullBot]. The base path is [].
+2026-03-14 14:58:43,647 [8] DEBUG ThirdPartyLoader - Now loading [ObjectExplorer].
+2026-03-14 14:58:43,648 [8] DEBUG ThirdPartyLoader - [ObjectExplorer] will be loaded as [ObjectExplorer]. The base path is [].
+2026-03-14 14:58:43,649 [8] DEBUG ThirdPartyLoader - Now loading [PatherExplorer].
+2026-03-14 14:58:43,650 [8] DEBUG ThirdPartyLoader - [PatherExplorer] will be loaded as [PatherExplorer]. The base path is [].
+2026-03-14 14:58:43,651 [8] DEBUG ThirdPartyLoader - Now loading [PluginLoader].
+2026-03-14 14:58:43,652 [8] DEBUG ThirdPartyLoader - [PluginLoader] will be loaded as [PluginLoader]. The base path is [].
+2026-03-14 14:58:43,652 [8] DEBUG ThirdPartyLoader - Now loading [SkillPlayerMover].
+2026-03-14 14:58:43,655 [8] DEBUG ThirdPartyLoader - [SkillPlayerMover] will be loaded as [SkillPlayerMover]. The base path is [].
+2026-03-14 14:58:43,659 [8] INFO  ThirdPartyLoader - Now asynchronously compiling dependency free content...
+2026-03-14 14:58:51,264 [8] INFO  ThirdPartyLoader - ExampleMover
+2026-03-14 14:58:51,266 [8] INFO  ThirdPartyLoader -                    [Bots] : 
+2026-03-14 14:58:51,267 [8] INFO  ThirdPartyLoader -                    [Plugins] : 
+2026-03-14 14:58:51,267 [8] INFO  ThirdPartyLoader -                    [Routines] : 
+2026-03-14 14:58:51,268 [8] INFO  ThirdPartyLoader -                    [Content] : 
+2026-03-14 14:58:51,269 [8] INFO  ThirdPartyLoader -                    [PlayerMovers] : ExampleMover (ExampleMover: 1.0)
+2026-03-14 14:58:51,269 [17] INFO  ThirdPartyLoader - PatherExplorer
+2026-03-14 14:58:51,269 [17] INFO  ThirdPartyLoader -                    [Bots] : 
+2026-03-14 14:58:51,271 [17] INFO  ThirdPartyLoader -                    [Plugins] : PatherExplorer (PatherExplorer: 0.0.1.4)
+2026-03-14 14:58:51,271 [17] INFO  ThirdPartyLoader -                    [Routines] : 
+2026-03-14 14:58:51,271 [17] INFO  ThirdPartyLoader -                    [Content] : 
+2026-03-14 14:58:51,271 [17] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2026-03-14 14:58:51,272 [7] INFO  ThirdPartyLoader - NullBot
+2026-03-14 14:58:51,273 [7] INFO  ThirdPartyLoader -                    [Bots] : NullBot (NullBot: 1.0)
+2026-03-14 14:58:51,273 [7] INFO  ThirdPartyLoader -                    [Plugins] : 
+2026-03-14 14:58:51,274 [7] INFO  ThirdPartyLoader -                    [Routines] : 
+2026-03-14 14:58:51,275 [7] INFO  ThirdPartyLoader -                    [Content] : 
+2026-03-14 14:58:51,275 [7] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2026-03-14 14:58:51,276 [12] INFO  ThirdPartyLoader - ExampleRoutine
+2026-03-14 14:58:51,276 [12] INFO  ThirdPartyLoader -                    [Bots] : 
+2026-03-14 14:58:51,276 [12] INFO  ThirdPartyLoader -                    [Plugins] : 
+2026-03-14 14:58:51,284 [12] INFO  ThirdPartyLoader -                    [Routines] : ExampleRoutine (ExampleRoutine: 1.0)
+2026-03-14 14:58:51,284 [12] INFO  ThirdPartyLoader -                    [Content] : 
+2026-03-14 14:58:51,285 [12] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2026-03-14 14:58:51,861 [8] INFO  ThirdPartyLoader - ExamplePlugin
+2026-03-14 14:58:51,862 [8] INFO  ThirdPartyLoader -                    [Bots] : 
+2026-03-14 14:58:51,863 [8] INFO  ThirdPartyLoader -                    [Plugins] : ExamplePlugin (ExamplePlugin: 1.0)
+2026-03-14 14:58:51,864 [8] INFO  ThirdPartyLoader -                    [Routines] : 
+2026-03-14 14:58:51,864 [8] INFO  ThirdPartyLoader -                    [Content] : 
+2026-03-14 14:58:51,864 [8] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2026-03-14 14:58:51,878 [12] INFO  ThirdPartyLoader - Legacy
+2026-03-14 14:58:51,880 [12] INFO  ThirdPartyLoader -                    [Bots] : 
+2026-03-14 14:58:51,880 [12] INFO  ThirdPartyLoader -                    [Plugins] : DevTab (DevTab: 0.0.1.1)
+2026-03-14 14:58:51,881 [12] INFO  ThirdPartyLoader -                    [Routines] : 
+2026-03-14 14:58:51,881 [12] INFO  ThirdPartyLoader -                    [Content] : 
+2026-03-14 14:58:51,881 [12] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2026-03-14 14:58:51,886 [17] INFO  Logger - [PluginLoader] Detected plugins: 
+-----------------
+	C:\Users\Administrator\Desktop\DreamPoeBot\Plugins\PalLoader.dll
+-----------------
+2026-03-14 14:58:51,896 [7] INFO  ThirdPartyLoader - ObjectExplorer
+2026-03-14 14:58:51,904 [7] INFO  ThirdPartyLoader -                    [Bots] : 
+2026-03-14 14:58:51,904 [7] INFO  ThirdPartyLoader -                    [Plugins] : ObjectExplorer (ObjectExplorer: 0.0.1.1)
+2026-03-14 14:58:51,904 [7] INFO  ThirdPartyLoader -                    [Routines] : 
+2026-03-14 14:58:51,905 [7] INFO  ThirdPartyLoader -                    [Content] : 
+2026-03-14 14:58:51,906 [7] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2026-03-14 14:58:51,942 [17] INFO  Logger - [PalLoader] No key saved. Enter your key in the palLoader settings tab.
+2026-03-14 14:58:51,945 [17] INFO  Logger - [[PluginLoader] Loaded: palLoader v1.1 <pallala> - Protected ExileFriend loader
+2026-03-14 14:58:51,946 [17] INFO  ThirdPartyLoader - PluginLoader
+2026-03-14 14:58:51,947 [17] INFO  ThirdPartyLoader -                    [Bots] : 
+2026-03-14 14:58:51,948 [17] INFO  ThirdPartyLoader -                    [Plugins] : PluginLoader (PluginLoader: 1.0)
+2026-03-14 14:58:51,948 [17] INFO  ThirdPartyLoader -                    [Routines] : 
+2026-03-14 14:58:51,949 [17] INFO  ThirdPartyLoader -                    [Content] : 
+2026-03-14 14:58:51,950 [17] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2026-03-14 14:58:52,286 [8] INFO  ThirdPartyLoader - SkillPlayerMover
+2026-03-14 14:58:52,286 [8] INFO  ThirdPartyLoader -                    [Bots] : 
+2026-03-14 14:58:52,286 [8] INFO  ThirdPartyLoader -                    [Plugins] : 
+2026-03-14 14:58:52,287 [8] INFO  ThirdPartyLoader -                    [Routines] : 
+2026-03-14 14:58:52,287 [8] INFO  ThirdPartyLoader -                    [Content] : 
+2026-03-14 14:58:52,288 [8] INFO  ThirdPartyLoader -                    [PlayerMovers] : SkillPlayerMover (SkillPlayerMover: 0.4.0.12)
+2026-03-14 14:58:52,288 [8] INFO  ThirdPartyLoader - Content compiled in 00:00:08.6288345.
+2026-03-14 14:58:52,289 [8] DEBUG ThirdPartyLoader - Loading finished!
+2026-03-14 14:58:52,299 [8] ERROR ThirdPartyLoader - Please put your plugins into respective subdirectories!
+2026-03-14 14:58:53,418 [8] INFO  Logger - [Initialize] DreamPoeBot.Loki.Bot.SkillBlacklist
+2026-03-14 14:58:53,641 [8] INFO  Logger - [Initialize] NullBot.NullBot
+2026-03-14 14:58:53,674 [1] INFO  Logger - [ItemEvaluator] Instance = DreamPoeBot.Loki.Bot.DefaultItemEvaluator.
+2026-03-14 14:58:53,793 [8] INFO  Logger - [Initialize] ExampleRoutine.ExampleRoutine
+2026-03-14 14:58:53,797 [8] INFO  Logger - Name: SingleTargetMeleeSlot (System.Int32)
+2026-03-14 14:58:53,799 [8] INFO  Logger - Name: SingleTargetRangedSlot (System.Int32)
+2026-03-14 14:58:53,799 [8] INFO  Logger - Name: AoeMeleeSlot (System.Int32)
+2026-03-14 14:58:53,799 [8] INFO  Logger - Name: AoeRangedSlot (System.Int32)
+2026-03-14 14:58:53,799 [8] INFO  Logger - Name: FallbackSlot (System.Int32)
+2026-03-14 14:58:53,800 [8] INFO  Logger - Name: CombatRange (System.Int32)
+2026-03-14 14:58:53,800 [8] INFO  Logger - Name: MaxMeleeRange (System.Int32)
+2026-03-14 14:58:53,800 [8] INFO  Logger - Name: MaxRangeRange (System.Int32)
+2026-03-14 14:58:53,801 [8] INFO  Logger - Name: SkipShrines (System.Boolean)
+2026-03-14 14:58:53,801 [8] INFO  Logger - Name: AoePackSize (System.Int32)
+2026-03-14 14:58:53,802 [8] INFO  Logger - Name: AlwaysAttackInPlace (System.Boolean)
+2026-03-14 14:58:53,907 [8] INFO  Logger - [Initialize] ExampleMover.ExampleMover
+2026-03-14 14:58:53,929 [8] INFO  Logger - [Initialize] SkillPlayerMover.SkillPlayerMover
+2026-03-14 14:58:54,100 [8] INFO  Logger - [PluginLoader] Detected plugins: 
+-----------------
+	C:\Users\Administrator\Desktop\DreamPoeBot\Plugins\PalLoader.dll
+-----------------
+2026-03-14 14:58:54,101 [8] INFO  Logger - [PalLoader] No key saved. Enter your key in the palLoader settings tab.
+2026-03-14 14:58:54,103 [8] INFO  Logger - [[PluginLoader] Loaded: palLoader v1.1 <pallala> - Protected ExileFriend loader
+2026-03-14 14:58:54,104 [8] INFO  Logger - [PalLoader] No key saved. Enter your key in the palLoader settings tab.
+2026-03-14 14:58:54,116 [8] INFO  Logger - [Initialize] Legacy.DevTab.DevTab
+2026-03-14 14:58:54,121 [8] INFO  Logger - [Initialize] ExamplePlugin.ExamplePlugin
+2026-03-14 14:58:54,124 [8] INFO  Logger - [Initialize] ObjectExplorer.ObjectExplorer
+2026-03-14 14:58:54,125 [8] INFO  Logger - [Initialize] PalLoader.PalLoader
+2026-03-14 14:58:54,125 [8] INFO  Logger - [Initialize] PatherExplorer.PatherExplorer
+2026-03-14 14:58:54,126 [8] INFO  Logger - [Initialize] PluginLoader.PluginLoader
+2026-03-14 14:58:54,128 [8] INFO  Logger - [Enable] Legacy.DevTab.DevTab
+2026-03-14 14:58:54,129 [8] INFO  Logger - [Enable] ObjectExplorer.ObjectExplorer
+2026-03-14 14:58:54,435 [1] DEBUG Logger - Current 'Bot' set to NullBot.
+2026-03-14 14:58:54,493 [1] DEBUG Logger - Current 'Routine' set to ExampleRoutine.
+2026-03-14 14:58:54,903 [1] DEBUG Logger - Current 'PlayerMover' set to ExampleMover.
+2026-03-14 14:58:54,996 [8] INFO  Logger - Registering default Hotkeys:
+2026-03-14 14:58:54,999 [8] INFO  Logger - 
+GuideText
+GuideLink
+2026-03-14 14:59:39,093 [1] INFO  BotManager - [Start] Now creating the BotThread.
+2026-03-14 14:59:39,243 [33] INFO  BotManager - [Start] NullBot.NullBot
+2026-03-14 14:59:39,248 [33] INFO  Logger - [ItemEvaluator] Instance = DreamPoeBot.Loki.Bot.DefaultItemEvaluator.
+2026-03-14 14:59:39,310 [33] INFO  BotManager - [BotManager] MsBetweenTicks = 30
+2026-03-14 14:59:39,312 [33] DEBUG Logger - [Start] MsBetweenTicks: 30.
+2026-03-14 14:59:39,312 [33] DEBUG Logger - [Start] KeyPickup: Disabled.
+2026-03-14 14:59:39,403 [33] INFO  Logger - Now reloading the WorldArea cache.
+2026-03-14 14:59:39,572 [33] INFO  Logger - The WorldArea cache has been reloaded.
+2026-03-14 14:59:39,872 [15] INFO  Logger - [ExilePather] Navmesh + height map ready in 148.0 ms.
+2026-03-14 14:59:40,017 [33] DEBUG TaskManagerBase<ITask> - [Add] Now adding [ExampleTask] This task is a demostration of ITask implementation..
+2026-03-14 14:59:40,020 [33] DEBUG TaskManagerBase<ITask> - [Add] Now adding [FallbackTask] This task is the last task executed. It should not execute..
+2026-03-14 14:59:40,021 [33] INFO  Logger - [Start] Legacy.DevTab.DevTab
+2026-03-14 14:59:40,022 [33] INFO  Logger - [Start] ObjectExplorer.ObjectExplorer
+2026-03-14 14:59:40,023 [33] INFO  Logger - [Start] ExampleRoutine.ExampleRoutine
+2026-03-14 14:59:40,025 [33] ERROR Logger - [Start] Please configure the ExampleRoutine settings (Settings -> ExampleRoutine) before starting!
+2026-03-14 14:59:40,028 [33] INFO  BotManager - [Stop] Now requesting the BotThread to stop.
+2026-03-14 14:59:40,029 [33] INFO  Logger - [PlayerMoverManager.Start] ExampleMover.ExampleMover
+2026-03-14 14:59:40,031 [33] DEBUG Logger - [Start] Current PlayerMover: ExampleMover.
+2026-03-14 14:59:40,032 [33] DEBUG Logger - [Start] Current Routine ExampleRoutine.
+2026-03-14 14:59:40,032 [33] DEBUG Logger - [Start] The plugin DevTab is enabled.
+2026-03-14 14:59:40,032 [33] DEBUG Logger - [Start] The plugin ObjectExplorer is enabled.
+2026-03-14 14:59:40,033 [33] INFO  BotManager - [Stop] NullBot.NullBot
+2026-03-14 14:59:40,035 [33] INFO  Logger - [Stop] Legacy.DevTab.DevTab
+2026-03-14 14:59:40,037 [33] INFO  Logger - [Stop] ObjectExplorer.ObjectExplorer
+2026-03-14 14:59:40,037 [33] INFO  Logger - [Stop] ExampleRoutine.ExampleRoutine
+2026-03-14 14:59:40,039 [33] INFO  Logger - [PlayerMoverManager.Stop] ExampleMover.ExampleMover
+2026-03-14 14:59:53,818 [1] INFO  BotManager - [Start] Now creating the BotThread.
+2026-03-14 14:59:53,913 [27] INFO  BotManager - [Start] NullBot.NullBot
+2026-03-14 14:59:53,913 [27] INFO  Logger - [ItemEvaluator] Instance = DreamPoeBot.Loki.Bot.DefaultItemEvaluator.
+2026-03-14 14:59:53,972 [27] INFO  BotManager - [BotManager] MsBetweenTicks = 30
+2026-03-14 14:59:53,973 [27] DEBUG Logger - [Start] MsBetweenTicks: 30.
+2026-03-14 14:59:53,973 [27] DEBUG Logger - [Start] KeyPickup: Disabled.
+2026-03-14 14:59:53,978 [27] DEBUG TaskManagerBase<ITask> - [Add] Now adding [ExampleTask] This task is a demostration of ITask implementation..
+2026-03-14 14:59:53,978 [27] DEBUG TaskManagerBase<ITask> - [Add] Now adding [FallbackTask] This task is the last task executed. It should not execute..
+2026-03-14 14:59:53,979 [27] INFO  Logger - [Start] Legacy.DevTab.DevTab
+2026-03-14 14:59:53,980 [27] INFO  Logger - [Start] ObjectExplorer.ObjectExplorer
+2026-03-14 14:59:53,980 [27] INFO  Logger - [Start] ExampleRoutine.ExampleRoutine
+2026-03-14 14:59:53,980 [27] ERROR Logger - [Start] Please configure the ExampleRoutine settings (Settings -> ExampleRoutine) before starting!
+2026-03-14 14:59:53,981 [27] INFO  BotManager - [Stop] Now requesting the BotThread to stop.
+2026-03-14 14:59:53,981 [27] INFO  Logger - [PlayerMoverManager.Start] ExampleMover.ExampleMover
+2026-03-14 14:59:53,981 [27] DEBUG Logger - [Start] Current PlayerMover: ExampleMover.
+2026-03-14 14:59:53,983 [27] DEBUG Logger - [Start] Current Routine ExampleRoutine.
+2026-03-14 14:59:53,983 [27] DEBUG Logger - [Start] The plugin DevTab is enabled.
+2026-03-14 14:59:53,989 [27] DEBUG Logger - [Start] The plugin ObjectExplorer is enabled.
+2026-03-14 14:59:53,989 [27] INFO  BotManager - [Stop] NullBot.NullBot
+2026-03-14 14:59:53,989 [27] INFO  Logger - [Stop] Legacy.DevTab.DevTab
+2026-03-14 14:59:53,990 [27] INFO  Logger - [Stop] ObjectExplorer.ObjectExplorer
+2026-03-14 14:59:53,990 [27] INFO  Logger - [Stop] ExampleRoutine.ExampleRoutine
+2026-03-14 14:59:53,990 [27] INFO  Logger - [PlayerMoverManager.Stop] ExampleMover.ExampleMover
+2026-03-14 15:00:26,634 [1] INFO  BotManager - [Start] Now creating the BotThread.
+2026-03-14 15:00:26,719 [23] INFO  BotManager - [Start] NullBot.NullBot
+2026-03-14 15:00:26,719 [23] INFO  Logger - [ItemEvaluator] Instance = DreamPoeBot.Loki.Bot.DefaultItemEvaluator.
+2026-03-14 15:00:26,780 [23] INFO  BotManager - [BotManager] MsBetweenTicks = 30
+2026-03-14 15:00:26,781 [23] DEBUG Logger - [Start] MsBetweenTicks: 30.
+2026-03-14 15:00:26,782 [23] DEBUG Logger - [Start] KeyPickup: Disabled.
+2026-03-14 15:00:26,791 [23] DEBUG TaskManagerBase<ITask> - [Add] Now adding [ExampleTask] This task is a demostration of ITask implementation..
+2026-03-14 15:00:26,791 [23] DEBUG TaskManagerBase<ITask> - [Add] Now adding [FallbackTask] This task is the last task executed. It should not execute..
+2026-03-14 15:00:26,791 [23] INFO  Logger - [Start] Legacy.DevTab.DevTab
+2026-03-14 15:00:26,792 [23] INFO  Logger - [Start] ObjectExplorer.ObjectExplorer
+2026-03-14 15:00:26,792 [23] INFO  Logger - [Start] ExampleRoutine.ExampleRoutine
+2026-03-14 15:00:26,794 [23] ERROR Logger - [Start] Please configure the ExampleRoutine settings (Settings -> ExampleRoutine) before starting!
+2026-03-14 15:00:26,794 [23] INFO  BotManager - [Stop] Now requesting the BotThread to stop.
+2026-03-14 15:00:26,794 [23] INFO  Logger - [PlayerMoverManager.Start] ExampleMover.ExampleMover
+2026-03-14 15:00:26,795 [23] DEBUG Logger - [Start] Current PlayerMover: ExampleMover.
+2026-03-14 15:00:26,795 [23] DEBUG Logger - [Start] Current Routine ExampleRoutine.
+2026-03-14 15:00:26,795 [23] DEBUG Logger - [Start] The plugin DevTab is enabled.
+2026-03-14 15:00:26,796 [23] DEBUG Logger - [Start] The plugin ObjectExplorer is enabled.
+2026-03-14 15:00:26,796 [23] INFO  BotManager - [Stop] NullBot.NullBot
+2026-03-14 15:00:26,796 [23] INFO  Logger - [Stop] Legacy.DevTab.DevTab
+2026-03-14 15:00:26,796 [23] INFO  Logger - [Stop] ObjectExplorer.ObjectExplorer
+2026-03-14 15:00:26,796 [23] INFO  Logger - [Stop] ExampleRoutine.ExampleRoutine
+2026-03-14 15:00:26,796 [23] INFO  Logger - [PlayerMoverManager.Stop] ExampleMover.ExampleMover
+2026-03-14 15:01:16,082 [1] INFO  Logger - [Enable] PalLoader.PalLoader
+2026-03-14 15:01:47,054 [10] INFO  Logger - The Bot window is closed, now terminating DPB
+2026-03-14 15:01:47,978 [1] INFO  Logger - [PluginManager.Deinitialize] Legacy.DevTab.DevTab
+2026-03-14 15:01:47,979 [1] INFO  Logger - [PluginManager.Deinitialize] ExamplePlugin.ExamplePlugin
+2026-03-14 15:01:47,981 [1] INFO  Logger - [PluginManager.Deinitialize] ObjectExplorer.ObjectExplorer
+2026-03-14 15:01:47,982 [1] INFO  Logger - [PluginManager.Deinitialize] PalLoader.PalLoader
+2026-03-14 15:01:47,985 [1] INFO  Logger - [PluginManager.Deinitialize] PatherExplorer.PatherExplorer
+2026-03-14 15:01:47,986 [1] INFO  Logger - [PluginManager.Deinitialize] PluginLoader.PluginLoader
+2026-03-14 15:01:47,986 [1] INFO  Logger - [PlayerMoverManager.Deinitialize] ExampleMover.ExampleMover
+2026-03-14 15:01:47,987 [1] INFO  Logger - [PlayerMoverManager.Deinitialize] SkillPlayerMover.SkillPlayerMover
+2026-03-14 15:01:47,988 [1] INFO  Logger - [RoutineManager.Deinitialize] ExampleRoutine.ExampleRoutine
+2026-03-14 15:01:47,990 [1] INFO  BotManager - [BotManager.Deinitialize] NullBot.NullBot
+2026-03-14 15:01:47,991 [1] INFO  Logger - [ContentManager.Deinitialize] DreamPoeBot.Loki.Bot.SkillBlacklist

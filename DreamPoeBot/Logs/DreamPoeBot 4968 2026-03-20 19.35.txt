@@ -1,0 +1,26 @@
+2026-03-20 19:35:53,812 [1] INFO  Logger - DreamPoeBot Version: 0.3.28.16
+Path: C:\Users\<Username>\Desktop\DreamPoeBot\<ExeName>
+Arguments: C:\Users\Administrator\Desktop\DreamPoeBot\DreamPoeBot.exe
+
+OS Name: Microsoft Windows 10 企业版 2016 长期服务版
+OS Version: 10.0.14393
+OS Architecture: 64 位
+InstalledUICulture: zh-CN [Chinese (Simplified, China)]
+CurrentUICulture: zh-CN [Chinese (Simplified, China)]
+CurrentCulture: zh-CN [Chinese (Simplified, China)]
+
+2026-03-20 19:35:53,852 [1] INFO  Logger - Now setting up JitProfiles...
+2026-03-20 19:35:53,855 [1] INFO  Logger - JitProfiles successfully setup!
+2026-03-20 19:35:53,862 [1] INFO  Logger - Now checking prerequisites...
+2026-03-20 19:35:53,863 [1] INFO  Logger - Prerequisite check complete!
+2026-03-20 19:35:57,499 [1] INFO  Logger - The selected domain is: Singapore. [S: 00:00:00.5037082, E: 00:00:00.5704912, C: 00:00:00.5984139, R: 00:00:00.7043832]
+2026-03-20 19:35:57,513 [1] INFO  Logger - DreamPoeBot [0.3.28.16] is up to date!
+2026-03-20 19:35:57,677 [12] INFO  Logger - [Pre-Login] Connecting to BestLatency [15.235.186.246]
+2026-03-20 19:35:58,420 [12] INFO  Logger - Region: eu
+2026-03-20 19:35:58,420 [12] INFO  Logger - T: 5250782052004184472 
+2026-03-20 19:36:01,977 [1] INFO  BotManager - [BotManager] MsBetweenTicks = 80
+2026-03-20 19:36:02,007 [1] ERROR Logger - [LokiPoe.Deinitializer-Exception] Unhandled exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at T26sVuXCG92TUgxIEW.m7NKNU0aVSdnqao7sqxS.BMy0aiY7QiX()
+   at T26sVuXCG92TUgxIEW.WXc7jK0HYS6IIpssj3Of.RNq0Hr5nbZY()
+   at DreamPoeBot.Loki.Game.LokiPoe.wDMPQIQLpr()
+   at DreamPoeBot.App.OnExit(ExitEventArgs e)
