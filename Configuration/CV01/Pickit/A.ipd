@@ -26,7 +26,7 @@
 [Type] == "Maata's Teaching Karui Sceptre" && [Rarity] == "Unique" # [UniqueName] == "" && [StashItem] == "true"	
 [Type] == "Ezomyte Staff" && [Rarity] == "Unique" # [UniqueName] == "The Fulcrum" && [StashItem] == "true"
 [Type] == "Engraved Greatsword" && [Rarity] == "Unique" # [UniqueName] == "Rakiata's Dance" && [StashItem] == "true"
-[Type] == "Onyx Amulet" && [Rarity] == "Unique" # [UniqueName] == "Replica Dragonfang's Flight" && [StashItem] == "true"
+
 //3.22
 //[Type] == "Necromancer Silks" && [Rarity] == "Unique" # [UniqueName] == "Fleshcrafter" && [StashItem] == "true"  
 //[Type] == "Sadist Garb" && [Rarity] == "Unique" #  [UniqueName] == "Inpulsa's Broken Heart" && [StashItem] == "true" 
@@ -50,6 +50,21 @@
 [Type] == "Map (Tier 16)" && [Rarity] == "Normal" # [StashItem] == "true" 
 [Type] == "Map (Tier 16)" && [Rarity] == "Magic" # [StashItem] == "true" 
 [Type] == "Map (Tier 16)" && [Rarity] == "Rare" # [StashItem] == "true" 
+
+////////////////////////////////ForceSell/////////////////////////////////
+
+[Type] == "Map (Tier 16)" && [map_zana_influence] >= "1" # [ForceSellItem] =="true" 
+[Type] == "Map (Tier 16)" && [map_contains_citadel]>="1"# [ForceSellItem] =="true" 
+[Type] == "Map (Tier 16)" && [map_elder_boss_variation]>="1"# [ForceSellItem] =="true" 
+
+
+[Type] == "Map (Tier 16)" && [map_monsters_reflect_%_physical_damage] 	>= "1" && [Rarity] == "Magic" # [ForceSellItem] == "true" // Punishing -- Monsters Reflect % Physical Damage
+[Type] == "Map (Tier 16)" && [map_players_no_regeneration_including_es] 	>= "1" && [Rarity] == "Magic" # [ForceSellItem] == "true" // Of Statis -- Players have no Life or Mana Regeneration
+[Type] == "Map (Tier 16)" && [map_players_cannot_leech] >= "1" && [Rarity] == "Magic" # [ForceSellItem] == "true" // Of Congealment -- Cannot Leech Life/Mana From Monsters
+[Type] == "Map (Tier 16)" && [map_monsters_cannot_be_leeched_from] >= "1" && [Rarity] == "Magic" # [ForceSellItem] == "true" // Of Congealment -- Cannot Leech Life/Mana From Monsters
+[Type] == "Map (Tier 16)" && [map_player_has_level_X_temporal_chains] >= "1" && [Rarity] == "Magic" # [ForceSellItem] == "true" // Of Temporal Chains -- Players are cursed with Temporal Chains
+[Type] == "Map (Tier 16)" && [map_monsters_steal_charges] >= "1" && [Rarity] == "Magic" #    [ForceSellItem] == "true" //
+
 
 
 //Specil Map//
@@ -133,7 +148,7 @@
 
 ////
 
-[Type] == "Orb of Alteration" # [StashItem] == "true"////
+//[Type] == "Orb of Alteration" # [StashItem] == "true"////
 //[Type] == "Orb of Regret"# [StashItem] == "true"////
 //[Type] == "Orb of Unmaking"# [StashItem] == "true"////
 //[Type] == "Enkindling Orb"# [StashItem] == "true"////
