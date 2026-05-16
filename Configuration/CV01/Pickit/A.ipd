@@ -169,10 +169,10 @@
 
 ////
 
-[Type] == "Vaal Orb" # [StashItem] == "true" //	//
+//[Type] == "Vaal Orb" # [StashItem] == "true" //	//
 [Type] == "Chaos Orb" # [StashItem] == "true"////
 [Type] == "Divine Orb" # [StashItem] == "true"////
-[Type] == "Exalted Orb" # [StashItem] == "true"////
+//[Type] == "Exalted Orb" # [StashItem] == "true"////
 [Type] == "Mirror of Kalandra" # [StashItem] == "true"////
 [Type] == "Ancient Orb"# [StashItem] == "true"////
 [Type] == "Mirror Shard"# [StashItem] == "true"////
