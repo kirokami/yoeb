@@ -118,7 +118,7 @@ Show # 通貨 - 頂級 - 魔鏡碎片
     PlayEffect Red
     PlayAlertSound ShExalted 250
 
-Show # 通貨 - 頂級 - 崇高石
+Hide # 通貨 - 頂級 - 崇高石
     Class "Currency"
     BaseType "Exalted Orb"
     SetTextColor 0 0 0
@@ -418,7 +418,7 @@ Hide # 通貨 - 普通 - 重鑄石
     PlayEffect Green
     PlayAlertSound ShChaos 200
 
-Show # 通貨 - 普通 - 瓦爾石
+Hide # 通貨 - 普通 - 瓦爾石
     Class "Currency"
     BaseType "Vaal Orb"
     SetTextColor 0 0 0
