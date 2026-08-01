@@ -40,16 +40,16 @@
 
 
 // Tiers to run (difficult to use since a Map can have multiple tiers)
-[MapTier] >= "8" && [Rarity] == "Rare" # [RunMap] == "true"
-[MapTier] >= "8" && [Rarity] == "Normal" # [RunMap] == "true"
-[MapTier] >= "8" && [Rarity] == "Magic" # [RunMap] == "true"
+[MapTier] >= "16" && [Rarity] == "Rare" # [RunMap] == "true"
+[MapTier] >= "16" && [Rarity] == "Normal" # [RunMap] == "true"
+[MapTier] >= "16" && [Rarity] == "Magic" # [RunMap] == "true"
 //   !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 // 1 Map Types RunMap
 //   !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 
 
-[Type] == "Coves Map" # [RunMap] == "true"
+[Type] == "Cemetery Map" # [RunMap] == "true"
 
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -103,6 +103,9 @@
 //[map_monsters_reflect_%_elemental_damage] 	>= "1" && [Rarity] == "Rare" # [RerollMods] == "true" // Mirrored -- Monsters Reflect % Elemental Damage
 [map_monsters_reflect_%_physical_damage] 	>= "1" && [Rarity] == "Rare" # [RerollMods] == "true" // Punishing -- Monsters Reflect % Physical Damage
 [map_players_no_regeneration_including_es] 	>= "1" && [Rarity] == "Rare" # [RerollMods] == "true" // Of Statis -- Players have no Life or Mana Regeneration
+
+[map_players_cannot_leech] >= "1" && [Rarity] == "Magic" # [RerollMods] == "true" // Of Congealment -- Cannot Leech Life/Mana From Monsters
+[map_players_cannot_leech] >= "1" && [Rarity] == "Rare" # [RerollMods] == "true" // Of Congealment -- Cannot Leech Life/Mana From Monsters
 
 [map_monsters_cannot_be_leeched_from] >= "1" && [Rarity] == "Magic" # [RerollMods] == "true" // Of Congealment -- Cannot Leech Life/Mana From Monsters
 [map_monsters_cannot_be_leeched_from] >= "1" && [Rarity] == "Rare" # [RerollMods] == "true" // Of Congealment -- Cannot Leech Life/Mana From Monsters
@@ -395,11 +398,11 @@
 // [MapTier] >= "1" && [MapTier] < "3" && [Rarity] == "Rare" # [RunMap] == "true"
 
 
-[Type] == "Coves Map" # [ExitAfterBossKill] == "true" //
-[Type] == "Dunes Map" # [ExitAfterBossKill] == "true" //
-[Type] == "Cemetery Map" # [ExitAfterBossKill] == "true" //
-[Type] == "Map" # [ExitAfterBossKill] == "true" //
-[Category] == "Map" #  [ExitAfterBossKill]  == "true"//
+//[Type] == "Coves Map" # [ExitAfterBossKill] == "true" //
+//[Type] == "Dunes Map" # [ExitAfterBossKill] == "true" //
+//[Type] == "Cemetery Map" # [ExitAfterBossKill] == "true" //
+//[Type] == "Map" # [ExitAfterBossKill] == "true" //
+//[Category] == "Map" #  [ExitAfterBossKill]  == "true"//
 
 // 9 -- Post Script
 
