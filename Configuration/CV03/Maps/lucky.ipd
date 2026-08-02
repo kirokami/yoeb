@@ -398,11 +398,11 @@
 // [MapTier] >= "1" && [MapTier] < "3" && [Rarity] == "Rare" # [RunMap] == "true"
 
 
-[Type] == "Beach Map" # [ExitAfterBossKill] == "true" //
+//[Type] == "Beach Map" # [ExitAfterBossKill] == "true" //
 //[Type] == "Dunes Map" # [ExitAfterBossKill] == "true" //
 //[Type] == "Cemetery Map" # [ExitAfterBossKill] == "true" //
-[Type] == "Map" # [ExitAfterBossKill] == "true" //
-[Category] == "Map" #  [ExitAfterBossKill]  == "true"//
+//[Type] == "Map" # [ExitAfterBossKill] == "true" //
+//[Category] == "Map" #  [ExitAfterBossKill]  == "true"//
 
 // 9 -- Post Script
 
