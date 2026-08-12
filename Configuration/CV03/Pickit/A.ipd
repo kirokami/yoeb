@@ -45,8 +45,8 @@
 [Type] == "Screaming Invitation" # [StashItem] == "true"//
 
 //3.29//
-[Type] == "Polaric Invitation" # [StashItem] == "true" //
-[Type] == "Sandy Seabed Chart" # [StashItem] == "true" //
+//[Type] == "Polaric Invitation" # [StashItem] == "true" //
+//[Type] == "Sandy Seabed Chart" # [StashItem] == "true" //
 //[Type] == "Coral Forest Chart" # [StashItem] == "true" //
 //[Type] == "Coral Reef Chart" # [StashItem] == "true" //
 //[Type] == "Thermal Vents Chart" # [StashItem] == "true" //
@@ -157,7 +157,7 @@
 //// Low Price Currency
 
 [Type] == "Orb of Alteration" # [StashItem] == "true"////
-[Type] == "Orb of Regret"# [StashItem] == "true"////
+//[Type] == "Orb of Regret"# [StashItem] == "true"////
 //[Type] == "Orb of Unmaking"# [StashItem] == "true"////
 //[Type] == "Enkindling Orb"# [StashItem] == "true"////
 //[Type] == "Instilling Orb" # [StashItem] == "true" //	//
