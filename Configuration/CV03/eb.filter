@@ -1,4 +1,4 @@
-﻿﻿# Script edited with Filtration - https://github.com/ben-wallis/Filtration
+﻿# Script edited with Filtration - https://github.com/ben-wallis/Filtration
 # EnableBlockGroups
 #
 #============
@@ -29,7 +29,7 @@ Show
 #地圖已汙染
 
 #地圖已汙染
-Hide
+Show
 　　Corrupted True
     Class "Maps"
     MapTier <= 16
@@ -50,7 +50,7 @@ Hide
     SetBorderColor 255 0 0
     SetFontSize 44
 
-Hide # 特殊語法 - 六連裝備
+Show # 特殊語法 - 六連裝備
     LinkedSockets = 6
     SetTextColor 175 96 37
     SetBackgroundColor 255 255 255
@@ -62,7 +62,7 @@ Hide # 特殊語法 - 六連裝備
 
 # 【特殊語法-六洞裝備】0002
 
-Hide # 特殊語法 - 六洞裝備
+Show # 特殊語法 - 六洞裝備
     Sockets = 6
     SetTextColor 0 0 0
     SetBackgroundColor 224 224 224
@@ -429,7 +429,7 @@ Show # 通貨 - 普通 - 瓦爾石
     MinimapIcon 2 Green Diamond
     PlayEffect Green
 
-Hide # 通貨 - 普通 - 製圖丁
+Show # 通貨 - 普通 - 製圖丁
     Class "Currency"
     BaseType "Cartographer's Chisel"
     SetTextColor 0 0 0
@@ -439,8 +439,8 @@ Hide # 通貨 - 普通 - 製圖丁
     PlayAlertSound ShChaos 200
     MinimapIcon 2 Green Diamond
     PlayEffect Green
-	
-Hide # 通貨 - 普通 - 地平石
+
+Show # 通貨 - 普通 - 地平石
     Class "Currency"
     BaseType "Orb of Horizons"
     SetTextColor 0 0 0
@@ -595,7 +595,7 @@ Hide # 通貨 - 初始 - 機會石
     SetFontSize 40
     PlayAlertSound 9 300
 
-Hide # 通貨 - 初始 - 工匠石
+Show # 通貨 - 初始 - 工匠石
     Class "Currency"
     BaseType "Jeweller's Orb"
     SetTextColor 0 0 0
@@ -641,7 +641,7 @@ Hide # 通貨 - 初始 - 滴注石
 
 #【通貨-垃圾】1005
 
-Hidew # 通貨 - 垃圾 - 磨刀石
+Hide # 通貨 - 垃圾 - 磨刀石
     Class "Currency"
     BaseType "Blacksmith's Whetstone"
     SetTextColor 210 150 255
@@ -5394,3 +5394,4 @@ Show # 新物品防漏 - 若遊戲更新添加新物品（新裝備基底除外�
     SetBorderColor 255 255 255
     SetFontSize 40
     PlayAlertSound 15 200
+
