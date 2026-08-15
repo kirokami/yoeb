@@ -1,4 +1,14 @@
+
+
+[Type] == "Vermillion Ring" # [StashItem] == "true" //	//
+
+
+
 //Tier0 Weapon Unique
+
+
+
+
 
 [Type] == "Imperial Skean" && [Rarity] == "Unique" # [UniqueName] == "Divinarius" && [StashItem] == "true"
 [Type] == "Hellion's Paw" && [Rarity] == "Unique" # [UniqueName] == "Bloodseeker" && [StashItem] == "true"
