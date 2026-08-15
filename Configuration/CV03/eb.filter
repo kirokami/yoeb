@@ -5003,8 +5003,20 @@ Hide # 裝備 - 高亮基底 - 飾品 - 戒指 - 碧藍戒指(10%魔力)
     SetTextColor 255 255 0
     SetFontSize 40
 
-Hide # 裝備 - 高亮基底 - 飾品 - 戒指 - 朱紅戒指(7%生命)
+Show # 裝備 - 高亮基底 - 飾品 - 戒指 - 朱紅戒指(7%生命)
     Rarity = Rare
+    Class "Rings"
+    BaseType "Vermillion Ring"
+    SetTextColor 255 255 0
+    SetFontSize 40
+Show # 裝備 - 高亮基底 - 飾品 - 戒指 - 朱紅戒指(7%生命)
+    Rarity = Normal
+    Class "Rings"
+    BaseType "Vermillion Ring"
+    SetTextColor 255 255 0
+    SetFontSize 40
+Show # 裝備 - 高亮基底 - 飾品 - 戒指 - 朱紅戒指(7%生命)
+    Rarity = Magic
     Class "Rings"
     BaseType "Vermillion Ring"
     SetTextColor 255 255 0
@@ -5394,4 +5406,3 @@ Show # 新物品防漏 - 若遊戲更新添加新物品（新裝備基底除外�
     SetBorderColor 255 255 255
     SetFontSize 40
     PlayAlertSound 15 200
-
