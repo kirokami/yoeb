@@ -71,9 +71,9 @@
 
 ////////////////////////////////ForceSell/////////////////////////////////
 
-[Type] == "Map (Tier 16)" && [map_zana_influence] >= "1" # [StashItem] =="true" 
-[Type] == "Map (Tier 16)" && [map_contains_citadel]>="1"# [StashItem] =="true" 
-[Type] == "Map (Tier 16)" && [map_elder_boss_variation]>="1"# [StashItem] =="true" 
+//[Type] == "Map (Tier 16)" && [map_zana_influence] >= "1" # [StashItem] =="true" 
+//[Type] == "Map (Tier 16)" && [map_contains_citadel]>="1"# [StashItem] =="true" 
+//[Type] == "Map (Tier 16)" && [map_elder_boss_variation]>="1"# [StashItem] =="true" 
 
 //Specil Map//
 [Type] == "Synthesised Map" # [StashItem] == "true" 
@@ -86,7 +86,7 @@
 
 
 //3.29//
-[Type] == "Society's Remorse" # [StashItem] == "true" // 
+//[Type] == "Society's Remorse" # [StashItem] == "true" // 
 [Type] == "Scrying Orb" # [StashItem] == "true" //
 [Type] == "Pearls Before Swine" # [StashItem] == "true" //
 [Type] == "Energy Sword" # [StashItem] == "true" //
@@ -148,15 +148,15 @@
 
 //：2022/9/7
 
-[Type]=="Tainted Chromatic Orb" # [StashItem] == "true"
-[Type]=="Tainted Orb of Fusing" # [StashItem] == "true"
-[Type]=="Tainted Jeweller's Orb" # [StashItem] == "true"
-[Type]=="Tainted Chaos Orb" # [StashItem] == "true"
-[Type]=="Tainted Exalted Orb" # [StashItem] == "true"
-[Type]=="Tainted Mythic Orb" # [StashItem] == "true"
-[Type]=="Tainted Armourer's Scrap" # [StashItem] == "true"
-[Type]=="Tainted Blacksmith's Whetstone" # [StashItem] == "true"
-[Type]=="Tainted Divine Teardrop" # [StashItem] == "true"
+//[Type]=="Tainted Chromatic Orb" # [StashItem] == "true"
+//[Type]=="Tainted Orb of Fusing" # [StashItem] == "true"
+//[Type]=="Tainted Jeweller's Orb" # [StashItem] == "true"
+//[Type]=="Tainted Chaos Orb" # [StashItem] == "true"
+//[Type]=="Tainted Exalted Orb" # [StashItem] == "true"
+//[Type]=="Tainted Mythic Orb" # [StashItem] == "true"
+//[Type]=="Tainted Armourer's Scrap" # [StashItem] == "true"
+//[Type]=="Tainted Blacksmith's Whetstone" # [StashItem] == "true"
+//[Type]=="Tainted Divine Teardrop" # [StashItem] == "true"
 
 //[Type] == "Rogue's Marker" # [StashItem] == "true"
 
@@ -166,7 +166,7 @@
 
 //// Low Price Currency
 
-[Type] == "Orb of Alteration" # [StashItem] == "true"////
+//[Type] == "Orb of Alteration" # [StashItem] == "true"////
 //[Type] == "Orb of Regret"# [StashItem] == "true"////
 //[Type] == "Orb of Unmaking"# [StashItem] == "true"////
 //[Type] == "Enkindling Orb"# [StashItem] == "true"////
