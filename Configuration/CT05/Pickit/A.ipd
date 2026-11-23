@@ -1,7 +1,10 @@
-//[Type] == "Scrying Orb" # [StashItem] == "true" //
+[Type] == "Scrying Orb" # [StashItem] == "true" //
 
 [Type] == "Portal"# [StashItem] == "true" //
-
+[Type] == "Simplex Amulet" # [StashItem] == "true"
+[Type] == "Focused Amulet" # [StashItem] == "true"
+[Type] == "Manifold Ring" # [StashItem] == "true"
+[Type] == "Helical Ring" # [StashItem] == "true"
 //3.30 Thread//
 [Type] == "Frayed Thread" # [StashItem] == "true" //
 [Type] == "Abyss Thread" # [StashItem] == "true" //
@@ -64,7 +67,7 @@
 [Type] == "Screaming Invitation" # [StashItem] == "true"//
 
 //3.29//
-//[Type] == "Polaric Invitation" # [StashItem] == "true" //
+[Type] == "Polaric Invitation" # [StashItem] == "true" //
 [Type] == "Sandy Seabed Chart" # [StashItem] == "true" //
 [Type] == "Coral Forest Chart" # [StashItem] == "true" //
 [Type] == "Coral Reef Chart" # [StashItem] == "true" //
@@ -177,7 +180,7 @@
 
 [Type] == "Orb of Alteration" # [StashItem] == "true"////
 [Type] == "Orb of Regret"# [StashItem] == "true"////
-[Type] == "Orb of Unmaking"# [StashItem] == "true"////
+//[Type] == "Orb of Unmaking"# [StashItem] == "true"////
 //[Type] == "Enkindling Orb"# [StashItem] == "true"////
 //[Type] == "Instilling Orb" # [StashItem] == "true" //	//
 [Type] == "Orb of Scouring"# [StashItem] == "true"////
@@ -212,7 +215,11 @@
 [Type] == "Orb of Annulment"# [StashItem] == "true"////
 [Type] == "Gemcutter's Prism"# [StashItem] == "true"////
 [Type] == "Hinekora's Lock" # [StashItem] == "true" //	//
+[Type] == "Stacked Deck" # [StashItem] == "true" //	//
 
+[Type] == "Eldritch Chaos Orb"# [StashItem] == "true"////
+[Type] == "Eldritch Chaos Orb" # [StashItem] == "true" //	//
+[Type] == "Eldritch Exalted Orb" # [StashItem] == "true" //	//
 
 //Woo Jun 5 kings
 //[Type] == "Timeless Eternal Empire Splinter" # [StashItem] == "true"////

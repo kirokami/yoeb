@@ -47,7 +47,9 @@
 // 1 Map Types RunMap
 //   !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-
+[Type] == "Toxic Sewer Map" # [ExitAfterBossKill] == "true" //
+[Type] == "Map" # [ExitAfterBossKill] == "true" //
+[Category] == "Map" #  [ExitAfterBossKill]  == "true"//
 
 [Type] == "Cemetery Map" # [RunMap] == "true"
 
@@ -410,3 +412,5 @@
 // Priority list of actions is: [UpgradeMapTier](3) >> [IgnoreMap] >> [UpgradeToRare] >> [UpgradeToMagic] >> [RunMap]
 
 // If you enabled UpgradeMapTier and RunMap simultaneously for a Map,
+[Type] == "City Square Map" # [ExitAfterBossKill] == "true" //
+
